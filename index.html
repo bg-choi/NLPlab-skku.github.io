@@ -2,9 +2,29 @@
 layout: default
 title: Long Haul
 ---
+  <!-- bxslider-->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+	<script>
+		  $(document).ready(function(){
+				    $('.slider').bxSlider();
+		  });
+	</script>
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+  
+  
+  <h1 class="pageTitle">Photo News</h1>
+  <div id="post-info">
+    <div class="slider"> 
+	    <div><img src="/images/recruit1.png" /></div> 
+	    <div><img src="/images/recruit1.png" /></div> 
+	  </div>
+  </div>
+  
+  
+  <h1 class="pageTitle">Site Map</h1>
   <ul class="posts noList">
     
     <li>

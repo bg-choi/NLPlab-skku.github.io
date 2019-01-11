@@ -71,29 +71,26 @@ title: Long Haul
 </html>
 -->
 
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<html>
+<head>
 
-	
-{% include head.html %}
-	
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
+  <script>
+    $(document).ready(function(){
+      $('.slider').bxSlider();
+    });
+  </script>
+
+</head>
 <body>
 
-   {% include header.html %}
-
-   <div class="content">
-      <div class="container">
-         {{ content }}
-      </div>
-   </div><!-- end .content -->
-
-   {% include footer.html %}
-   {% include scripts.html %}
+  <div class="slider">
+    <div>I am a slide.</div>
+    <div>I am another slide.</div>
+  </div>
 
 </body>
-
 </html>

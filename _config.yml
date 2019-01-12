@@ -15,7 +15,7 @@ navigation:
  - title: Home
    url: /index.html
  - title: About us
-   url: /about
+   url: /AboutUs/introduction/
  - title: Publications
    url: /about
  - title: Members

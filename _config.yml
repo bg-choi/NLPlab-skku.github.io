@@ -19,7 +19,7 @@ navigation:
  - title: Contact
    url: /contact
  - title: Board
-   url: /_Board/2014-12-10-temp.markdown
+   url: /Board/2014-12-10-temp.markdown
 
 social:
    github: brianmaierjr

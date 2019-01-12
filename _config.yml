@@ -14,12 +14,18 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: About us
    url: /about
- - title: Contact
-   url: /contact
- - title: Board
-   url: /board/research/
+ - title: Publications
+   url: /about
+ - title: Members
+   url: /about
+ - title: Boards
+   url: /about
+ - title: Courses
+   url: /about
+ - title: Software
+   url: /about
 
 social:
    github: brianmaierjr

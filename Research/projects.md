@@ -21,13 +21,30 @@ title: projects
   <h1 class="pageTitle">Projects</h1>	
   <p class="meta">프로젝트</p>
 </div>
-  <h2>1. 자연어 처리 기반 기술</h2>
-  <p> 자연어 이해 그룹에서는 자연어 문장의 구조를 인식하고 이를 의미구조로 변환해 주는 자연어 이해 시스템을 개발하는 것을 목표로 하고 있다. 현재 다음과 같은 언어 처리 모델들이 자연어처리에 필요한 기반 기술들이다.</p>
   <ul>
 	<li>
 		<small>May 2018 ~ November 2018</small><br>
-		 Co-Principal Investigator (Co-PI) involved in"전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발 (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)."<br>
+		 <font color = "seagreen">Co-Principal Investigator (Co-PI) involved in"전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발 (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)."</font><br>
 		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<li>
+		<small>May 2018 ~ October 2018 </small><br>
+		 Co-Principal Investigator (Co-PI) involved in"이슈 중심의 다중 뉴스 문서 군집화 및 요약 기술 연구 개발(Development of   the Clustering and Summarization Technique for News Multi-Documents by Focusing on Issues)." <br>
+		<small>Supported by 한국과학기술정보연구원 (KISTI) .</small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<li>
+		<small>November 2015 ~ October 2018 </small><br>
+		Co-Principal Investigator (Co-PI) involved in"유사도 측정 기법을 이용한 FAQ 시스템 개발 (Development of a FAQ System Using Similarity Measure Methods)." <br>
+		<small>Supported by 현대자동차 (Hyundai Motors, Co.). </small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<li>
+		<small>November 2015 ~ October 2018 </small><br>
+		Co-Principal Investigator (Co-PI) involved in"유사도 측정 기법을 이용한 FAQ 시스템 개발 (Development of a FAQ System Using Similarity Measure Methods)." <br>
+		<small>Supported by 현대자동차 (Hyundai Motors, Co.). </small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	
   </ul>

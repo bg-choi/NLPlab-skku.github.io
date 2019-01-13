@@ -34,5 +34,5 @@ title: fields
   </ul>
   <p>이들 자연어의 처리의 기반 기술은 <h5 color="seagreen">정보검색</h5>이나 <h5 color="seagreen">데이터 마이닝</h5> 등 여러 응용시스템에서 매우 유용하게 사용될 수 있다.</p>
   <p>아래의 예시는 본 연구실이 소장하고 있는 언어분석기(DANCHU)의 전체 구성도이다.</p>
-  
+  <img src="/assets/img/research/danchu_system.png">
   

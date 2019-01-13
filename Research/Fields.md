@@ -32,7 +32,7 @@ title: fields
       <li>대용어처리 (Anaphora Analysis) 모델</li>
       <li>단어 의미 중의성 (Word Sense Disambiguation) 해소 모델</li>
   </ul>
-  <p>이들 자연어의 처리의 기반 기술은 <font color="seagreen" weight= "bold">정보검색</font>이나 <font color="seagreen">데이터 마이닝</font> 등 여러 응용시스템에서 매우 유용하게 사용될 수 있다.</p>
+  <p>이들 자연어의 처리의 기반 기술은 <font color="seagreen" weight= "bold">정보검색</font>이나 <b color="seagreen">데이터 마이닝</b> 등 여러 응용시스템에서 매우 유용하게 사용될 수 있다.</p>
   <p>아래의 예시는 본 연구실이 소장하고 있는 언어분석기(DANCHU)의 전체 구성도이다.</p>
   <img src="/assets/img/research/danchu_system.png">
 	

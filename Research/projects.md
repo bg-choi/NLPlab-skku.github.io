@@ -147,7 +147,7 @@ title: projects
 	</li>
 	<br>
 	<li>
-		<smallMay 2009 ~ April 2011. </small><br>
+		<small>May 2009 ~ April 2011. </small><br>
 		Principal Investigator (PI) involved in "비교문장 추출과 비교관계 분석을 통한 비교마이닝 시스템에 대한 연구 (A Study of a Comparison Mining System Using Comparative Sentence Extraction and Comparative Relation Analysis)" <br>
 		<small>Supported by 신진연구 지원사업, 한국연구재단 (National Research Foundation of Korea) </small>
 		<small>(IS lab. Dong-A University)</small>

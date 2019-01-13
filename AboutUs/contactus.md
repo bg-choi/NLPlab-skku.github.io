@@ -6,13 +6,13 @@ title: contact
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Aboutus">Introduction </a>
+                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/introduction/">Introduction </a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Aboutus">Photos</a>
+                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Photos</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Aboutus">Contact us</a>
+                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/contactus/">Contact us</a>
             </li>
           </ul>
   </div>

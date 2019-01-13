@@ -2,8 +2,8 @@
 layout: default
 title: projects
 ---
-<h4>Research</h4>
- <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;text-align:right;">
+ <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;float:left;">
+	<h4>Research</h4>
           <ul class="posts-list">
             <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/Research/Fields/">Fields</a>

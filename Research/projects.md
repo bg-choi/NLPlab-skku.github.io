@@ -2,7 +2,7 @@
 layout: default
 title: projects
 ---
- <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:left">
+ <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right">
 	<h4>Research</h4>
           <ul class="posts-list">
             <li class="post-link">

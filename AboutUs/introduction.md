@@ -2,7 +2,7 @@
 layout: default
 title: introduction
 ---
- <h3>About us</h3>
+ <p>About us</p>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">

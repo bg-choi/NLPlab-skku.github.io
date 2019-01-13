@@ -82,7 +82,7 @@ title: fields
  <p>기계 학습은 인공 지능의 한 분야로, 컴퓨터가 학습할 수 있도록 하는 알고리즘과 기술을 개발하는 분야를 말한다.
   Deep Learning은 데이터를 군집화하거나 분류하는 데 사용되는 추상화를 시도하는 기계학습 방법으로 인공신경망의 한계를 극복하기 위해 제안되었다.
   Topic Modeling은 대량의 텍스트에서 발생하는 추상적인 주제를 찾기 위한 통계 기반 기계학습 방법으로 여러 의미를 가진 단어의 사용을 구분할 수 있다.</p>
-  <img src="/assets/img/research/deep.jpg">
+  <img src="/assets/img/research/topic.jpg">
   <ul>
 	<li>Deep Learning</li>
   	<li>Topic Modeling</li>

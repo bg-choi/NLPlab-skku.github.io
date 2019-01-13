@@ -24,7 +24,7 @@ title: projects
   <ul>
 	<li>
 		<small>May 2018 ~ November 2018</small><br>
-		 <font color = "#000087">Co-Principal Investigator (Co-PI) involved in"전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발 (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)."</font><br>
+		 <font color = "#000063">Co-Principal Investigator (Co-PI) involved in"전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발 (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)."</font><br>
 		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>

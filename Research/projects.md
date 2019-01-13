@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fields
+title: Projects
 ---
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;text-align:right;">

@@ -35,17 +35,44 @@ title: projects
 		<small>Supported by 한국과학기술정보연구원 (KISTI) .</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<br>
 	<li>
 		<small>November 2015 ~ October 2018 </small><br>
 		Co-Principal Investigator (Co-PI) involved in"유사도 측정 기법을 이용한 FAQ 시스템 개발 (Development of a FAQ System Using Similarity Measure Methods)." <br>
 		<small>Supported by 현대자동차 (Hyundai Motors, Co.). </small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<br>
 	<li>
 		<small>November 2015 ~ October 2018 </small><br>
-		Co-Principal Investigator (Co-PI) involved in"유사도 측정 기법을 이용한 FAQ 시스템 개발 (Development of a FAQ System Using Similarity Measure Methods)." <br>
-		<small>Supported by 현대자동차 (Hyundai Motors, Co.). </small><br>
+		Principal Investigator (PI) involved in "딥러닝 기술을 이용한 커뮤니티 질문-응답 서비스 기반의 질문 분류, 검색 및 응답 추천 시스템 구축 (Development of Query Classification, Retrieval and Answer Recommendation Systems for the cQA Service Using Deep Learning Techniques)"<br>
+		<small>Supported by 기본연구지원사업, 한국연구재단 (National Research Foundation of Korea (NRF)) </small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<br>
+	<li>
+		<small>April 2017 ~ December 2019 </small><br>
+		Co-Principal Investigator (Co-PI) involved in"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발.   (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)." <br>
+		<small>Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning) . </small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<br>
+	<li>
+		<small>May 2016 ~ April 2020 </small><br>
+		Co-Principal Investigator (Co-PI) involved in"실내용 음성대화 로봇을 위한 원거리 음성인식 기술 및 멀티 태스크 대화처리 기술 개발 (Development of Distant Speech Recognition and Multi-Task Dialog Processing Technologies for In-Door Conversational Robots)." <br>
+		<small>Supported by 로봇산업융합핵심기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning) .</small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<br>
+	<li>
+		<small>June 2017 ~ November 2017. </small><br>
+		Principal Investigator (PI) involved in"전문분야 문답담화 분석을 위한 구어체 질문의 화행분류 연구 (Speech-act analysis of colloquial questions for the discourse analysis of question-answers in specialized field). "<br>
+		<small>Supported by ExoBrain Project, 한국전자통신연구소 (ETRI) . </small>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<br>
+	
+	
+	
 	
   </ul>

@@ -35,4 +35,12 @@ title: fields
   <p>이들 자연어의 처리의 기반 기술은 <font color="seagreen" weight= "bold">정보검색</font>이나 <font color="seagreen">데이터 마이닝</font> 등 여러 응용시스템에서 매우 유용하게 사용될 수 있다.</p>
   <p>아래의 예시는 본 연구실이 소장하고 있는 언어분석기(DANCHU)의 전체 구성도이다.</p>
   <img src="/assets/img/research/danchu_system.png">
+	
+   <h2>1. 자연어 처리 기반 기술</h2>
+   <p> 자연어 이해 그룹에서는 자연어 문장의 구조를 인식하고 이를 의미구조로 변환해 주는 자연어 이해 시스템을 개발하는 것을 목표로 하고 있다. 현재 다음과 같은 언어 처리 모델들이 자연어처리에 필요한 기반 기술들이다.</p>
+  <p>이들 자연어의 처리의 기반 기술은 <font color="seagreen" font-weight= "bold">정보검색</font>이나 <font color="seagreen">데이터 마이닝</font> 등 여러 응용시스템에서 매우 유용하게 사용될 수 있다.</p>
+  <p>아래의 예시는 본 연구실이 소장하고 있는 언어분석기(DANCHU)의 전체 구성도이다.</p>
+  <img src="/assets/img/research/danchu_system.png">
+	
+
   

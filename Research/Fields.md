@@ -54,4 +54,37 @@ title: fields
 <img src="/assets/img/research/Dialogue_System.png">
 <br>
 
+
+   <h2>3. 감정 분류 (Sentiment Classification)</h2>
+   <p>웹에 있는 대용량의 텍스트 정보 중 감정을 가지는 문장을 자동 추출하고 추출된 문장의 주제에 대한 감정(긍정/부정)을 알려주는 것이 목적이다.</p>
+   <img src="/assets/img/research/SentimentClassification.jpg">
+   
+   <h2>4. 지능형 정보 검색 (Information Retrieval) 및 텍스트 마이닝 (Text Mining)</h2>
+   <p>지능형 정보검색 및 텍스트 마이닝은 텍스트로 저장된 방대한 양의 데이터로부터 사용자가 정확한 정보를 <font color="seagreen" font-weight= "bold">효율적으로</font> 얻어낼 수 있도록 하는 정보시스템의 개발에 있다. 현재 연구하고 있는 내용들은 다음과 같다.</p>
+  <ul>
+	<li>지능형 정보 검색 (Intelligent Information Retrieval) 모델</li>
+  	<li>문서 분류 (Text Classification) 모델</li>
+	<li>문서 요약 (Text Summarization) 모델</li>
+	<li>질의 응답 (Question/Answering) 시스템</li>
+  </ul>
+  <br>
   
+  <h2>5. 비교 마이닝 (Comparison Mining) 시스템</h2>
+  <p>웹에 있는 대용량의 텍스트 정보 중 비교 정보만을 자동 추출 및 분석하여 사용자에게 리포트를 제시한다. 예를 들어 아이폰4와 갤럭시S에 대한 비교 정보를 알고 싶을 때, 현재 검색사이트에서 는 두 제품과 관련된 문서들을 검색하여 순위대로 보여주지만, 비교마이닝 시스템은 각 문서들 내부의 내용까지 자동 분석하여 리포팅함을 목적으로 한다.</p>
+ <img src="/assets/img/research/ComparisonMining.jpg">
+ <br>
+ 
+ <h2>6. 인공 신경망 기계 번역 (Neural Machine Translation) 시스템</h2>
+ <p>NMT은 인공 신경망 기계번역을 뜻한다. 기존 SMT의 부족한 점을 보완한 번역 기술로써, 문장의 전체 맥락을 더 잘 이해하며 학습을 하여 사람처럼 자연스러운 번역 결과를 만들 수 있다.</p>
+ <img src="/assets/img/research/NMT.png">
+ <br>
+ <h2>7. 기계 학습(Machine Learning)</h2>
+ <p>기계 학습은 인공 지능의 한 분야로, 컴퓨터가 학습할 수 있도록 하는 알고리즘과 기술을 개발하는 분야를 말한다.
+  Deep Learning은 데이터를 군집화하거나 분류하는 데 사용되는 추상화를 시도하는 기계학습 방법으로 인공신경망의 한계를 극복하기 위해 제안되었다.
+  Topic Modeling은 대량의 텍스트에서 발생하는 추상적인 주제를 찾기 위한 통계 기반 기계학습 방법으로 여러 의미를 가진 단어의 사용을 구분할 수 있다.</p>
+  <img src="/assets/img/research/deep.jpg">
+  <ul>
+	<li>Deep Learning</li>
+  	<li>Topic Modeling</li>
+  </ul>
+  <br> 

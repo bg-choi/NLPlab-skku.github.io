@@ -152,5 +152,4 @@ title: projects
 		<small>Supported by 신진연구 지원사업, 한국연구재단 (National Research Foundation of Korea) </small>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
-	
   </ul>

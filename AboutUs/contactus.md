@@ -22,3 +22,5 @@ title: contact
   <p class="intro"><span class="dropcap">부</span>
 	<p class="intro">산광역시 사하구 하단2동 동아대학교 산학협력관 RS631 </p>
   <p>지능형 시스템 실험실 Tel) 051-200-5596 </p>
+<img src="/assets/img/rs631.PNG">
+

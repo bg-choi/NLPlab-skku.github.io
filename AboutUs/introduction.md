@@ -15,6 +15,14 @@ title: introduction
             </li>
           </ul>
   </div>
+ 
+<table border="0">
+		<tr>
+			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/dd"><strong>&nbsp;dd &nbsp;</strong></a></td>
+			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/keke"><strong>&nbsp;Projects &nbsp;</strong></a></td>
+			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/Patents"><strong>&nbsp;Patents &nbsp;</strong></a></td>
+		</tr>
+	</table>
 
 <p class="meta">소개</p>
 <div class="post">

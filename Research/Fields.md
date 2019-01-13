@@ -5,8 +5,7 @@ title: fields
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
-            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Research/fields/">Fields </a>
+            <li>Fields(here)
             </li>
             <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/Research/projects/">Projects</a>

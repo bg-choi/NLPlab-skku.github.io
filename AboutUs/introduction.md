@@ -2,7 +2,7 @@
 layout: default
 title: introduction
 ---
- <div class="posts" style = "background-color:#ffffff;border-radius:0 15px">
+ <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/Aboutus">Introduction </a>
@@ -15,14 +15,7 @@ title: introduction
             </li>
           </ul>
   </div>
- 
-<table border="0">
-		<tr>
-			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/dd"><strong>&nbsp;dd &nbsp;</strong></a></td>
-			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/keke"><strong>&nbsp;Projects &nbsp;</strong></a></td>
-			<td class = "rightline"><a class="post-title" href = "https://youngjoongko.github.io/Patents"><strong>&nbsp;Patents &nbsp;</strong></a></td>
-		</tr>
-	</table>
+
 
 <p class="meta">소개</p>
 <div class="post">
@@ -31,4 +24,3 @@ title: introduction
   <br>
 	<p>본 연구실은 형태소 분석, 의존파서, 띄어쓰기, 개체명 인식 등과 같은 자연어 처리 기반 시스템을 비롯하여, 문서 분류, 문장 분류, 감정 분류, 비교 문장 분석, 정보 검색, 대화 시스템 등과 같은 자연어 처리 응용 시스템까지 다양한 분야의 연구를 진행 중입니다.
   <p>동아대학교 지능형 시스템 실험실은 교수님과 연구원이 함께 목표를 바라보며 계속 노력해 나갈 것입니다. </p>
-	</div>

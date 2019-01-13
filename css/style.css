@@ -1159,3 +1159,11 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0; } }
+
+
+/*Added*/
+.meta {
+  text-align: center;
+  color: gray;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300; }

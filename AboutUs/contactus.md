@@ -11,8 +11,7 @@ title: contact
             <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Photos</a>
             </li>
-            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/contactus/">Contact us</a>
+            <li>Contact us(here)
             </li>
           </ul>
   </div>

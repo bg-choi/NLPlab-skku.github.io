@@ -31,10 +31,13 @@ title: journalpapers
  
  <a name="1"><font style = "color:#0000A5;">#2018</font></a>
    <ul>
-		    <li>Kyoungman Bae and Youngjoong Ko. 
-						<br>&quot;Speech-Act Classification Using Convolution Neural Networks and Word Embedding.&quot;
-						<br>International Journal on Artificial Intelligence Tools, July 2018.
-						<br>(<font color="red">SCIE</font>, ISSN 0218-2130)</li>
- </ul>
+	<li><small>Kyoungman Bae and Youngjoong Ko.</small> 
+	<br>&quot;Speech-Act Classification Using Convolution Neural Networks and Word Embedding.&quot;
+	<br><small>International Journal on Artificial Intelligence Tools, July 2018.</small>
+	<br><small>(<font color="red">SCIE</font>, ISSN 0218-2130)<small></li>
+		
+	<li>dfad<li>
+	
+  </ul>
  
 </div>

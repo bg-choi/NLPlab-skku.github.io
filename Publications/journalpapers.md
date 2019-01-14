@@ -28,9 +28,9 @@ title: journalpapers
 		<a href="#16"> 2002 </a>|<a href="#17"> 2000 </a></div>
 	
 </div>
-	<br>
-	<a name="1"><font style = "color:#0000A5;">#2018</font></a>
-	<ul>
+<br>
+<a name="1"><font style = "color:#0000A5;">#2018</font></a>
+<ul>
 		                <li>Kyoungman Bae and Youngjoong Ko. 
 					<br>&nbsp;&nbsp;&nbsp;&quot;Speech-Act Classification Using Convolution Neural Networks and Word Embedding.&quot;
 					<br>&nbsp;&nbsp;&nbsp; International Journal on Artificial Intelligence Tools, July 2018.
@@ -69,5 +69,5 @@ title: journalpapers
 					<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers (KIISE), 2018. 
 					<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X) (accepted)
 				</li><br>           
-	</ul>
+</ul>
 

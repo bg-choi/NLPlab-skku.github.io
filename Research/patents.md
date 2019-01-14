@@ -9,7 +9,7 @@ title: patents
                 <a class="post-title" href="https://youngjoongko.github.io/Research/fields/">Fields</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Research/patents/">Projects</a>
+                <a class="post-title" href="https://youngjoongko.github.io/Research/projects/">Projects</a>
             </li>
             <li>Patents(here)
             </li>

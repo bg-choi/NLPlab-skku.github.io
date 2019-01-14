@@ -19,25 +19,59 @@ title: journalpapers
 
 
 <div class="post">
-  <h1 class="pageTitle">Journal Papers</h1>	
-  <p class="meta">저널 논문</p>
- <div class="linklink" style = "text-align:center;">
-    <a href="#1"> 2018 </a>|<a href="#2"> 2017 </a>|<a href="#3"> 2016 </a>|<a href="#4"> 2015 </a>|<a href="#5"> 2014 </a>|
-    <a href="#6"> 2013 </a>|<a href="#7"> 2012 </a>|<a href="#8"> 2011 </a>|<a href="#9"> 2010 </a>|<a href="#10"> 2009 </a>|
-    <a href="#11"> 2008 </a>|<a href="#12"> 2007 </a>|<a href="#13"> 2006 </a>|<a href="#14"> 2005</a>|<a href="#15"> 2003 </a>|
-    <a href="#16"> 2002 </a>|<a href="#17"> 2000 </a> </div>
- 
-   <br>
- 
- <a name="1"><font style = "color:#0000A5;">#2018</font></a>
-   <ul>
-	<li>
-		<small>Kyoungman Bae and Youngjoong Ko.</small> 
-		<br>&quot;Speech-Act Classification Using Convolution Neural Networks and Word Embedding.&quot;
-		<br><small>International Journal on Artificial Intelligence Tools, July 2018.</small>
-		<br><small>(<font color="red">SCIE</font>, ISSN 0218-2130)<small>
-	</li>
-		
-	<li>
+	<h1 class="pageTitle">Journal Papers</h1>	
+	<p class="meta">저널 논문</p>
+	<div class="linklink" style = "text-align:center;">
+		<a href="#1"> 2018 </a>|<a href="#2"> 2017 </a>|<a href="#3"> 2016 </a>|<a href="#4"> 2015 </a>|<a href="#5"> 2014 </a>
+		<a href="#6"> 2013 </a>|<a href="#7"> 2012 </a>|<a href="#8"> 2011 </a>|<a href="#9"> 2010 </a>|<a href="#10"> 2009 </a>|
+		<a href="#11"> 2008 </a>|<a href="#12"> 2007 </a>|<a href="#13"> 2006 </a>|<a href="#14"> 2005</a>|<a href="#15"> 2003 </a>|
+		<a href="#16"> 2002 </a>|<a href="#17"> 2000 </a>
+	</div>
+	<br>
+	<a name="1"><font style = "color:#0000A5;">#2018</font></a>
+	<ul>
+		                <li><FONT size=2>Kyoungman Bae and Youngjoong Ko. 
+						<br>&nbsp;&nbsp;&nbsp;&quot;Speech-Act Classification Using Convolution Neural Networks and Word Embedding.&quot;
+						<br>&nbsp;&nbsp;&nbsp; International Journal on Artificial Intelligence Tools, July 2018.
+						<br>&nbsp;&nbsp;&nbsp;(</FONT><font size="2" color="red">SCIE</font><FONT size=2>, ISSN 0218-2130)</Font>
+		</li>
+		<li><FONT size=2>Hyoungil Jeong, Youngjoong Ko and Jungyun Seo. 
+						<br>&nbsp;&nbsp;&nbsp;&quot;Statistical Text Summarization Using a Category-based Language Model on a Bootstrapping Framework.
+						<br>&nbsp;&nbsp;&nbsp; International Journal on Artificial Intelligence Tools, May 2018.
+						<br>&nbsp;&nbsp;&nbsp;(</FONT><font size="2" color="red">SCIE</font><FONT size=2>, ISSN 0218-2130)<FONT> 
+		</li>
+		<li><FONT size=2>Changsu Lee and Youngjoong Ko.
+						<br>&nbsp;&nbsp;&nbsp;&quot;Spoken Language Understanding with a Novel Simultaneous Recognition Technique  &nbsp;&nbsp;&nbsp;for the Intelligent Personal Assistant Software.&quot;
+						<br>&nbsp;&nbsp;&nbsp; International Journal on Artificial Intelligence Tools, May 2018.
+						<br>&nbsp;&nbsp;&nbsp;(</FONT><font size="2" color="red">SCIE</font><FONT size=2>, ISSN 0218-2130) <FONT>
+		</li>
+		<li>  <FONT size=2>윤정민, 고영중
+						<br>&nbsp;&nbsp;&nbsp;&quot;노출 현황 문제에 효과적인 대화 단위 RNN-CNN 기반의 화행 분석 시스템"
+						<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-630X)</span></li>  				
+		               <FONT size=2>Jungmin Yoon and Youngjoong Ko.
+						<br>&nbsp;&nbsp;&nbsp;&quot;Speech-act Analysis System Based on Dialogue Level RNN-CNN Effective on the Exposure Bias problem.&quot;
+						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers,  2018. 
+						<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X)
+		</li>
+		<li>  <FONT size=2>안재현, 고영중
+						<br>&nbsp;&nbsp;&nbsp;&quot;의존 관계명 태그 분포를 이용한 한국어 의존 구문 분석"
+						<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-2383-6318)</span></li>  				
+		               <FONT size=2>Jaehyun An and Youngjoong Ko.
+						<br>&nbsp;&nbsp;&nbsp;&quot;Korean Dependency Parser Using Dependency Relation Tag Distribution.&quot;
+						<br>&nbsp;&nbsp;&nbsp;Journal of KIISE Transactions on Computing Practices,  2018.
+						<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-6318)<FONT>
+		</li>
+		<li>  <FONT size=2>정유진, 김주애, 고영중, 서정연
+						<br>&nbsp;&nbsp;&nbsp;&quot;배깅 기반의 부트스트래핑을 이용한 개체명 인식 학습 기법"
+						<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE), 2018.  (ISSN 2383-630X) (accepted)<FONT></li>  				
+		               <FONT size=2>Yoojin Jeong, Juae Kim, Youngjoong Ko and Jungyun Seo. 
+						<br>&nbsp;&nbsp;&nbsp;&quot;A Named Entity Recognition Training Method Using Bagging Based Bootstrapping.&quot;
+						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers (KIISE),
+						<br>&nbsp;&nbsp;&nbsp;  2018. 
+						<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X) (accepted)<FONT>
+			</li>             
+	</ul>
+
+
  
 </div>

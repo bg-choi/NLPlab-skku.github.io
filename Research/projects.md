@@ -6,7 +6,7 @@ title: projects
 	<h4>Research</h4>
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Research/Fields/">Fields</a>
+                <a class="post-title" href="https://youngjoongko.github.io/Research/fields/">Fields</a>
             </li>
             <li>Projects(here)
             </li>

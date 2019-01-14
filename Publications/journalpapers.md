@@ -28,9 +28,8 @@ title: journalpapers
     <a href="#16"> 2002 </a>|<a href="#17"> 2000 </a>
   </div>
    <br>
- </div>
  
 <a name="1"><font style = "color:#0000A5;">#2018</font></a>
 
-
+</div>
 

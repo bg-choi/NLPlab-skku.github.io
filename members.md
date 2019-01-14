@@ -12,9 +12,9 @@ title: members
 
 <div class="post">
 	<a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
-	<table>
+	<table border = "0">
 		<tr>
-			<td class="portcol"><image src="/assets/img/members/yjko.jpg"></image></td>
+			<td class="portcol"><image src="/assets/img/members/yjko.jpg" width = "100px" height = "150px"></image></td>
 			<td class="informColumn">
 				<li>성  명 : 고 영 중</li>
 				<li>소  속 : 동아대학교 공과대학 컴퓨터 전공</li>

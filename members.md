@@ -12,7 +12,7 @@ title: members
   <h1 class="pageTitle">Members</h1>	
   <p class="meta">멤버</p>
 
-<h5><a name="1"><지도교수></a></h5>
+<a name="1"><h5> <지도교수> </h5></a>
 <table>
 		<tr>
 			<td class="portcol"><image src="members/images/yjko.jpg"></image></td>

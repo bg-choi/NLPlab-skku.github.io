@@ -8,9 +8,6 @@ title: members
 	<div class="linklink" style = "text-align:center;">
 		<a href="#1">&nbsp;지도교수&nbsp;</a>|<a href="#2">&nbsp;연구원&nbsp;</a>|<a href="#3">&nbsp;석사과정&nbsp;</a>|<a href="#4">&nbsp;학부과정&nbsp;</a>|<a href="#5">&nbsp;석사졸업생&nbsp;</a></div>
 	<br>
-</div>
-
-<div class="post">
 	<a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
 	<table>
 		<tr>

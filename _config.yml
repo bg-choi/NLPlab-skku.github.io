@@ -16,6 +16,8 @@ navigation:
    url: /index.html
  - title: About us
    url: /AboutUs/introduction/
+ - title: Research
+   url: /Research/fields/
  - title: Publications
    url: /about
  - title: Members

@@ -50,7 +50,7 @@ title: journalpapers
 						<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-630X)</span></li>  				
 		               <FONT size=2>Jungmin Yoon and Youngjoong Ko.
 						<br>&nbsp;&nbsp;&nbsp;&quot;Speech-act Analysis System Based on Dialogue Level RNN-CNN Effective on the Exposure Bias problem.&quot;
-						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers,  2018. 
+						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers, 2018. 
 						<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X)
 		</li>
 		<li>  <FONT size=2>안재현, 고영중
@@ -66,8 +66,7 @@ title: journalpapers
 						<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE), 2018.  (ISSN 2383-630X) (accepted)<FONT></li>  				
 		               <FONT size=2>Yoojin Jeong, Juae Kim, Youngjoong Ko and Jungyun Seo. 
 						<br>&nbsp;&nbsp;&nbsp;&quot;A Named Entity Recognition Training Method Using Bagging Based Bootstrapping.&quot;
-						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers (KIISE),
-						<br>&nbsp;&nbsp;&nbsp;  2018. 
+						<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers (KIISE), 2018. 
 						<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X) (accepted)<FONT>
 			</li>             
 	</ul>

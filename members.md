@@ -13,7 +13,7 @@ title: members
 <h5><a name="1">지도교수</a></h5>
 <table>
 		<tr>
-			<td class="portcol"><image src="members/images/yjko.jpg"></td>
+			<td class="portcol"><image src="members/images/yjko.jpg"></image></td>
 			<td class="informColumn">
 				<li>성  명 : 고 영 중</li>
 				<li>소  속 : 동아대학교 공과대학 컴퓨터 전공</li>

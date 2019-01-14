@@ -14,7 +14,7 @@ title: members
 	<a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
 	<table>
 		<tr>
-			<td class="portcol"><image src="members/images/members/yjko.jpg"></image></td>
+			<td class="portcol"><image src="/assets/img/members/yjko.jpg"></image></td>
 			<td class="informColumn">
 				<li>성  명 : 고 영 중</li>
 				<li>소  속 : 동아대학교 공과대학 컴퓨터 전공</li>

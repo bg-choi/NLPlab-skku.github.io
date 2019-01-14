@@ -12,14 +12,13 @@ title: members
 
 <table>
 		<tr>
-			<td class="portcol"><image src="members/images/yjko.jpg" class="portrait"></td>
+			<td class="portcol"><image src="members/images/yjko.jpg"></td>
 			<td class="informColumn">
-				<li><p>성  명 : 고 영 중</p></li>
-				<li><p>소  속 : 동아대학교 공과대학 컴퓨터 전공</p></li>
-				<li><p>연구실 : SF620 (구 산학협력관)</p></li>
-				<li><p>E-mail : yjko at dau.ac.kr</p></li>
-				<li><p>홈페이지 : <a href="http://web.donga.ac.kr/yjko" target="_blank">http://web.donga.ac.kr/yjko</a>
-				</p></li>
+				<li>성  명 : 고 영 중</li>
+				<li>소  속 : 동아대학교 공과대학 컴퓨터 전공</li>
+				<li>연구실 : SF620 (구 산학협력관)</li>
+				<li>E-mail : yjko at dau.ac.kr</li>
+				<li>홈페이지 : <a href="http://web.donga.ac.kr/yjko" target="_blank">http://web.donga.ac.kr/yjko</a></li>
 			</td>
 		</tr>
 </table>

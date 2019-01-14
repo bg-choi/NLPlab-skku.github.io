@@ -4,6 +4,7 @@ title: members
 ---
   <div class="linklink">
     <a href="#1"> 지도교수 </a>|<a href="#2"> 연구원 </a>|<a href="#3"> 석사과정 </a>|<a href="#4"> 학부과정 </a>|<a href="#5"> 석사졸업생 </a>
+   </div>
 
 <div class="post">
   <h1 class="pageTitle">Members</h1>	

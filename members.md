@@ -12,7 +12,7 @@ title: members
   </div>
    <br>
 
-<a name="1"><font style = "color:black;">#지도교수</font></a>
+<a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
 <table>
 		<tr>
 			<td class="portcol"><image src="members/images/yjko.jpg"></image></td>

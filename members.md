@@ -24,11 +24,4 @@ title: members
 
 
 
-  <ul>
-	<li>
-		Program Copyright Registration.<br>
-		Youngjoong Ko et al. <b>레이블 자동 생성을 위한 한국어 의존 구문 분석기.</b> <br>
-		<small>창작일: 2017.11.7, 공표일: 2017.11.7</small>
-	</li>
-  </ul>
 </div>

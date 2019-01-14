@@ -12,6 +12,8 @@ title: members
   </div>
    <br>
 
+<div class="post">
+
 <a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
 <table>
 		<tr>

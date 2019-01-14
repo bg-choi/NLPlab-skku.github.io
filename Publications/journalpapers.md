@@ -48,7 +48,7 @@ title: journalpapers
 				</li>
 				<li>  윤정민, 고영중
 					<br>&nbsp;&nbsp;&nbsp;&quot;노출 현황 문제에 효과적인 대화 단위 RNN-CNN 기반의 화행 분석 시스템"
-					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-630X)</span></li> 
+					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-630X)
 					<br>Jungmin Yoon and Youngjoong Ko.
 					<br>&nbsp;&nbsp;&nbsp;&quot;Speech-act Analysis System Based on Dialogue Level RNN-CNN Effective on the Exposure Bias problem.&quot;
 					<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers, 2018. 
@@ -56,15 +56,16 @@ title: journalpapers
 				</li>
 				<li>안재현, 고영중
 					<br>&nbsp;&nbsp;&nbsp;&quot;의존 관계명 태그 분포를 이용한 한국어 의존 구문 분석"
-					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-2383-6318)</li>  							<br>Jaehyun An and Youngjoong Ko.
+					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE),  2018년. (ISSN 2383-2383-6318) 							<br>Jaehyun An and Youngjoong Ko.
 					<br>&nbsp;&nbsp;&nbsp;&quot;Korean Dependency Parser Using Dependency Relation Tag Distribution.&quot;
 					<br>&nbsp;&nbsp;&nbsp;Journal of KIISE Transactions on Computing Practices,  2018.
 					<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-6318)
 				</li>
+				<br>
 				<li> 정유진, 김주애, 고영중, 서정연
 					<br>&nbsp;&nbsp;&nbsp;&quot;배깅 기반의 부트스트래핑을 이용한 개체명 인식 학습 기법"
-					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE), 2018.  (ISSN 2383-630X) (accepted)</li>  				
-		               		Yoojin Jeong, Juae Kim, Youngjoong Ko and Jungyun Seo. 
+					<br>&nbsp;&nbsp;&nbsp;정보과학회논문지:(KIISE), 2018.  (ISSN 2383-630X) (accepted)  		
+		               		<br>Yoojin Jeong, Juae Kim, Youngjoong Ko and Jungyun Seo. 
 					<br>&nbsp;&nbsp;&nbsp;&quot;A Named Entity Recognition Training Method Using Bagging Based Bootstrapping.&quot;
 					<br>&nbsp;&nbsp;&nbsp;Journal of Korean Institute of Information Scientists and Engineers (KIISE), 2018. 
 					<br>&nbsp;&nbsp;&nbsp;(ISSN 2383-630X) (accepted)

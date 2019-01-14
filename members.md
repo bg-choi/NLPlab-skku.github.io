@@ -12,7 +12,7 @@ title: members
 
 <div class="post">
 	<a name="1"><font style = "color:#0000A5;">#지도교수</font></a>
-	<table frame=void>
+	<table frame="void">
 		<tr>
 			<td class="portcol"><img src="/assets/img/members/yjko.jpg" width = "100px" height = "150px"></td>
 			<td class="informColumn">

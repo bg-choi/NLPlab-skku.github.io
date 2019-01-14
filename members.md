@@ -9,8 +9,9 @@ title: members
 <div class="post">
   <h1 class="pageTitle">Members</h1>	
   <p class="meta">멤버</p>
+</div>
 
-<a name="1">지도교수</a>
+<h5><a name="1">지도교수</a></h5>
 <table>
 		<tr>
 			<td class="portcol"><image src="members/images/yjko.jpg"></td>

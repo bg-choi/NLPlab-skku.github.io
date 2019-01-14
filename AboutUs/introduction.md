@@ -5,8 +5,7 @@ title: introduction
  <h4>About us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
-            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/introduction/">Introduction </a>
+            <li>introduction(here)
             </li>
             <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Photos</a>

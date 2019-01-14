@@ -4,15 +4,13 @@ title: members
 ---
 <div class="post">
 
+  <h1 class="pageTitle">Members</h1>	
+  <p class="meta">멤버</p>
   <div class="linklink">
     <a href="#1">&nbsp;지도교수&nbsp;</a>|<a href="#2">&nbsp;연구원&nbsp;</a>|<a href="#3">&nbsp;석사과정&nbsp;</a>|<a href="#4">&nbsp;학부과정&nbsp;</a>|<a href="#5">&nbsp;석사졸업생&nbsp;</a>
    </div>
 
-
-  <h1 class="pageTitle">Members</h1>	
-  <p class="meta">멤버</p>
-
-<a name="1"><h5> <지도교수> </h5></a>
+<a name="1">#지도교수</a>
 <table>
 		<tr>
 			<td class="portcol"><image src="members/images/yjko.jpg"></image></td>

@@ -3,7 +3,7 @@ layout: default
 title: fields
 ---
 <h4>Research</h4>
- <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;text-align:right;">
+ <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right;">
           <ul class="posts-list">
             <li>Fields(here)
             </li>

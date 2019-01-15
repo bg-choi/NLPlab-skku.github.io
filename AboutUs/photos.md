@@ -58,5 +58,19 @@ title: photos
 	<div><img src = "/assets/img/photos/0067.jpg" title = "16년 5월:홈커밍데이"/></div>
   </div>
   
+  <h4>#2015</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0065.jpg" title = "15년 10월:한국정보과학회 KKC2015 장려상수상"/></div>
+	<div><img src = "/assets/img/photos/0065.jpg" title = "15년 10월:한국정보과학회 KKC2015 장려상 수상"/></div>
+	<div><img src = "/assets/img/photos/0064.jpg" title = "15년 10월:한글 및 한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0063.jpg" title = "15년 10월:한글 및 한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0062.jpg" title = "15년 6월:한국정보과학회 KKC2015 우수논문상 수상"/></div>
+	<div><img src = "/assets/img/photos/0061.jpg" title = "15년 6월:한국정보과학회 KKC2015 공헌상 수상"/></div>
+	<div><img src = "/assets/img/photos/0060.jpg" title = "15년 6월:한국정보과학회 KKC2015"/></div>
+	<div><img src = "/assets/img/photos/0059.jpg" title = "15년 6월:한국정보과학회 KKC2015"/></div>
+	<div><img src = "/assets/img/photos/0058.jpg" title = "15년 1월:한국정보과학회 튜토리얼 : Deep Learning for NLP"/></div>
+	<div><img src = "/assets/img/photos/0057.jpg" title = "15년 1월:허디거디에서.."/></div>
+  </div>
+  
   
 

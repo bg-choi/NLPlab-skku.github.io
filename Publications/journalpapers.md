@@ -105,7 +105,7 @@ title: journalpapers
 				<li>유홍연, 고영중 
 				<br>&nbsp;&nbsp;&nbsp;"Bidirectional LSTM CRF 기반의 개체명 인식을 위한 단어 표상의 확장" 
 				<br>&nbsp;&nbsp;&nbsp;<small>정보과학회논문지:(KIISE), 제 44권, 제 3호, pp. 306-313, 2017년 3월. (ISSN 2383-6296)</small>
-				<li>Hongyeon Yu and Youngjoong Ko. 
+				<br>Hongyeon Yu and Youngjoong Ko. 
 				<br>&nbsp;&nbsp;&nbsp;"The Expansion of Word Representation for Named Entity Recognition Based on Bidirectional LSTM CRFs" 
 				<br>&nbsp;&nbsp;&nbsp;<small>Journal of Korean Institute of Information Scientists and Engineers (KIISE): Software and Applications, Vol. 44, No. 3, pp. 306-313, March 2017. </small>
 				<br>&nbsp;&nbsp;&nbsp;<small>(ISSN 2383-6296)</small>

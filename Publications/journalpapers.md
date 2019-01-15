@@ -85,7 +85,7 @@ title: journalpapers
 				</li><br>
 				<li>Kyoungman Bae and Youngjoong Ko
 				<br>&nbsp;&nbsp;&nbsp;"Improving Question Retrieval in cQA Services Using a Dependency Parser." 
-				<br>&nbsp;&nbsp;&nbsp;<smallIEICE Transactions on Information and System, Vol. E100-D, No. 2, pp. 807-810, April 2017. ></small>
+				<br>&nbsp;&nbsp;&nbsp;<small>IEICE Transactions on Information and System, Vol. E100-D, No. 2, pp. 807-810, April 2017. ></small>
 				<br>&nbsp;&nbsp;&nbsp;<small>(<font size="2" color="red">SCIE</font>, ISSN 0916-8532)</small>
 				</li><br>
 				<li>Juryong Cheon and Youngjoong Ko. 

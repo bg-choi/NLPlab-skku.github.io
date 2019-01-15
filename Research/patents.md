@@ -18,7 +18,7 @@ title: patents
 
 
 <div class="post">
-  <h1 class="pageTitle">Patents</h1>	
+  <h1 class="pageTitle">Research</h1>	
   <p class="meta">특허</p>
 </div>
   <ul>

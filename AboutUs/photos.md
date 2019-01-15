@@ -36,7 +36,7 @@ title: photos
 	<div><img src = "/assets/img/photos/0075.jpg" title = "17년 6월:영화관에서..."/></div>
 	<div><img src = "/assets/img/photos/0074.jpg" title = "17년 5월:인지과학회-4차 산업혁명 시대 인간과 로봇의 공진화"/></div>
 	<div><img src = "/assets/img/photos/0073.jpg" title = "17년 5월:인지과학회-4차 산업혁명 시대 인간과 로봇의 공진화"/></div>
-	<div><img src = "/assets/img/photos/0072.jpg" title = "17년 5월:덕수궁에서..."/></div>
+	<div><img src = "/assets/img/photos/0072.jpg" height = "400" title = "17년 5월:덕수궁에서..."/></div>
 	<div><img src = "/assets/img/photos/0071.jpg" title = "17년 5월:덕수궁에서..."/></div>
 	
   </div>

@@ -71,5 +71,11 @@ title: photos
 	<div><img src = "/assets/img/photos/0057.jpg" title = "15년 1월:허디거디에서.."/></div>
   </div>
   
-  
+  <h4 style = "text-align:center;">#2014</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0070.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
+	<div><img src = "/assets/img/photos/0069.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
+	<div><img src = "/assets/img/photos/0068.jpg" title = "16년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0067.jpg" title = "16년 5월:홈커밍데이"/></div>
+  </div>
 

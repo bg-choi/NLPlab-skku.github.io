@@ -73,9 +73,14 @@ title: photos
   
   <h4 style = "text-align:center;">#2014</h4>
   <div class="slider">
-	<div><img src = "/assets/img/photos/0070.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
-	<div><img src = "/assets/img/photos/0069.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
-	<div><img src = "/assets/img/photos/0068.jpg" title = "16년 5월:홈커밍데이"/></div>
-	<div><img src = "/assets/img/photos/0067.jpg" title = "16년 5월:홈커밍데이"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0056.jpg" title = "14년 10월:국어정보처리 시스템 경진 대회 입상"/></div>
+	<div><img src = "/assets/img/photos/0055.jpg" title = "14년 10월:국어정보처리 시스템 경진 대회"/></div>
+	<div><img src = "/assets/img/photos/0054.jpg" title = "14년 10월:한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0053.jpg" title = "14년 10월:한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0052.jpg" title = "14년 10월:한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0051.jpg" title = "14년 10월:한국어 정보처리 학술대회"/></div>
+	<div><img src = "/assets/img/photos/0050.jpg" title = "14년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0049.jpg" title = "14년 2월:제주도 Qolt 워크샵"/></div>
+	<div><img src = "/assets/img/photos/0048.jpg" title = "14년 2월:제주도 Qolt 워크샵"/></div>
   </div>
 

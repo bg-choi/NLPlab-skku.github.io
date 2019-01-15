@@ -1,0 +1,976 @@
+---
+layout: default
+title: conferencepapers
+---
+ <h4>Publications</h4>
+ <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
+          <ul class="posts-list">
+            <li>Journal Papers(here)
+            </li>
+            <li class="post-link">
+                <a class="post-title" href="https://youngjoongko.github.io/Publications/conferencepapers/">Conference Papers</a>
+            </li>
+            <li class="post-link">
+                <a class="post-title" href="https://youngjoongko.github.io/Publications/upcomingconferences/">Upcoming Conferences</a>
+            </li>
+          </ul>
+  </div>
+
+
+
+<div class="post">
+	<h1 class="pageTitle">Conference Papers</h1>	
+	<p class="meta">Conference 논문</p>
+	<div class="linklink" style = "text-align:center;">
+		<a href="#1"> 2018 </a>|<a href="#2"> 2017 </a>|<a href="#3"> 2016 </a>|<a href="#4"> 2015 </a>|<a href="#5"> 2014 </a>
+		<a href="#6"> 2013 </a>|<a href="#7"> 2012 </a>|<a href="#8"> 2011 </a>|<a href="#9"> 2010 </a>|<a href="#10"> 2009 </a>|
+		<a href="#11"> 2008 </a>|<a href="#12"> 2007 </a>|<a href="#13"> 2006 </a>|<a href="#14"> 2005</a>|<a href="#15"> 2003 </a>|
+		<a href="#16"> 2002 </a>|<a href="#17"> 2000 </a></div>
+	
+</div>
+<br>
+<p><font color="#CC0000"># 2018</font></p>
+			
+			<ul><li><font size="2">윤정민, 고영중.
+			<br>    "
+				 노출 현황 문제에 효과적인 대화 단위 RNN-CNN 기반의 화행 분석 시스템
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">안재현, 고영중.<font size="2" color="blue">(우수 논문상)</font>
+			<br>    "
+				 합성곱 신경망에 의한 발화 임베딩을 사용한 유사도 측정 기반의 채팅 말뭉치 반자동 확장 방법
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">유홍연, 이승우, 고영중.
+			<br>    "
+				 단어 관련성 추정과 바이트 페어 인코딩(Byte Pair Encoding)을 이용한 요약 기반 다중 뉴스 기사 제목 추출
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">유홍연, 이승우, 고영중.<font size="2" color="blue">(우수 논문상)</font>
+			<br>    "
+				 실시간 이슈 분석을 위한 뉴스 군집화 및 다중 문서 요약
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">서민영, 홍태석, 김주애, 고영중, 서정연.
+			<br>    "
+				계층 구조 어텐션 매커니즘에 기반한 CNN-RNN을 이용한 한국어 화행 분석 시스템
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">윤정민, 고영중.
+			<br>    "
+				 주의집중 메커니즘 기반의 양방향 GRU-CRF를 이용한 화행 분석과 슬롯 필링 공동 학습 모델 
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">김보성, 김주애, 이정엄, 김선아, 고영중, 서정연.
+			<br>    "
+				Self-Attention 기반의 문장 임베딩을 이용한 효과적인 문장 유사도 기법 기반의 FAQ 시스템
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">허광호, 고영중, 서정연.
+			<br>    "
+				신경망 기반 기계 번역을 위한 역-번역을 이용한 한영 병렬 코퍼스 확장
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">김혜민, 양선, 고영중.
+			<br>    "
+				자모 및 음절 임베딩 결합을 이용한 오타에 효과적인 한국어 형태소 분석
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">김혜민, 양선, 고영중.
+			<br>    "
+				두 종류의 임베딩을 이용한 수식 검색 성능 개선
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">박용신, 고영중.
+			<br>    "
+				문장 유형과 양태 정보를 이용한 합성곱 신경망 기반의 대화체 발화 화행 분석
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">김기환, 서지수, 이경열, 고영중
+			<br>    "
+				띄어쓰기 및 문장 경계 인식을 위한 다중 손실 선형 결합 기반의 다중 클래스 분류 시스템
+				"
+				<br>  
+			 2018 한글 및 한국어 정보처리 학술대회
+				 </font> </li></ul>
+				 
+				 
+			
+			
+			<ul><li><font size="2">Dongsuk O, Sunjae Kwon and Youngjoong Ko.
+			<br>    "
+				 Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph.
+				"
+				<br>  
+			 Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), in Santa Fe, New-Mexico, USA, August 2018. (SCOPUS)
+				 </font> </li></ul>
+				 
+				 <p><font color="#CC0000"># 2017</font></p>
+			<ul><li><font size="2">Juae Kim, Soonjae Kwon, Youngjoong Ko and Jungyun Seo. 
+			<br>    "
+				 A Method to Generate a Machine-labeled Data for Biomedical Named Entity Recognition with Various Sub-Domains.
+				"
+				<br>  
+			 Proceedings of International Workshop on Digital Disease Detection Using Social Media (IJCNLP 2017), pp. 47-51, in Taiwan,  November 2017.
+				 </font> </li></ul>
+				 
+			<ul><li><font size="2">Soonjae Kwon, Youngjoong Ko and Jungyun Seo. 
+			<br>    "
+				A Robust Named-Entity Recognition System Using Syllable Bigram Embedding with Eojeol Prefix Information.
+				"
+				<br>  
+			 Proceedings of the 26th ACM International Conference on Information and Knowledge Management (CIKM 2017), pp. 2139-2142, in Singapore, November 2017.(SCOPUS) 
+				 </font> </li></ul>
+
+
+			<ul><li><font size="2">윤정민, 고영중<font size="2" color="blue">(우수 논문상)</font>
+				<br>    "
+				대화 단위의 화행 분석을 위한 RNN-CNN 기반 한국어 화행 분석 시스템
+				" 
+				<br>  
+				2017 한국소프트웨어종합학술대회  
+				<br>
+				Jeongmin Yoon and Youngjoong Ko.
+				<br>   "
+			The Korean Speech-Act Analysis System Based on RNN-CNN for Speech-Act Analysis of Dialogue Level.
+			   "
+				<br>    
+			Proceedings of Korea Software Congress 2017 (KSC 2017), December 2017.
+				<br>
+				 </font> </li></ul>
+			
+			<ul><li><font size="2">유홍연, 고영중
+				<br>    "
+				주제 일치도 기반의 N-gram 문장 정보를 이용한 경제 분야 문장 분류
+				" 
+				<br>  
+				2017 한국소프트웨어종합학술대회  
+				<br>
+				Hongyeon Yoo and Youngjoong Ko.
+				<br>   "
+			Economical Sentence Classification Using the Information of N-gram Sentences Based on Topic Matching Measure.
+			   "
+				<br>    
+			Proceedings of Korea Software Congress 2017 (KSC 2017), December 2017.
+				<br>
+				 </font> </li></ul>
+			
+			<ul><li><font size="2">안재현, 고영중<font size="2" color="blue">(우수 발표논문상)</font>
+				<br>    "
+				음절 단위 태그 분포와 멀티 태스크 학습 기반 포인터 네트워크를 이용한 한국어 의존 구문 분석
+				" 
+				<br>  
+				2017 한국소프트웨어종합학술대회  
+				<br>
+				Jaehyun An and Youngjoong Ko.
+				<br>   "
+			The Korean Dependency Parser for Pointer Networks based on Multi-task learning and Relation Label Distribution of Syllables.
+			   "
+				<br>    
+			Proceedings of Korea Software Congress 2017 (KSC 2017), December 2017.
+				<br>
+				 </font> </li></ul>
+				<ul><li><font size="2">김혜민, 양선, 고영중
+				<br>    "
+				기분석 어절사전 축소를 통한 한국어 형태소 분석에서의 메모리 및 수행 시간 최적화 
+				" 
+				<br>  
+				2017 한국소프트웨어종합학술대회  
+				<br>
+				Hyemin Kim, Seon Yang and Youngjoong Ko.
+				<br>   "
+			Memory and Time Optimization through Reduction of Pre-analyzed Eojeol Dictionaries in Korean POS Analysis.
+			   "
+				<br>    
+			Proceedings of Korea Software Congress 2017 (KSC 2017), December 2017.
+				<br>
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">정유진, 김주애, 고영중, 서정연<font size="2" color="blue">(우수 논문상)</font>
+				<br>    "
+				개체명 인식 성능 향상을 위한 배깅 기반의 부트스트래핑 기법
+				" 
+				<br>  
+				2017 한국소프트웨어종합학술대회  
+				<br>
+				Yoojin Jeong, Juae Kim, Youngjoong Ko and Jungyun Seo.
+				<br>   "
+			Bagging Based Bootstrapping Method to Improve Named Entity Recognition.
+			   "
+				<br>    
+			Proceedings of Korea Software Congress 2017 (KSC 2017), December 2017.
+				<br>
+				 </font> </li></ul>
+			
+				<ul><li><font size="2">염홍선, 고영중, 서정연
+				<br>    "
+				합성곱 신경망을 이용한 음절 표상의 학습을 통한 대화 시스템의 사용자 발화 의도 분석
+				" 
+				<br>  
+				2017 한국컴퓨터종합학술대회  
+				<br>
+				Hongsun Yeom, Youngjoong Ko and Jungyun Seo.
+				<br>   "
+			User Utterance's Intent Detection in Dialogue System with Syllable Embedding Using Convolutional Neural Network.
+			   "
+				<br>    
+			Proceedings of Korea Computer Congress 2017 (KCC 2017), pp.618-620, June 2017.
+				<br>
+				 </font> </li></ul>
+	
+			<ul><li><font size="2">김주애, 염홍선, 고영중, 서정연
+				<br>    "
+				감정분석 성능 향상을 위한 개체명 인식 활용 방법 
+				" 
+				<br>  
+				2017 한국인지과학회 연차학술대회, P48, May 2017
+				<br>
+				Juae Kim, Hongsun Yeom, Youngjoong Ko and Jungyun Seo.
+				<br>   "
+			How to Utilize Named Entity Analysis to Improve Sentiment Analysis. 
+			   "
+				<br>    
+			Proceedings of Conference on Korea Cognitive Science Society May 2017.
+				<br>
+				 </font> </li></ul>
+			<ul><li><font size="2">유홍연, 고영중
+				<br>    "
+				인과관계 말뭉치 구축을 위한 자동차 취급 설명서 분석
+				" 
+				<br>  
+				2017 한국인지과학회 연차학술대회, P48, May 2017
+				<br>
+				Hongyeon Yu and Youngjoong Ko.
+				<br>   "
+			Car Manual Analysis for Constructing a Causal Relation Annotated Corpus.
+			   "
+				<br>    
+			Proceedings of Conference on Korea Cognitive Science Society May 2017.
+				<br>
+				 </font> </li></ul>
+			<ul><li><font size="2">윤정민, 고영중
+				<br>    "
+				음절 의미역 태그 분포를 이용한 입력 벡터 확장을 통한 Bi-LSTM-CRFs 기반의 의미역 결정 모델
+				" 
+				<br>  
+				2017 한국인지과학회 연차학술대회, P48, May 2017
+				<br>
+				Jungmin Yoon and Youngjoong Ko.
+				<br>   "
+			A Semantic Role Labeling Model based on Bi-LSTM-CRFs using Expanded Word Representation by SRL Label Distribution of Syllable.
+			   "
+				<br>    
+			Proceedings of Conference on Korea Cognitive Science Society May 2017.
+				<br>
+				 </font> </li></ul>
+				 <p><font color="#CC0000"># 2016</font></p>
+			
+				<ul><li><font size="2">유홍연, 고영중</font>  <font size="2" color="blue">(우수 논문상)</font><FONT size=2> 
+				<br>    "
+				품사 임베딩과 음절 단위 개체명 분포 기반의 Bidirectional LSTM CRFs를 이용한 개체명 인식 
+				" 
+				<br>  
+				제 28회 한글 및 한국어 정보처리 학술대회 (HCLT-2016),  pp. 105-110, October 2016 
+				<br>
+				Hongyeon Yu, Youngjoong Ko
+				<br>   "
+			Named Entity Recognition Using Bidirectional LSTM CRFs Based on the POS Tag Embedding and the Named Entity Distribution of Syllables
+			   "
+				<br>    
+			Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology
+				<br>
+				(HCLT-2016), pp. 105-110, October 2016. 
+				<br>
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">김혜민, 윤정민, 안재현, 배경만, 고영중</font>  
+				<br>    "
+				품사 분포와 Bidirectional LSTM CRFs를 이용한 음절 단위 형태소 분석기 
+				" 
+				<br>  
+				제 28회 한글 및 한국어 정보처리 학술대회 (HCLT-2016), pp. 3-8, October 2016 
+				<br>
+				Hyemin Kim, Jungmin Yoon, Jaehyun An, Kyoungman Bae, Youngjoong Ko
+				<br>   "
+			Syllable-based Korean POS Tagging using POS Distribution and Bidirectional LSTM CRFs
+			   "
+				<br>    
+			Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology
+				<br>
+				(HCLT-2016), pp. 3-8, October 2016. 
+				<br>
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">안재현, 이호경, 고영중</font>  
+				<br>    "
+				의존 경로와 음절단위 의존 관계명 분포 기반의 Bidirectional-LSTM-CRFs를 이용한 한국어 의존 관계명 레이블링
+				" 
+				<br>  
+				제 28회 한글 및 한국어 정보처리 학술대회 (HCLT-2016),  pp. 14-19, October 2016 
+				<br>
+				Jaehyun An, Hokyung Lee, Youngjoong Ko
+				<br>   "
+			Korean Dependency Relation Labeling Using Bidirectional LSTM CRFs Based on the Dependency Path and the Dependency Relation Label Distribution of Syllables
+			   "
+				<br>    
+			Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology
+				<br>
+				(HCLT-2016), pp. 14-19, October 2016. 
+		   <br>
+				 </font> </li></ul>
+				 
+				 <ul><li><font size="2">이호경, 배경만, 고영중</font>  
+				<br pp. 220-225, >    "
+				격틀과 워드 임베딩을 활용한 유사도 기반 대화 모델링 
+				" 
+				<br>  
+				제 28회 한글 및 한국어 정보처리 학술대회 (HCLT-2016),  pp. 220-225, October 2016.
+				<br>
+				Ho-Kyung Lee, Kyoungman Bae, and Youngjoong Ko. 
+				<br>   "
+			A Similarity-based Dialogue Modeling with Case Frame and Word Embedding
+			   "
+				<br>    
+			Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology 
+				<br>
+				(HCLT-2016), pp. 220-225, October 2016. 
+				<br>
+				 </font> </li></ul>
+				 
+				 
+			
+				<ul><li><font size="2">윤정민, 배경만, 고영중</font>  
+				<br>    "
+				음절의 의미역 태그 분포를 이용한 Bidirectional LSTM CRFs 기반의 한국어 의미역 결정 
+				" 
+				<br>  
+				제 28회 한글 및 한국어 정보처리 학술대회 (HCLT-2016),  pp. 324-329, October 2016
+				<br>
+				Jungmin Yoon, Kyoungman Bae, Youngjoong Ko
+				<br>   "
+			Korean Semantic Role Labeling Based on Bidirectional LSTM CRFs Using the Semantic Label Distribution of Syllable
+			   "
+				<br>    
+			Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology 
+				<br>
+				(HCLT-2016), pp. 324-329, October 2016. 
+				<br>
+				 </font> </li></ul>
+			
+			<p><font color="#CC0000"># 2015</font></p>
+			<ul><li><font size="2">Changsu Lee, Youngjoong Ko and Jungyun Seo.   
+			<br>    "
+				A Simultaneous Recognition Framework for the Spoken Language Understanding Module of Intelligent Personal Assistant Software on Smart Phones.
+				"
+				<br>  
+			 Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2015), in Beijing, China, pp. 818-822, July 2015.
+				 </font> </li></ul>
+				 <ul><li><font size="2">천주룡, 고영중 <font size="2" color="blue">(우수 논문상)</font><FONT size=2> 
+				<br>    "
+				위키피디아로부터의 자동 병렬 문장 추출 기법을 이용한 영어-한국어 교차언어 정보검색의 번역 성능 개선
+				" 
+				<br>  
+				제 27회 한글 및 한국어 정보처리 학술대회 (HCLT-2015), pp. 35-40, October 2015. 
+				<br>
+				Juryong Cheon, Youngjoong Ko
+				<br>   "
+				Improving Query Translation by Extracting Parallel Sentences from Wikipedia for Cross-Language Information Retrieval
+				"
+				<br>    
+				Proceedings of the 27th Annual Conference on Human and Cognitive Language Technology
+				<br>
+				(HCLT-2015), pp. 35-40, October 2015.
+				<br>
+				 </font> </li></ul>
+				 	 <ul><li><font size="2">윤정민, 황재원, 고영중 
+				<br>    "
+				대화 시스템의 말뭉치 구축을 위한 Object-Action 반자동 추출기
+				" 
+				<br>  
+				제 27회 한글 및 한국어 정보처리 학술대회 (HCLT-2015),  pp. 220-223, October 2015. 
+				<br>
+				Jungmin Yoon, jaewon Hwang, Youngjoong Ko
+				<br>   "
+				Semi-Automatic Object-Action Extractor to Build the Utterance Corpus for the Dialogue System
+				"
+				<br>    
+				Proceedings of the 27th Annual Conference on Human and Cognitive Language Technology
+				<br>
+				(HCLT-2015), pp. 220-223, October 2015.
+				<br>
+				 </font> </li></ul>
+			<ul><li><font size="2">송남훈, 배경만, 고영중  <font size="2" color="blue">(우수 논문상)</font><FONT size=2> 
+				<br>    "
+				분류 우선순위 적용과 후보정 규칙을 이용한 효과적인 한국어 화행 분류
+				" 
+				<br>  
+				2015 한국컴퓨터종합학술대회
+				<br>
+				Namhoon Song, Kyoungman Bae, Youngjoong Ko.
+				<br>   "
+				Efficient Korean Speech-Act Classification using a Classification Priority Application and a Post Correction Rule.
+				"
+				<br>    
+				Proceedings of Korea Computer Congress 2015 (KCC 2015), pp.675-677, June 2015.
+				<br>
+				 </font> </li></ul>
+			<ul><li><font size="2">김태현, 이창수, 황재원, 고영중
+				<br>    "
+				위키피디아를 이용한 개체명 부착 코퍼스 자동구축 및 중의성 해소
+				" 
+				<br>  
+				2015 한국컴퓨터종합학술대회
+				<br>
+				Taehyun Kim, Changsu Lee, Jaewon Hwang, Youngjoong Ko. 
+				<br>   "
+				Automatic Acquisition of Korean Named Entity Annotated Corpus from Wikipedia.
+				"
+				<br>    
+				Proceedings of Korea Computer Congress 2015 (KCC 2015),  pp. 745-747, June 2015.
+				<br>
+				 </font> </li></ul>
+			 
+			
+			<p><font color="#CC0000"># 2014</font></p>
+			
+			<ul><li><font size="2">Kyoungman Bae and Youngjoong Ko.  
+				<br>    "
+				An Effective Question Expanding Method for Question Classification in cQA services.
+				"
+				<br>  
+				Proceedings of the 7th Workshop for Ph.D Students at CIKM 2014, in Shanghai, China, Nov. 2014.
+				 </font> </li></ul>
+			
+			<ul><li><font size="2">이호경, 양선, 고영중  
+				<br>    "
+				계산량 감소를 위한 LDA 단어 분포를 이용한 트위터 사용자 성향 분류 기법
+				"
+				<br>  
+				한국정보과학회 동계학술발표회 (KIISE 2014), pp. 471-473, December. 2014. 
+				<br>
+				Ho-Kyung Lee, Seon Yang, and Youngjoong Ko. 
+				<br>   "
+				A Twitter Users' Tendency Clustering Method using LDA Word Distributions for Complexity Reduction.
+				"
+				<br>    
+				Proceedings of Winter Conference on Korean Institute of Information Scientists and Engineers
+				<br>   
+				(KIISE 2014), pp. 471-473, December. 2014.
+				 </font> </li></ul>
+			
+			<ul><li><font size="2">이창수, 고영중  
+				<br>    "
+				대화형 개인 비서 시스템의 언어 인식 모듈(SLU)를 위한 미등록어(OOV) 처리 기술
+				"
+				<br>   
+				제 26회 한글 및 한국어 정보처리 학술대회 pp. 3-8, October 2014.
+				<br>
+				ChangSuLee and Youngjoong Ko. 
+				<br>   "
+				A Out-of-vocabulary Processing Technology for the Spoken Language Understanding Module of a Dialogue Based Private Secretary Software.
+				"
+				<br>    
+				Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology
+				<br>   
+				(HCLT-2014), pp. 3-8, October 2014.
+				 </font> </li></ul>
+				
+				<ul><li><font size="2">양선, 고영중  
+				<br>    "
+				문장으로부터 여러 단어로 구성된 여러 유형의 요소 추출
+				"
+				<br>   
+				제 26회 한글 및 한국어 정보처리 학술대회 pp. 73-77, October 2014.
+				<br>
+				Seon Yang and Youngjoong Ko. 
+				<br>   "
+				Extacting Multi-type Elements Consisting of Multi-words from Sentences.
+				"
+				<br>    
+				Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology
+				<br>   
+				(HCLT-2014), pp. 73-77, October 2014.
+				 </font> </li></ul>
+				
+				<ul><li><font size="2">황재원, 고영중  
+				<br>    "
+				듀얼 SMS 스팸 필터링: 그래프 기반 자질 가중치 기법
+				"
+				<br>   
+				제 26회 한글 및 한국어 정보처리 학술대회 pp. 95-99, October 2014.
+				<br>
+				Jae-Won Hwang and Youngjoong Ko. 
+				<br>   "
+				Dual SMS SPAM Filtering: A Graph-based Feature Weighting Method.
+				"
+				<br>    
+				Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology
+				<br>   
+				(HCLT-2014), pp. 73-77, October 2014.
+				 </font> </li></ul>
+				
+				<ul><li><font size="2">천주룡, 고영중   <font size="2" color="blue">(우수 논문상)</font>
+				<br>    "
+				이질적인 언어 자원의 순차적 매칭을 이용한 문장 유사도 계산 기반의 위키피디아 한국어-영어 병렬 문장 추출 방법
+				"
+				<br>   
+				제 26회 한글 및 한국어 정보처리 학술대회 pp. 127-132, October 2014.
+				<br>
+				Juryong Cheon and Youngjoong Ko. 
+				<br>   "
+				Extracting Korean-English Parallel Sentences based on Measure of Sentences Similarity Using Sequential Matching of Heterogeneous Language Resources.
+				"
+				<br>    
+				Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology
+				<br>   
+				(HCLT-2014), pp. 127-132, October 2014.
+				 </font> </li></ul>
+			
+			
+			<p><font color="#CC0000"># 2013</font></p>
+				  
+	
+			<ul>
+	                <li><font size="2">장순필, 박영민, 강상우, 구명완, 서정연, 김학수, 고영중  <br> &nbsp;&nbsp;&nbsp;&quot;대화형 개인 비서 소프트웨어를 위한 대화 플랫폼&quot;  <br>&nbsp;&nbsp;&nbsp;제 40회 한국정보과학회 추계학술대회 pp. 572-574, November 2013.  <br>Soonpil Jang, Youngmin Park, Sangwoo Kang, Myoungwan Koo, Jungyun Seo, Harksoo Kim and Youngjoong Ko. <br>&nbsp;&nbsp;&nbsp;&quot;A Dialogue Platform for an Interactive Personal Assistant Software. 
+	&quot; <br> &nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers   <br>&nbsp;&nbsp;&nbsp;(KIISE 2013), pp. 572-574, November 2013. &nbsp;</font>&nbsp;</li>
+	            </ul>
+			
+			<ul>
+	                <li><font size="2">양선, 고영중  <br> &nbsp;&nbsp;&nbsp;&quot;토픽 모델을 이용한 수학식 검색 결과 재랭킹&quot;  <br>&nbsp;&nbsp;&nbsp;제 25회 한글 및 한국어 정보처리 학술대회(HCLT-2013), pp. 77-81, October. 2013.  <br>Seon Yang, and Youngjoong Ko  <br>&nbsp;&nbsp;&nbsp;&quot;Reranking Search Results for mathematical Equation Retrieval Using Topic Models,
+	&quot; <br> &nbsp;&nbsp;&nbsp;Proceedings of the 25st Annual Conference on Human and Cognitive Language Technology  <br>&nbsp;&nbsp;&nbsp;(HCLT-2013), pp. 77-81, October. 2013. &nbsp;</font>&nbsp;</li>
+	            </ul>
+				
+				<ul>
+	                <li><font size="2">이창수, 고영중  <br> &nbsp;&nbsp;&nbsp;&quot;대화형 개인 비서 시스템을 위한 하이브리드 방식의 개체명 및 문장목적 동시 인식기술&quot;  <br>&nbsp;&nbsp;&nbsp;제 25회 한글 및 한국어 정보처리 학술대회(HCLT-2013), pp. 18-23, October. 2013.  <br>ChangSu Lee, and Youngjoong Ko  <br>&nbsp;&nbsp;&nbsp;&quot;A Simultaneous Recognition Technology of Named Entities and Objects for a Dialogue Based Private
+			<br>&nbsp;&nbsp;&nbsp;Secretary Software,
+	&quot; <br> &nbsp;&nbsp;&nbsp;Proceedings of the 25st Annual Conference on Human and Cognitive Language Technology  <br>&nbsp;&nbsp;&nbsp;(HCLT-2013), pp. 18-23, October. 2013. &nbsp;</font>&nbsp;</li>
+	            </ul>
+				
+				<ul>
+	                <li><font size="2">이호경, 천주룡, 송남훈, 고영중  <br> &nbsp;&nbsp;&nbsp;&quot;LDA를 이용한 트윗 유저의 연령대, 성별, 지역 분석&quot;  <br>&nbsp;&nbsp;&nbsp;제 25회 한글 및 한국어 정보처리 학술대회(HCLT-2013), pp. 116-119, October. 2013.  <br>HoKyung Lee, JuRyong Chun, NamHoon Song, and Youngjoong Ko  <br>&nbsp;&nbsp;&nbsp;&quot;Analyzing ages, gender, location on Twitter using LDA,
+	&quot; <br> &nbsp;&nbsp;&nbsp;Proceedings of the 25st Annual Conference on Human and Cognitive Language Technology  <br>&nbsp;&nbsp;&nbsp;(HCLT-2013), pp. 116-119, October. 2013. &nbsp;</font>&nbsp;</li>
+	            </ul>
+			
+			<p><font color="#CC0000"># 2012</font></p>
+	 
+			
+	        <ul>
+	                <li><font size="2">Kyoungman Bae and Youngjoong Ko,  
+					<br>&nbsp;&nbsp;&nbsp;&quot;An Effective Category Classification Method Based on a Language Model for Question Category 
+	                <br>&nbsp;&nbsp;&nbsp;Recommendation on a cQA service,&quot;
+					<br>&nbsp;&nbsp;&nbsp;Proceedings of the 21st ACM International Conference on Information and Knowledge Management,
+					<br>&nbsp;&nbsp;&nbsp;(CIKM 2012), pp. 2255-2258, in Maui Hawaii, USA,  Oct-Nov. 2012.&nbsp;<font size="2" color="blue">(SCOPUS)</font></font>&nbsp;</li>
+			</ul>
+	
+	        <ul>
+	                <li><font size="2">Shinil Kim, Seon Yang and Youngjoong Ko,  
+					<br>&nbsp;&nbsp;&nbsp;&quot;Mathematical Equation Retrieval Using Plain Words as a Query,&quot;
+					<br>&nbsp;&nbsp;&nbsp;Proceedings of the 21st ACM International Conference on Information and Knowledge Management,
+					<br>&nbsp;&nbsp;&nbsp;<(CIKM 2012), pp. 2407-2410, in Maui Hawaii, USA,  Oct-Nov. 2012. &nbsp;<font size="2" color="blue">(SCOPUS)</font></font>&nbsp;</li>
+			</ul>
+			<ul>
+	                <li><font size="2">Youngjoong Ko,  
+					<br>&nbsp;&nbsp;&nbsp;&quot;A Study of Term Weighting Schemes Using Class Information for Text Classification.&quot;
+					<br>&nbsp;&nbsp;&nbsp;Proceedings of the 35th Annual International ACM SIGIR Conference (SIGIR 2012), pp. 1029-1030,
+					<br>&nbsp;&nbsp;&nbsp;in Portland Oregon, USA, August 2012.&nbsp;<font size="2" color="blue">(SCOPUS)</font></font>&nbsp;</li>
+			</ul>
+	        
+	        
+	        <ul>
+	                <li><font size="2">이준영, 양선, 고영중  <br> 
+	                &nbsp;&nbsp;&nbsp;&quot;평문 질의어 MathML 용어 변환을 이용한 수학식 검색, &quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2> <br>
+	                &nbsp;&nbsp;&nbsp;2012 한국컴퓨터종합학술대회 논문집, Vol. 39, No. 1(B), pp. 312-314, June. 2012.   <br>
+	                Junyoung Lee, Seon Yang, and Youngjoong Ko  <br>
+	                &nbsp;&nbsp;&nbsp;&quot;Mathematical Equation Retrieval by Converting Plaintext Queries into MatlML Terms,&quot;<br> 
+	                &nbsp;&nbsp;&nbsp;Proceedings of Korea Computer Congress 2011 (KCC 2012), Vol. 39, No. 1(B),  <br>
+	                &nbsp;&nbsp;&nbsp;pp. 312-314, June. 2012. &nbsp;</font>&nbsp;</li>
+	        </ul>
+			
+			
+			<p><font color="#CC0000"># 2011</font></p>
+			<ul>
+	                <li><font size="2">Seon Yang and Youngjoong Ko,  
+					<br>&nbsp;&nbsp;&nbsp;&quot;Extracting Comparative Entities and Predicates from Texts Using Comparative Type Classification,&quot;
+					<br>&nbsp;&nbsp;&nbsp;Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: 
+					<br>&nbsp;&nbsp;&nbsp;Human Language Technologies (ACL-HLT 2011), in Portland Oregon, USA, June, 19-24, 2011.&nbsp;<font size="2" color="blue">(SCOPUS)</font></font>&nbsp;</li>
+			</ul>
+		
+			<ul>
+				<li><font size="2">김성현, 배경만, 고영중    <br> 
+				&nbsp;&nbsp;&nbsp;&quot;일정 및 개인정보 관리 영역에서 온톨로지 기반의 효과적인 개체명 추출 방법에 대한 연구, &quot;  <br>
+				&nbsp;&nbsp;&nbsp;2011한국정보과학회 학술심포지엄 유비쿼터스 컴퓨팅과 웹 정보기술(UCWIT 2011) No. 2, <br>
+				&nbsp;&nbsp;&nbsp;pp. 177-182, December. 2011.   <br>
+				Sung-Hyun Kim, Kyoung-Man Bae and Youngjoong Ko  <br>
+				&nbsp;&nbsp;&nbsp;&quot;The Efficient Named Entity Extraction Method Based on Omtology in a Schedule and a Personal <br>
+				&nbsp;&nbsp;&nbsp;Information Management Domain,&quot;<br> 
+				&nbsp;&nbsp;&nbsp;Proceedings of KIISE Symposium Ubiquitous Computing and Web Information Technology  <br>
+				&nbsp;&nbsp;&nbsp;(UCWIT-2011), Vol. 5, No. 3, pp. 177-182, December. 2011. &nbsp;</font>&nbsp;</li>
+			</ul>
+			<ul>
+	                <li><font size="2">김신일, 양선, 고영중   <br> 
+	                &nbsp;&nbsp;&nbsp;&quot;한글화된 수식 패턴을 이용한 수학식 검색 시스템, &quot;  <br>
+	                &nbsp;&nbsp;&nbsp;2011 한국컴퓨터종합학술대회 논문집, Vol. 38, No. 1(A), pp. 233-236, June. 2011.   <br>
+	                Shinil Kim, Seon Yang, and Youngjoong Ko  <br>
+	                &nbsp;&nbsp;&nbsp;&quot;A Mathematical Equation Retrieval System Based on Formula Patterns Expressed in Korean,&quot;<br> 
+	                &nbsp;&nbsp;&nbsp;Proceedings of Korea Computer Congress 2011 (KCC 2011), Vol. 38, No. 1(A),  <br>
+	                &nbsp;&nbsp;&nbsp;pp. 233-236, June. 2011. &nbsp;</font>&nbsp;</li>
+	        </ul>
+			<ul>
+	                <li><font size="2">양선, 고영중   <br> &nbsp;&nbsp;&nbsp;&quot;비교 문장으로부터 비교 요소 자동 추출, &quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2> <br>&nbsp;&nbsp;&nbsp;2011 한국컴퓨터종합학술대회 논문집, Vol. 38, No. 1(A), pp. 225-228, June. 2011.   <br>Seon Yang and Youngjoong Ko  <br>&nbsp;&nbsp;&nbsp;&quot;Extracting Comparative Elements from Comparative Sentence,&quot;<br> &nbsp;&nbsp;&nbsp;Proceedings of Korea Computer Congress 2011 (KCC 2011), Vol. 38, No. 1(A),  <br>&nbsp;&nbsp;&nbsp;pp. 225-228, June. 2011. &nbsp;</font>&nbsp;</li>
+	            </ul>
+			
+			
+		
+	            <p><font color="#CC0000"># 2010</font></p>
+	
+			<ul>
+	                <li><font size="2">김성호,배상준,고영중  <br> &nbsp;&nbsp;&nbsp;&quot;위키피디아를 이용한 질의어의 중의성 해소 및 확장&quot;  <font size="2" color="blue">(우수 논문상)</font><FONT size=2> <br>&nbsp;&nbsp;&nbsp;제 37회 한국정보과학회 추계학술대회, Vol. 37, No. 2(A), pp. 46-47, November. 2010.  <br>Sungho Kim, Sangjoon Bae, and Youngjoong Ko <br>&nbsp;&nbsp;&nbsp;&quot;"Aumbiguity Resoluion and Expansion of Query using Wikipedia,"&quot;<br> &nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers <br>&nbsp;&nbsp;&nbsp;(KIISE-2010), Vol. 37, No. 2(A), pp. 46-47, November. 2010. &nbsp;</font>&nbsp;</li>
+	            </ul>
+			<ul>
+	                <li><font size="2">황재원,박용현,고영중  <br> &nbsp;&nbsp;&nbsp;&quot;지능형 말동무 로봇을 위한 효과적인 대화모델링&quot;  <br>&nbsp;&nbsp;&nbsp;제 37회 한국정보과학회 추계학술대회, Vol. 37, No. 2(A), pp. 44-45, November. 2010.  <br>Jaewon Hwang, Yonghyun Park, and Youngjoong Ko <br>&nbsp;&nbsp;&nbsp;&quot;The Effective Dialogue Modeling for Intelligent Companion Robot,&quot;<br> &nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers <br>&nbsp;&nbsp;&nbsp;(KIISE-2010), Vol. 37, No. 2(A), pp. 44-45, November. 2010. &nbsp;</font>&nbsp;</li>
+	            </ul>
+	
+	            <ul>
+	                <li><font size="2">김신일,양선, 고영중  <br> &nbsp;&nbsp;&nbsp;&quot;MathML 수식 분류를 위한 자질조합 비교연구&quot;  <br>&nbsp;&nbsp;&nbsp;&quot;제 22회 한글 및 한국어 정보처리 학술대회(HCLT-2010), pp. 37-41, October. 2010.  <br>Shinil Kim, Seon Yang, and Youngjoong Ko  <br>&nbsp;&nbsp;&nbsp;&quot;A Comparative Study on Feature Combination for MathML Formula Classification,
+	&quot; <br> &nbsp;&nbsp;&nbsp;Proceedings of the 22nd Annual Conference on Human and Cognitive Language Technology  <br>&nbsp;&nbsp;&nbsp;(HCLT-2010), pp. 37-41, October. 2010. &nbsp;</font>&nbsp;</li>
+	            </ul>
+	            
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2009</font></p>
+				<ul>
+	                <li><FONT size=2>Seon Yang and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;Extracting Comparative 
+					Sentences from Korean Text Documents Using Comparative Lexical Patterns 
+					 <BR> &nbsp;&nbsp;&nbsp;and Machine Learning Techniques, &quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Joint Conference of the 47th Annual Meeting of the Association for 
+					 <BR>&nbsp;&nbsp;&nbsp;Computational Linguistics and the 4th International Joint Conference on Natural Language 
+					 <BR>&nbsp;&nbsp;&nbsp;Processing of the Asian Federation of Natural Language 
+					Processing (ACL-IJCNLP 2009), 
+					<BR>&nbsp;&nbsp;&nbsp;in Singapore, Aug. 2009.&nbsp;<font size="2" color="blue">(SCOPUS)</font> <BR></FONT>
+					</li>
+	            </ul>
+				
+	            <ul>
+	                <LI><FONT size=2>박용현, 황재원, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;모바일 정보 검색을 위한 경량화 된 명사 추출기&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;2009한국정보과학회 학술심포지엄 유비쿼터스 컴퓨팅과 웹 정보기술(UCWIT 2009)<BR>&nbsp;&nbsp;&nbsp;No. 2, pp. 167-171, December. 2009. <BR>Yonghyun Park, Jaewon Hwang, and Youngjoong 
+	Ko <BR>&nbsp;&nbsp;&nbsp;&quot;A Light-weighted Noun Extractor for Mobile Information Retrieval,&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of KIISE Symposium Ubiquitous Computing and Web Information Technology 
+	<BR>&nbsp;&nbsp;&nbsp;(UCWIT-2009), Vol. 3, No. 2, pp. 167-171, December. 2009. 
+	</FONT>            </li>
+	            </ul>
+	            <ul>
+	                <LI><FONT size=2>김신일, 양선, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;음절 자질을 이용한 경량화 된 자동 띄어쓰기 시스템&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;2009한국정보과학회 학술심포지엄 유비쿼터스 컴퓨팅과 웹 정보기술(UCWIT 2009)<BR>&nbsp;&nbsp;&nbsp;No. 2, pp. 163-166, December. 2009.  <BR>Shinil Kim, 
+	Seon Yang, and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;A Light-weighted Automatic Segmentation 
+	System Using Syllable Features,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of KIISE Symposium 
+	Ubiquitous Computing and Web Information Technology
+	<BR>&nbsp;&nbsp;&nbsp;(UCWIT-2009), Vol. 3, No. 2, pp. 163-166, December. 2009. </FONT>            </li>
+	</ul>
+	            <ul>
+	                <LI><FONT size=2>배상준, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;위키피디아로부터의 한국어 개체명 사전 자동 추출&quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2><BR>&nbsp;&nbsp;&nbsp;제 36회 
+	한국정보과학회 추계학술대회, No. 2(A), pp. 78-79, November. 2009. <BR>Sangjoon Bae and 
+	Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Construction of Korean Named Entity Dictionaries 
+	from Wikipedia,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on Korean Institute of 
+	Information Scientists and Engineers
+	<BR>&nbsp;&nbsp;&nbsp;(KIISE-2009), Vol. 36, No. 2(A), pp. 78-79, November. 2009. </FONT>            </li>
+	</ul>
+	            <ul>
+	                <LI><FONT size=2>황재원, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;일반적, 영역 의존적 특성을 반영한 감정 자질의 의미지향성 추정방법&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;제 21회 한글 및 한국어 정보처리 학술대회(HCLT-2009),pp. 155-159, October. 2009. 
+	<BR>Jaewon Hwang and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;A Semantic Orientation Method 
+	of Sentiment Features Based on the General and Domain Dependent 
+	<BR> &nbsp;&nbsp;&nbsp;Characteristics,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 21th Annual Conference on Human and 
+	Cognitive Language Technology 
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2009), pp. 155-159, October. 2009. 
+	</FONT>            </li>
+	</ul>
+	            <ul>
+	                <LI><FONT size=2>양선, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;변환 기반 학습을 이용한 한국어 비교 문장 유형 분류&quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2><BR>&nbsp;&nbsp;&nbsp;제 21회 한글 
+	및 한국어 정보처리 학술대회(HCLT-2009), pp. 31-34, October. 2009. <BR>Seon Yang and 
+	Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;Classifying Korean Comparative Sentences Using 
+	Transformation-based Learning,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 21th Annual Conference 
+	on Human and Cognitive Language Technology
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2009), pp. 31-34, October. 2009. </FONT>            </li>
+	</ul>
+	            
+	            <ul>
+	                <LI><FONT size=2>정형일, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;적합성 피드백을 이용한 신문 기사 요약 시스템&quot; <BR>&nbsp;&nbsp;&nbsp;한국 컴퓨터 
+	종합 학술 대회 July. 2009. <BR>Hyounil Jeong, Youngjoong Ko, and Jungyun Seo 
+	<BR>&nbsp;&nbsp;&nbsp;&quot;A News Article Summarization Method Using the Pseudo Relevance Feedback Technique,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Korea Computer Congress 2009 
+	(KCC 2009), Vol. 36, No.1(B), pp. 101-104, <BR>&nbsp;&nbsp;&nbsp;July. 2009.</FONT>
+	                </li>
+	            </ul>
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2008</font></p>
+				<ul>
+	                <li><FONT size=2>Sangwoo Kang, Youngjoong Ko, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;A Plan-based 
+	Dialogue Model Using a Discouse Stack for Intelligent Human-Robot Interface 
+	<BR>&nbsp;&nbsp;&nbsp;Development,&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of the 7th International Conference 
+	on Advanced Language Processing and Web
+	&nbsp;&nbsp;&nbsp;Information Technology (ALPIT 2008), in Dalian, Liaoning, China, pp. 162-167, July, 23-25, 2008. </FONT></li>
+	            </ul>
+		
+				
+	            <ul>
+	                <LI><FONT size=2>황재원, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;한국어 문서 감정분류를 위한 감정 자질 가중치 강화 기법&quot; <BR>&nbsp;&nbsp;&nbsp;제 20회 
+	한글 및 한국어 정보처리 학술대회(HCLT-2008),pp. 200-205, October. 2008. <BR>Jaewon 
+	Hwang and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;A Weight Boosting Method of Sentiment Features 
+	for Korean Document Sentiment Classification,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 
+	20th Annual Conference on Human and Cognitive Language Technology 
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2008), pp. 200-205, October. 2008</FONT>	</li>
+	            </ul>
+	            
+	            <ul>
+	                <li><FONT size=2>양선, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;기계학습 기법을 이용한 한국어 비교 문장 추출&quot; <BR>&nbsp;&nbsp;&nbsp;제 20회 한글 및 
+	한국어 정보처리 학술대회(HCLT-2008), pp. 182-187, October. 2008. <BR>Seon Yang and 
+	Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;Extracting Korean Comarative Sentences by Machine Learning 
+	Techniques,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 20th Annual Conference on Human and 
+	Cognitive Language Technology
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2008), pp. 182-187, October. 2008.</FONT></li>
+	            </ul>
+	            <ul>
+	                <li><FONT size=2>배상준, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;그래프 기반의 상호 중요도 측정기법을 이용한 영역별 개체명 자동 추출&quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2>
+	<BR>&nbsp;&nbsp;&nbsp;제 20회 한글 및 한국어 정보처리 학술대회(HCLT-2008), pp. 17-22, October. 2008. 
+	<BR>Sangjoon Bae and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Named Entities 
+	Extraction Using the Graph-based Measurement Technique of the <BR>&nbsp;&nbsp;&nbsp;Mutual 
+	Importance,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 20th Annual Conference on Human and 
+	Cognitive Language Technology
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2008), pp. 17-22, October. 2008.</FONT></li>
+	            </ul>
+	            <ul>
+	                <li><FONT size=2>배경만, 백종탁, 고영중, 김종훈 <BR>&nbsp;&nbsp;&nbsp;&quot;한국어 문형을 이용한 문장 정규화 기반의 FAQ 자동 응답 
+	시스템&quot; <BR>&nbsp;&nbsp;&nbsp;제 20회 한글 및 한국어 정보처리 학술대회(HCLT-2008), pp. 171-175, October. 2008. 
+	<BR>Kyoung-man Bae, Jong-Tak Back, Youngjoong Ko, and Jonghoon Kim 
+	<BR>&nbsp;&nbsp;&nbsp;&quot;An Automated FAQ Answering System Based on Sentence Normalization Using Korean <BR>&nbsp;&nbsp;&nbsp;Sentence 
+	Patterns,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 20th Annual 
+	Conference on Human and Cognitive Language Technology
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2008), pp. 171-175, October. 2008. </FONT></li>
+	            </ul>
+	            <ul>
+	                <li><FONT size=2>강상우, 박홍민, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;유사도 계산과 대화전이 네트워크를 이용한 말뭉치 기반 대화 
+	시스템&quot; <BR>&nbsp;&nbsp;&nbsp;제 20회 한글 및 한국어 정보처리 학술대회(HCLT-2008)), pp. 161-165, October. 2008. 
+	<BR>Sangwoo Kang, Hongmin Park, Youngjoong Ko, and Jungyun Seo 
+	<BR>&nbsp;&nbsp;&nbsp;&quot;The Corpus-based Dialogue System Using a Dialogue Transition Network and a Similarity 
+	<BR>&nbsp;&nbsp;&nbsp;Measure Method,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 20th Annual 
+	Conference on Human and Cognitive Language Technology
+	<BR>&nbsp;&nbsp;&nbsp;(HCLT-2008), pp. 161-165, October. 2008. <BR></FONT></li>
+	            </ul>
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2007</font></p>
+				<ul>
+	                <li><font size="2">Seon Yang and Youngjoong Ko,  
+					<br>&nbsp;&nbsp;&nbsp;&quot;Extracting Comparative Entities and Predicates from Texts Using Comparative Type Classification,&quot;
+					<br>&nbsp;&nbsp;&nbsp;Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: 
+					<br>&nbsp;&nbsp;&nbsp;Human Language Technologies (ACL-HLT 2011), in Portland Oregon, USA, June, 19-24, 2011.&nbsp;</font>&nbsp;</li>
+				</ul>
+		
+	            <ul>
+	                <li><font size="2">배경만, 고영중, 최호섭, 김종훈<BR>&nbsp;&nbsp;&nbsp;&quot;논문 검색을 위한 K-means 알고리즘 기반의 검색 결과 내 Clustering&quot;<BR>&nbsp;&nbsp;&nbsp;한국정보과학회 학술 심포지움 논문집, 제 1권, 제1호, pp.217 ~ 222, December 2007.<BR>Kyoung-Man Bae, Youngjoong Ko, Hoseop Choe, and Jonghoon Kim <BR>&nbsp;&nbsp;&nbsp;&quot;A 
+	Clustering Method Based on K-means Algorithm for Paper Search Results&quot;, 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of the 1st KIISE symposium, Vol. 1, No. 1, pp.217 ~ 222, December 2007.</font></li>
+	            </ul>
+	            <ul>
+	                <li><font size="2">황재원, 고영중<BR>&nbsp;&nbsp;&nbsp;&quot;효과적인 감정 자질을 이용한 한국어 문서 감정 분류 시스템&quot; <font size="2" color="blue">(우수 논문상)</font><FONT size=2><BR>&nbsp;&nbsp;&nbsp;한국정보과학회 2007 가을 학술발표 논문집, 제 34권, 제2호, pp.60~61, October 2007.<BR>Jeawon Hwang 
+	and Youngjoong Ko <BR>&nbsp;&nbsp;&nbsp;&quot;A Korean Sentiment Classification System Using 
+	Effective Emotion Features&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on 
+	Korean Institute of Information Scientists and Engineers 
+	<BR>&nbsp;&nbsp;&nbsp;(KIISE-2007), Vol. 34, No. 2, pp. 60-61, October 2007. </font></li>
+	            </ul>
+	            
+	            <ul>
+	                <li><font size="2">김병우, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;어휘 의미 패턴(Lexico-Semantic Pattern)과 온톨로지를 이용한 정보검색기의 설계 및 구현&quot;, <BR>&nbsp;&nbsp;&nbsp;HCI 2007 학술대회, 1권, pp. 957-962, Feb. 2007. 
+	<BR>Byoungwoo Kim and Youngjoong Ko (2007), <BR>&nbsp;&nbsp;&nbsp;&quot;The Design and 
+	Implementation of an Information Retrieval System Using Lexico-Semantic 
+	<BR>&nbsp;&nbsp;&nbsp;Pattern and Ontology,&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of Conference on Human and Computer 
+	Interaction (HCI-2007), <BR>&nbsp;&nbsp;&nbsp;Vol.1, pp.957-962, February 2007.</font></li>
+	            </ul>
+	            <ul>
+	                <li><font size="2">황재원, 전태균, 고영중 <BR>&nbsp;&nbsp;&nbsp;&quot;종자 어휘를 이용한 자질 추출과 지지벡터기계(SVM)을 이용한 문서감정 분류 시스템의 
+	개발&quot;, <BR>&nbsp;&nbsp;&nbsp;HCI 2007 학술대회, 1권, pp. 938-942, Feb. 2007. <BR>Jeawon Hwang, 
+	Taegyun Jeon, and Youngjoong Ko (2007), <BR>&nbsp;&nbsp;&nbsp;&quot;A Sentiment Classification 
+	System Using Feature Extraction from Seed Words and Support <BR>&nbsp;&nbsp;&nbsp;Vector 
+	Machine,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Conference on Human and Computer 
+	Interaction(HCI-2007),
+	<BR>&nbsp;&nbsp;&nbsp;Vol.1, pp.938-942, February 2007.</font></li>
+	            </ul>
+	            <ul>
+	                <li><font size="2">안홍국, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;유사 적합성 피드백 기반의 문서 요약 기법을 이용한 효과적인 
+	스니펫(snippet)생성&quot;, <BR>&nbsp;&nbsp;&nbsp;HCI 2007 학술대회, 1권, pp. 174-181, Feb. 2007. 
+	<BR>Hongguk An, Youngjoong Ko, Jungyun Seo (2007), <BR>&nbsp;&nbsp;&nbsp;&quot;An Effective Snippet 
+	Generation Method Using Text Summarization Techniques Based on <BR>&nbsp;&nbsp;&nbsp;Pseudo 
+	Relevance Feedback,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Conference on Human and Computer 
+	Interaction (HCI-2007), <BR>&nbsp;&nbsp;&nbsp;Vol.1, pp.174-181, February 2007.&nbsp;<font size="2" color="blue">(SCOPUS)</font></font></li>
+	            </ul>
+	            
+				<p><font color="#CC0000"># </font><font color="#CC0000">2006</font></p>
+				
+				<ul>
+	                <li><font size="2">Sangwoo Kang, Youngjoong Ko, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;A Plan-based Model for 
+	Efficient Response Generation in Dialogue User Interface&quot;, <BR>&nbsp;&nbsp;&nbsp;The 3rd 
+	CIR-COE Joint Workshop On Robot Technologies for Human-Robot Coexistence, 
+	<BR>&nbsp;&nbsp;&nbsp;in KIST, Seoul, Korea, Sept. 3-4, 2006. </font></li>
+	            </ul>
+				<ul>
+	                <LI><font size="2">Youngjoong Ko and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Learning with Unlabeled Data for Text 
+	Categorization Using a Bootstrapping and a Feature <BR>&nbsp;&nbsp;&nbsp;Projection Technique 
+	&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 42nd Annual Meeting of the Association 
+	for Computational Linguistics <BR>&nbsp;&nbsp;&nbsp;(ACL 2004), in Barcelona, Spain, 
+	pp.255-262, July 2004. <BR></font>            </li>
+	</ul>
+	
+				
+	            <ul>
+	                <li><font size="2">강상우, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;대화시스템을 위한 계획인식과 담화스택을 이용한 효과적인 응답 생성&quot;, <BR>&nbsp;&nbsp;&nbsp;제 18회 한글 및 
+	한국어 정보처리 학술 대회(HCLT 2006), pp. 177-182, Oct. 2006. <BR>Sangwoo 
+	Kang, Youngjoong Ko, and Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot; Using Plan 
+	Recognition and a Discourse Stack for Efficient Response Generation in a 
+	<BR>&nbsp;&nbsp;&nbsp;Dialogue System,&quot; Proceedings of the 18th Annual Conference on 
+	Human and Cognitive <BR>&nbsp;&nbsp;&nbsp;Language (HCLT-2006), pp. 177-182, October 
+	2006.</font></li>
+	            </ul>
+	            
+	            <ul>
+	                <li><font size="2">강상우, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;지능형 인간로봇 개발을 위한 계획기반의 대화 모델 설계&quot;, <BR>&nbsp;&nbsp;&nbsp;인간지능 생활지능 지능로봇 
+	기술개발사업단 제6차 기술교류 워크숍, Aug. 2006. <BR>&nbsp;&nbsp;&nbsp;(</font><font size="2" color="brown">SCIE</font><font size="2">,ISSN 0302-9743) <BR>Sangwoo Kang, Youngjoong Ko, 
+	and Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot;The Design of a Plan-based Dialogue Model for 
+	Intelligent Human-Robot Development,&quot;<BR>&nbsp;&nbsp;&nbsp;The 6th Workshop for Robot 
+	Development Technologies, August 2006.</font></li>
+	            </ul>
+	            
+				
+				<p><font color="#CC0000"># </font><font color="#CC0000">2004</font></p>
+	            <ul>
+	                <LI><font size="2">Hyoungdong Han, Youngjoong Ko, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Improving Binary Text 
+	Classification Using the EM Algorithm&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of Asian Information 
+	Retrieval Symposium, Poster Session(AIRS 2004),<BR>&nbsp;&nbsp;&nbsp;in Beijing, China, 
+	pp.325-328, Oct, 2004. </font>            </li>
+	</ul>
+	
+	            <ul>
+	                <LI><font size="2">한형동, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;EM알고리즘을 이용한 이진 분류 문서 범주화의 성능 향상&quot;, <BR>&nbsp;&nbsp;&nbsp;한국 정보 과학회 추계 
+	발표회 논문집, pp.790-792, Oct. 2004. <BR>Hyoungdong Han, Youngjoong Ko, and 
+	Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot;Improving Performance of Binary Text Classification 
+	Using the EM Algorithm,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Fall Conference on Korean 
+	Institute of Information Scientists and Engineers <BR>&nbsp;&nbsp;&nbsp;(KIISE-2004), 
+	pp.790-792, October 2004.</font>            </li>
+	</ul>
+	            <ul>
+	                <LI><font size="2">심보준, 고영중, 김학수, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;자연어 질의응답 시스템을 위한 is-a관계 패턴의 구축과 활용&quot;, 
+	<BR>&nbsp;&nbsp;&nbsp;제16회 한글,언어,인지 학술 대회, pp.181-188, Sep. 2004. <BR>Bojun Shim, 
+	Youngjoong Ko, Harksoo Kim, and Jungyun Seo (2004),<BR>&nbsp;&nbsp;&nbsp;&quot;Extracting and 
+	Utilizing is-a Relation Patterns for Question Answering System.&quot; 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of the 16th Annual Conference on Human and Cognitive Language 
+	(HCLT-2004),<BR>&nbsp;&nbsp;&nbsp;pp.181-188, October 2004.</font>            </li>
+	</ul>
+	            
+	            <ul>
+	                <LI><font size="2">정운철, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;2단계 문장 추출방법을 이용한 자동 문서 요약&quot;, <BR>&nbsp;&nbsp;&nbsp;한국 정보 과학회 춘계 발표회 
+	논문집(B), pp.910-912, April. 2004. <BR>Wooncheol Jung, Youngjoong Ko, and 
+	Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot;Text Summarization with Two Step Sentence 
+	Extraction,&quot; Proceedings of Spring Conference<BR>&nbsp;&nbsp;&nbsp;on Korean Institute of 
+	Information Scientists and Engineers (KIISE-2004),<BR>&nbsp;&nbsp;&nbsp;pp.910-912, April. 
+	2004.</font></LI></ul>
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2002</font></p>
+	            <ul>
+	                <LI><font size="2">Youngjoong Ko and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Text Categorization Using Feature 
+	Projections&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 19th International Conference on 
+	Computational Linguistics <BR>&nbsp;&nbsp;&nbsp;(COLING 2002) , in Taipei, Taiwan, 
+	pp.467-473, August, 2002. </font>            </ul>
+	            <ul>
+	                <LI><font size="2">Youngjoong Ko, Jinwoo Park, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Text 
+	Categorization using the Importance of Sentences &quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of the 
+	19th International Conference on Computational Linguistics <BR>&nbsp;&nbsp;&nbsp;(COLING 2002), 
+	in Taipei, Taiwan, pp.474-480, August, 2002.</font>            </li>
+	</ul>
+	
+	            <ul>
+	                <li><font size="2">김건오, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;어휘 클러스터링을 이용한 자동 문서 요약&quot;, <BR>&nbsp;&nbsp;&nbsp;한국 정보 과학회 춘계 발표회 논문집, pp. 
+	463-465, April. 2002. <BR>Kono Kim, Youngjoong Ko, Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Text Summarization with Lexicla Clustering,&quot; Proceedings of 
+	Spring Conference of <BR>&nbsp;&nbsp;&nbsp;Korean Institue of Information Scientists and 
+	Engineers (KIISE-2002), pp.463-465, April 2002.<BR></font></li>
+	                </ul>
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2001</font></p>
+				
+				<ul>
+	                <li><font size="2">Choong-Nyoung Seon, Youngjoong Ko, Jeong-Seok Kim, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Named 
+	Entity Recognition using Machine Learning Methods and Pattern-Selection 
+	Rules&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of 6th Natural Language Processing Pacific Rim 
+	Symposium (NLPRS 2001) , <BR>&nbsp;&nbsp;&nbsp;in Tokyo, Japan, pp.229-236, November, 
+	2001. <BR></font></li>
+	            </ul>
+			
+				
+				
+	            <ul>
+	                <li><font size="2">박진우, 고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;문서 요약 기법을 이용한 자동 문서 범주화&quot;, <BR>&nbsp;&nbsp;&nbsp;한글 및 한국어 정보 처리 학술대회 논문집, 
+	pp.138-145, October&nbsp;2001. <BR>Jinwoo Park, Youngjoong Ko, and Jungyun Seo 
+	(2001), <BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Text Catagorization Using Text Summarization 
+	Techniques,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of 13th Annual Conference on Human and Cognitive 
+	Language <BR>&nbsp;&nbsp;&nbsp;(HCLT-2006), pp.138-145, October 2001.</font></li>
+	            </ul>
+	            
+	            <p><font color="#CC0000"># </font><font color="#CC0000">2000</font></p>
+	            <ul>
+	                <LI><font size="2">Youngjoong Ko and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Automatic Text Categorization by 
+	Unsupervised Learning&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings of The 18th International Conference 
+	on Computational Linguistics<BR>&nbsp;&nbsp;&nbsp;(COLING 2000) , in Saarbrucken, 
+	Germany, pp.453-459, July, 2000. </font>            </ul>
+	            <ul>
+	                <LI><font size="2">Youngjoong Ko, Sooyong Park, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Web-based Requirements 
+	Elicitation Supporting System Using Requirements Categorization&quot;, 
+	<BR>&nbsp;&nbsp;&nbsp;Proceedings of Twelfth International Conference on Software Engineering 
+	and Knowledge <BR>&nbsp;&nbsp;&nbsp;Engineering , in Chicago, USA, pp.344-351, July, 
+	2000. </font>            </ul>
+	<p><font color="#CC0000"># </font><font color="#CC0000">1999</font></p>
+	            <ul>
+	                <li><font size="2">Harksoo Kim, Youngjoong Ko, Sooyong Park, and Jungyun Seo <BR>&nbsp;&nbsp;&nbsp;&quot;Informal 
+	Requirements Analysis Supporting System for Human Engineer&quot;, <BR>&nbsp;&nbsp;&nbsp;Proceedings 
+	of Conference on IEEE SMC99, Vol.3, in Tokyo JAPAN, pp.1013-1018, Oct. 
+	<BR>&nbsp;&nbsp;&nbsp;1999. &nbsp;<font size="2" color="blue">(SCOPUS)</font><BR></font></li>
+	            </ul>
+				
+	            <ul>
+	                <LI><font size="2">고영중, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;다중 모드 대화 시스템에서의 표정과 제스쳐를 결합한 화행 분석&quot;, <BR>&nbsp;&nbsp;&nbsp;'99 한국인지과학회 춘계 
+	학술대회 논문집, pp.199-204, May. 1999. <BR>Youngjoong Ko and Jungyun 
+	Seo<BR>&nbsp;&nbsp;&nbsp;&quot;Speech Act Analysis with Facial Expressions and Gestures in a 
+	Multi-Model Dialogue <BR>&nbsp;&nbsp;&nbsp;System, &quot;Proceedings of Conference of Korea Cognitive 
+	Science society, <BR>&nbsp;&nbsp;&nbsp;pp.199-204, May 1999.<BR></font></li>
+	            </ul>
+	            <ul>
+	                <LI><font size="2">김학수, 고영중, 박수용, 서정연 <BR>&nbsp;&nbsp;&nbsp;&quot;문서간 유사도 측정을 통한 효율적인 사용자 요구 분석&quot;, <BR>&nbsp;&nbsp;&nbsp;HCI'99 
+	학술대회 논문집, pp.73-79, Feb.&nbsp;1999. <BR>Harksoo Kim, Youngjoong Ko, Sooyoung 
+	Park, and Jungyun Seo<BR>&nbsp;&nbsp;&nbsp;&quot;&quot;Efficient Analysis of User Requirements by 
+	Measuring the Similarity of Documents,&quot; <BR>&nbsp;&nbsp;&nbsp;Proceedings of Conference on 
+	Human and Computer Interaction (HCI-1999), pp.73-79, <BR>&nbsp;&nbsp;&nbsp;February 1999.</font></li>
+	            </ul>
+

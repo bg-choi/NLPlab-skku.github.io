@@ -9,11 +9,17 @@ title: photos
 	margin-right: auto;
 	width: 50%;
 	}
-	.columnbottom{
-	vertical-align:bottom;
+	.entire.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	height: 50%;
+	width: 50%;
+	}
 	
 </style>
-
 <h4>About Us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
@@ -95,15 +101,15 @@ title: photos
   
   <h4 style = "text-align:center;">#2012</h4>
   <div class="slider">
-	<div><img src = "/assets/img/photos/0044.jpg" title = "12년 12월:단체 회식"/></div>
-	<div><img src = "/assets/img/photos/0043.jpg" title = "12년 12월:단체 회식"/></div>
-	<div><img src = "/assets/img/photos/0042.jpg" title = "12년 12월:단체 회식"/></div>
-	<div><img src = "/assets/img/photos/0041.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
-	<div><img class = "center" src = "/assets/img/photos/0040.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
-	<div><img src = "/assets/img/photos/0039.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
-	<div><img src = "/assets/img/photos/0038.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
-	<div><img src = "/assets/img/photos/0037.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
-	<div><img class = "center" src = "/assets/img/photos/0036.jpg" title = "12년 7월:ACL"/></div>
-	<div><img class = "center" src = "/assets/img/photos/0035.jpg" title = "12년 7월:ACL"/></div>
-	<div><img src = "/assets/img/photos/0034.jpg" title = "12년 7월:Douglas W. Oard 교수님 세미나"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0044.jpg" title = "12년 12월:단체 회식"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0043.jpg" title = "12년 12월:단체 회식"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0042.jpg" title = "12년 12월:단체 회식"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0041.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0040.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0039.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0038.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0037.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0036.jpg" title = "12년 7월:ACL"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0035.jpg" title = "12년 7월:ACL"/></div>
+	<div><img class = "entirecenter" src = "/assets/img/photos/0034.jpg" title = "12년 7월:Douglas W. Oard 교수님 세미나"/></div>
   </div>

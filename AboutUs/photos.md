@@ -60,10 +60,10 @@ title: photos
   
   <h4 class = "center">#2015</h4>
   <div class="slider">
-	<div><img class = "center" src = "/assets/img/photos/0065.jpg" height = "600" title = "15년 10월:한국정보과학회 KKC2015 장려상수상"/></div>
-	<div><img class = "center" src = "/assets/img/photos/0065.jpg" height = "600" title = "15년 10월:한국정보과학회 KKC2015 장려상 수상"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0065.jpg" height = "700" title = "15년 10월:한국정보과학회 KKC2015 장려상수상"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0065.jpg" height = "700" title = "15년 10월:한국정보과학회 KKC2015 장려상 수상"/></div>
 	<div><img src = "/assets/img/photos/0064.jpg" title = "15년 10월:한글 및 한국어 정보처리 학술대회"/></div>
-	<div><img src = "/assets/img/photos/0063.jpg" title = "15년 10월:한글 및 한국어 정보처리 학술대회"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0063.jpg" title = "15년 10월:한글 및 한국어 정보처리 학술대회"/></div>
 	<div><img src = "/assets/img/photos/0062.jpg" title = "15년 6월:한국정보과학회 KKC2015 우수논문상 수상"/></div>
 	<div><img src = "/assets/img/photos/0061.jpg" title = "15년 6월:한국정보과학회 KKC2015 공헌상 수상"/></div>
 	<div><img src = "/assets/img/photos/0060.jpg" title = "15년 6월:한국정보과학회 KKC2015"/></div>

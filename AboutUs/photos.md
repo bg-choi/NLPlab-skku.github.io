@@ -89,7 +89,7 @@ title: photos
   <h4 style = "text-align:center;">#2013</h4>
   <div class="slider">
 	<div><img src = "/assets/img/photos/0047.jpg" title = "13년 5월:홈커밍데이"/></div>
-	<div><img src = "/assets/img/photos/0046.jpg" title = "13년 2월:HCL 학회"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0046.jpg" title = "13년 2월:HCL 학회"/></div>
 	<div><img src = "/assets/img/photos/0045.jpg" title = "13년 2월:HCL 학회"/></div>
   </div>
   
@@ -98,12 +98,12 @@ title: photos
 	<div><img src = "/assets/img/photos/0044.jpg" title = "12년 12월:단체 회식"/></div>
 	<div><img src = "/assets/img/photos/0043.jpg" title = "12년 12월:단체 회식"/></div>
 	<div><img src = "/assets/img/photos/0042.jpg" title = "12년 12월:단체 회식"/></div>
-	<div><img src = "/assets/img/photos/0040.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
-	<div><img src = "/assets/img/photos/0040.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
-	<div><img class = "center" src = "/assets/img/photos/0039.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img src = "/assets/img/photos/0041.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0040.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
+	<div><img src = "/assets/img/photos/0039.jpg" title = "12년 10월:한글 정보 처리 학회"/></div>
 	<div><img src = "/assets/img/photos/0038.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
 	<div><img src = "/assets/img/photos/0037.jpg" title = "12년 8월:한국 컴퓨터 종합 학술대회"/></div>
-	<div><img src = "/assets/img/photos/0036.jpg" title = "12년 7월:ACL"/></div>
-	<div><img src = "/assets/img/photos/0035.jpg" title = "12년 7월:ACL"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0036.jpg" title = "12년 7월:ACL"/></div>
+	<div><img class = "center" src = "/assets/img/photos/0035.jpg" title = "12년 7월:ACL"/></div>
 	<div><img src = "/assets/img/photos/0034.jpg" title = "12년 7월:Douglas W. Oard 교수님 세미나"/></div>
   </div>

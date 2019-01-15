@@ -9,6 +9,15 @@ title: photos
 	margin-right: auto;
 	width: 50%;
 	}
+	.entirecenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	height: 100%;
+	width: 50%;
+	}
 </style>
 
 <h4>About Us</h4>

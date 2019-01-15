@@ -26,7 +26,7 @@ title: journalpapers
 		<a href="#6"> 2013 </a>|<a href="#7"> 2012 </a>|<a href="#8"> 2011 </a>|<a href="#9"> 2010 </a>|<a href="#10"> 2009 </a>|
 		<a href="#11"> 2008 </a>|<a href="#12"> 2007 </a>|<a href="#13"> 2006 </a>|<a href="#14"> 2005</a>|<a href="#15"> 2003 </a>|
 		<a href="#16"> 2002 </a>|<a href="#17"> 2000 </a></div>
-	
+</div>	
 <br>
 <a name="1"><font style = "color:#0000A5;">#2018</font></a>
 <ul>

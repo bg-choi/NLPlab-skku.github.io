@@ -23,9 +23,9 @@ title: photos
   
   
   <div class="slider">
-	<div><img src = "/assets/img/photos/0079.jpg" height = "400" title = "18년 11월:4차 산업혁명 디지털 포렌식 아이디어 공모전 우수상 수상"/></div>
-	<div><img src = "/assets/img/photos/0078.jpg" height = "400" title = "18년 5월:홈커밍데이"/></div>
-	<div><img src = "/assets/img/photos/0077.jpg" height = "400" title = "18년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0079.jpg" title = "18년 11월:4차 산업혁명 디지털 포렌식 아이디어 공모전 우수상 수상"/></div>
+	<div><img src = "/assets/img/photos/0078.jpg" title = "18년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0077.jpg" title = "18년 5월:홈커밍데이"/></div>
   </div>
   
   

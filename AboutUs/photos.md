@@ -9,7 +9,7 @@ title: photos
 	margin-right: auto;
 	width: 50%;
 	}
-	.entire.center{
+	.entirecenter{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -18,8 +18,8 @@ title: photos
 	height: 50%;
 	width: 50%;
 	}
-	
 </style>
+
 <h4>About Us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">

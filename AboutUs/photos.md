@@ -15,7 +15,7 @@ title: photos
 	margin-right: auto;
 	margin-top: auto;
 	margin-bottom: auto;
-	height: 100%;
+	height: 50%;
 	width: 50%;
 	}
 </style>

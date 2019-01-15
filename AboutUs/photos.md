@@ -38,7 +38,14 @@ title: photos
 	<div><img src = "/assets/img/photos/0073.jpg" title = "17년 5월:인지과학회-4차 산업혁명 시대 인간과 로봇의 공진화"/></div>
 	<div><img src = "/assets/img/photos/0072.jpg" height = "400" title = "17년 5월:덕수궁에서..."/></div>
 	<div><img src = "/assets/img/photos/0071.jpg" title = "17년 5월:덕수궁에서..."/></div>
-	
+  </div>
+  
+  <h4>#2016</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0070.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
+	<div><img src = "/assets/img/photos/0069.jpg" title = "16년 8월:제 1회 동아대-서강대 Deep Learning 기술 교류 워크샵"/></div>
+	<div><img src = "/assets/img/photos/0068.jpg" title = "16년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0067.jpg" title = "16년 5월:홈커밍데이"/></div>
   </div>
   
   

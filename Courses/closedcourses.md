@@ -18,4 +18,4 @@ title: closedcourses
   <p class="meta">지난 강의</p>
   </div>
   
-  ## 
+  ## 와우

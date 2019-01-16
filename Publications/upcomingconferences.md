@@ -28,3 +28,23 @@ title: upcomingconferences
 	<li><a href="http://www.coling-2014.org/">COLING</a>: International Conference on Computational Linguistics</li>
 	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning</li>
   </ul>
+	
+  <h3>Information Retrieval</h3>	
+  <ul>
+	<li><a href="http://sigir.org/">SIGIR</a>: Special Interest Group on Information Retrieval</li>
+  </ul>
+  
+  <h3>Artificial Intelligence</h3>	
+  <ul>
+	<li><a href="http://www.aaai.org/home.html">AAAI</a>: Association for the Advancement of Artificial Intelligence</li>
+  </ul>
+  
+  <h3>Machine Learning</h3>	
+  <ul>
+	<li><a href="http://icml.cc/2015/">ICML</a>: International Conference on Machine Learning</li>
+  </ul>
+  
+  <h3>Data Mining</h3>	
+  <ul>
+	<li><a href="http://icdm2014.sfu.ca/home.html">ICDM</a>: International Conference on Data Mining</li>
+  </ul>

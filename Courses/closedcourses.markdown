@@ -19,7 +19,7 @@ title: closedcourses
   </div>
   
 
-## In 2015
+  <h4 class="pageTitle"> In 2015</h4>
 * 1st semester
   * Data Structure (자료구조)
   * Artificial Intelligence (인공지능)

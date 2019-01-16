@@ -16,6 +16,6 @@ title: closedcourses
   <p class="post">
   <h1 class="pageTitle">Closed Courses</h1>	
   <p class="meta">지난 강의</p>
-  <p>
+  </p>
   
 ## 아우zzzz

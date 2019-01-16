@@ -16,10 +16,9 @@ title: closedcourses
   <div class="post">
   <h1 class="pageTitle">Closed Courses</h1>	
   <p class="meta">지난 강의</p>
-  </div>
   
 
-  <h4 class="pageTitle"> In 2015</h4>
+## In 2015
 * 1st semester
   * Data Structure (자료구조)
   * Artificial Intelligence (인공지능)
@@ -126,5 +125,4 @@ title: closedcourses
   * C++ Language (C++ 언어)
   * Discrete Mathematics (이산수학)
   * nformation Retrieval (Graduate course)
-  
   

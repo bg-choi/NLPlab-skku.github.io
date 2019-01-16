@@ -8,11 +8,10 @@ title: upcomingconferences
             <li class="post-link">
 		    <a class="post-title" href="https://youngjoongko.github.io/Publications/journalpapers/">Journal Papers</a>
             </li>
-            <li>
-                Conference Papers(here)
-            </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Publications/upcomingconferences/">Upcoming Conferences</a>
+                    <a class="post-title" href="https://youngjoongko.github.io/Publications/conferencepapers/">Conference Papers</a>
+            </li>
+            <li>Upcoming Conferences(here)
             </li>
           </ul>
   </div>
@@ -21,16 +20,12 @@ title: upcomingconferences
 	<h1 class="pageTitle">Upcoming Conferences</h1>	
 	<p class="meta">예정된 관련 학회들</p>
 	<h3>NLP (Natural Language Processing)</h3>
-	ACL : Association for Computational Linguistics<a href="http://www.aclweb.org/">(링크)</a><br>
-	EMNLP : Empirical Methods in Natural Language Processing<a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47">(링크)</a><br>
-	NAACL : North American Chapter of the Association for Computational Linguistics<a href="http://naacl.org/">(링크)</a><br>
-  	EACL : European Chapter of the Association for Computational Linguistics<a href="http://www.eacl.org/page.php?id=index">(링크)</a><br>
-   	COLING : International Conference on Computational Linguistics<a href="http://www.coling-2014.org/">(링크)</a><br>
-  	CoNLL : Conference on Natural Language Learning<a href="http://ifarm.nl/signll/conll/">(링크)</a><br>
+	<a href="http://www.aclweb.org/">ACL</a> : Association for Computational Linguistics<br>
+	<a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
+	<a href="http://naacl.org/">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>
+	<a href="http://www.eacl.org/page.php?id=index">EACL</a> : European Chapter of the Association for Computational Linguistics<br>
+	<a href="http://www.coling-2014.org/">COLING</a> : International Conference on Computational Linguistics<br>
+	<a href="http://ifarm.nl/signll/conll/">CoNLL</a> : Conference on Natural Language Learning<br>
 	
-	
-	
-  
-  
   
 </div>

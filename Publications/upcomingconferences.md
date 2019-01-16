@@ -19,11 +19,17 @@ title: upcomingconferences
 
 <div class="post">
 	<h1 class="pageTitle">Upcoming Conferences</h1>	
-  <p class="meta">곧 있을 관련 학회</p><br>
-  
-  * ## NLP (Natural Language Processing) 
-    * ACL: Association for Computational Linguistics 
-    * EMNLP: Empirical Methods in Natural Language Processing 
+	<p class="meta">예정된 관련 학회들</p><br>
+	<h3>NLP (Natural Language Processing)</h3>
+	ACL: Association for Computational Linguistics
+	EMNLP: Empirical Methods in Natural Language Processing
+	NAACL: North American Chapter of the Association for Computational Linguistics 
+  	EACL: European Chapter of the Association for Computational Linguistics 
+   	COLING: International Conference on Computational Linguistics 
+  	CoNLL: Conference on Natural Language Learning
+	
+	
+	
   
   
   

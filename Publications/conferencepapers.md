@@ -30,13 +30,10 @@ title: conferencepapers
 </div>
 <br>
 <p><font color="#CC0000"># 2018</font></p>
-			<ul><li><font size="2">윤정민, 고영중.
-			<br>    "
-				 노출 현황 문제에 효과적인 대화 단위 RNN-CNN 기반의 화행 분석 시스템
-				"
-				<br>  
-			 2018 한글 및 한국어 정보처리 학술대회
-				 </font> </li></ul>
+			<ul><li>윤정민, 고영중.
+			<br>    " 노출 현황 문제에 효과적인 대화 단위 RNN-CNN 기반의 화행 분석 시스템"
+			<br>  2018 한글 및 한국어 정보처리 학술대회
+			</li></ul>
 				 <ul><li><font size="2">안재현, 고영중.<font size="2" color="blue">(우수 논문상)</font>
 			<br>    "
 				 합성곱 신경망에 의한 발화 임베딩을 사용한 유사도 측정 기반의 채팅 말뭉치 반자동 확장 방법

@@ -17,12 +17,11 @@ title: upcomingconferences
   </div>
 
 <div class="post">
-  <h1 class="pageTitle">Fields</h1>	
-  <p class="meta">분야</p>
-  <h2>1. 자연어 처리 기반 기술</h2>
-  <p> 자연어 이해 그룹에서는 자연어 문장의 구조를 인식하고 이를 의미구조로 변환해 주는 자연어 이해 시스템을 개발하는 것을 목표로 하고 있다. 현재 다음과 같은 언어 처리 모델들이 자연어처리에 필요한 기반 기술들이다.</p>
+  <h1 class="pageTitle">Upcoming Conferences</h1>	
+  <p class="meta">예정 학회들</p>
+  <h3>NLP (Natural Language Processing)</h3>
   <ul>
-	<li>형태소 분석 (POS(Part-Of-Speech) Analysis)모델</li>
+	<li><a href="http://www.aclweb.org/">ACL</a>: Association for Computational Linguistics</li>
   	<li>개체명 인식 (Named-Entity Recognition) 모델</li>
   	<li>구문 분석 (Syntactic Analysis) 모델</li>
   	<li>의미 분석 (Semantic Analysis) 모델</li>

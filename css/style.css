@@ -571,8 +571,6 @@ form {
 TABLE STYLES
 ***************/
 table {
-  width: 75%;
-  border: 1px solid #d0d0d0;
   margin-bottom: 1.5em; }
   table caption {
     margin: 0 0 7px;
@@ -587,7 +585,6 @@ tr {
     background-color: #f7f7f7; }
 
 td {
-  padding: 7px;
   border-right: 1px solid #d0d0d0; }
   td:last-child {
     border-right: 0; }

@@ -13,9 +13,9 @@ title: closedcourses
           </ul>
   </p>
   
-  <p class="post">
+  <div class="post">
   <h1 class="pageTitle">Closed Courses</h1>	
   <p class="meta">지난 강의</p>
-  </p>
+  </div>
   
 ## 아우zzzz

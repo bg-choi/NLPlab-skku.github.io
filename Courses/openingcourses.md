@@ -14,8 +14,8 @@ title: openingcourses
   </div>
   
   <div class="post">
-  <h1 class="pageTitle">Fields</h1>	
-  <p class="meta">분야</p>
-  <h2>In 2018 2st semester</h2>
-   <p>&nbsp;<a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab45', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"> 파일처리론</a><br>
+  <h1 class="pageTitle">Opening Courses</h1>	
+  <p class="meta">현재 </p>
+  <h2 style = "text-align: center;">In 2018 2st semester</h2>
+   <p style = "text-align: center;">&nbsp;<a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab45', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"> 파일처리론</a><br>
    &nbsp;&nbsp;&nbsp;<a href="javascript:na_open_window('win', 'http://espa.donga.ac.kr/fp2018', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self">->ESPA</a></p>

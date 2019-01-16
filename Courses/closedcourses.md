@@ -61,7 +61,7 @@ title: closedcourses
   * Artificial Intelligence(인공지능)
   * The Lecture for Freshmen(신입생강좌)
   * 일반대학원(Natural Language Processing)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * 산업대학원(인공지능특론)
@@ -72,7 +72,7 @@ title: closedcourses
   * Artificial Intelligence(인공지능)
   * The Lecture for Freshmen(신입생강좌)
   * 일반대학원(Natural Language Processing)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * 교육대학원(이산구조특론)
@@ -84,7 +84,7 @@ title: closedcourses
   * Artificial Intelligence(인공지능)
   * The Lecture for Freshmen(신입생강좌)
   * 일반대학원(Natural Language Processing)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * 산업대학원(인공지능특론)
@@ -95,7 +95,7 @@ title: closedcourses
   * Artificial Intelligence(인공지능)
   * The Lecture for Freshmen(신입생강좌)
   * Mining the Web (대학원 강좌)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * 교육대학원(Data Structure)
@@ -106,7 +106,7 @@ title: closedcourses
   * Artificial Intelligence(인공지능)
   * The Lecture for Freshmen(신입생강좌)
   * Information and Education (정보컴퓨터교육연구)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * Text Mining Natural Language Processing (Graduate course) 
@@ -115,14 +115,14 @@ title: closedcourses
 * 1st semester
   * Data Structure (자료구조)
   * Artificial Intelligence(인공지능)
- * 2st semester 
+* 2st semester 
   * C Programming Language (C 프로그래밍)
   * Discrete Mathematics (이산수학)
   * Natural Language Processing (Graduate course)
   * Artificial Intelligence (Graduate course)
   
 ## In 2004
- * 2st semester 
+* 2st semester 
   * C++ Language (C++ 언어)
   * Discrete Mathematics (이산수학)
   * nformation Retrieval (Graduate course)

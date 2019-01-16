@@ -22,10 +22,9 @@ title: upcomingconferences
   <h3>NLP (Natural Language Processing)</h3>
   <ul>
 	<li><a href="http://www.aclweb.org/">ACL</a>: Association for Computational Linguistics</li>
-  	<li>개체명 인식 (Named-Entity Recognition) 모델</li>
-  	<li>구문 분석 (Syntactic Analysis) 모델</li>
-  	<li>의미 분석 (Semantic Analysis) 모델</li>
-        <li>담화 분석 (Discourse Analysis) 모델</li>
-        <li>대용어처리 (Anaphora Analysis) 모델</li>
-        <li>단어 의미 중의성 (Word Sense Disambiguation) 해소 모델</li>
+  	<li><a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47">EMNLP</a>: Empirical Methods in Natural Language Processing</li>
+	<li><a href="http://naacl.org/">NAACL</a>: North American Chapter of the Association for Computational Linguistics</li>
+	<li><a href="http://www.eacl.org/page.php?id=index">EACL</a>: European Chapter of the Association for Computational Linguistics</li>
+	<li><a href="http://www.coling-2014.org/">COLING</a>: International Conference on Computational Linguistics</li>
+	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning</li>
   </ul>

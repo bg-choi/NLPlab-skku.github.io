@@ -27,5 +27,3 @@ title: upcomingconferences
 	<a href="http://www.coling-2014.org/">COLING</a> : International Conference on Computational Linguistics<br>
 	<a href="http://ifarm.nl/signll/conll/">CoNLL</a> : Conference on Natural Language Learning<br>
 	
-  
-</div>

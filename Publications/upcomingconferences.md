@@ -19,7 +19,7 @@ title: upcomingconferences
 <div class="post">
 	<h1 class="pageTitle">Upcoming Conferences</h1>	
 	<p class="meta">예정된 관련 학회들</p>
-	<h3>NLP (Natural Language Processing)</h3>
+	<h2>NLP (Natural Language Processing)</h2>
 	<a href="http://www.aclweb.org/">ACL</a> : Association for Computational Linguistics<br>
 	<a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 	<a href="http://naacl.org/">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>

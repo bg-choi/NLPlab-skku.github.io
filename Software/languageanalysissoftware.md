@@ -26,7 +26,12 @@ title: languageanalysissoftware
 </div> 
 
 ### 데모
-☞[DANCHU 소개 pdf 다운로드][danchupdf]☞[DANCHU 동영상][danchumv].
+
+[DANCHU 소개 pdf 다운로드][danchupdf]☞[DANCHU 동영상][danchumv].
+
+
+
+
 [danchumv]: http://dais.donga.ac.kr/files/dais/board/univislab/Danchu(0).zip
 [danchupdf]:  http://dais.donga.ac.kr/files/dais/board/univislab/DANCHU-2.pdf
 

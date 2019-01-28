@@ -54,9 +54,13 @@ Bidirectional LSTM CRFs를 사용하여 개발한 한국어 POS, NER, DP, SRL �
 
 ### 참여한 대표 프로젝트
 * April 2017 ~ December 2019<br> 
- Co-Principal Investigator (Co-PI) involved in"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발. (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."
- Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning).
+ Co-Principal Investigator (Co-PI) involved in"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발. (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."<br>
+ Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning).<br>
  (IS lab. Dong-A University)
+ * April 2016 ~ December 2016 <br>
+  Co-Principal Investigator (Co-PI) involved in"의학정보 질의응답시스템 개발을 위한 의학용어 개체명(ME: Medical Entity) 인식 기술 및 문장 임베딩 기술 개발 (Development of Medical Entity Recognition and Sentence Embedding Techniques for Medical Information Retrieval)."<br>
+  Supported by LG Electronics.<br>
+  (IS lab. Dong-A University)
 
 
 [danchumv]: http://dais.donga.ac.kr/files/dais/board/univislab/Danchu(0).zip

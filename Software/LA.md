@@ -16,7 +16,6 @@ title: LA
            <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Neural Machine Translation</a>
            </li>
-            
           </ul>
   </div>
 

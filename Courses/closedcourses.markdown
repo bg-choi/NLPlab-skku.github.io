@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: closedcourses
 ---
 <h4>Courses</h4>
@@ -16,7 +16,7 @@ title: closedcourses
   <div class="post">
   <h1 class="pageTitle">Closed Courses</h1>	
   <p class="meta">지난 강의</p>
-  
+  </div>
   
 
 ## In 2015

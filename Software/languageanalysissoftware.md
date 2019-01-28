@@ -34,7 +34,7 @@ title: languageanalysissoftware
   [DP_Github][dp]
 * Named Entity Recognizer <br>
   [NER_Github][ner]
-
+<br>
 
 ### 관련연구
 #### DANCHU 
@@ -51,6 +51,7 @@ Bidirectional LSTM CRFs를 사용하여 개발한 한국어 POS, NER, DP, SRL �
 
 ####  Named Entity Recognizer 
 개체명 인식(Named-Entity Recognition)이란 정보 추출의 부과업으로 문서에서 개체명(Named-Entity)을 찾아 추출하고, 인명, 기관명, 지명, 시간 표현, 날짜 표현 등의 미리 정의된 고유한 범주로 분류하는 과정입니다.
+<br>
 
 ### 참여한 대표 프로젝트
 * April 2017 ~ December 2019<br> 

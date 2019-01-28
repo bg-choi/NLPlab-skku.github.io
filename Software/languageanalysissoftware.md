@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: languageanalysissoftware
 ---
 <h4>Software</h4>

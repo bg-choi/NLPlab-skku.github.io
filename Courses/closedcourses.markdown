@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: closedcourses
 ---
 <h4>Courses</h4>

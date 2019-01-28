@@ -26,13 +26,13 @@ title: languageanalysissoftware
 </div> 
 
 ### 데모
-* DANCHU
+* DANCHU<br>
   [DANCHU 소개 pdf 다운로드][danchupdf] [DANCHU 동영상][danchumv]
-* Word Space Detector 
+* Word Space Detector<br>
   [Test page][wordspace] [Test page 동영상][wordspacemv]
-* Dependency Parser 
+* Dependency Parser <br>
   [DP_Github][dp]
-* Named Entity Recognizer 
+* Named Entity Recognizer <br>
   [NER_Github][ner]
 
 

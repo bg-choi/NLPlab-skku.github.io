@@ -26,13 +26,22 @@ title: languageanalysissoftware
 </div> 
 
 ### 데모
-
-[DANCHU 소개 pdf 다운로드][danchupdf]☞[DANCHU 동영상][danchumv].
-
+○DANCHU
+[DANCHU 소개 pdf 다운로드][danchupdf] [DANCHU 동영상][danchumv]
+○Word Space Detector
+[Test page][wordspace] [Test page 동영상][wordspacemv]
+○Dependency Parser
+[DP_Github][dp]
+○Named Entity Recognizer
+[NER_Github][ner]
 
 
 
 [danchumv]: http://dais.donga.ac.kr/files/dais/board/univislab/Danchu(0).zip
 [danchupdf]:  http://dais.donga.ac.kr/files/dais/board/univislab/DANCHU-2.pdf
+[wordspacemv]:  https://dais.donga.ac.kr/files/dais/board/univislab/Spacing.zip
+[wordspace]:  demo_word_space_detector.jsp
+[dp]:  https://github.com/sgnlplabeling/nlp_labeling/tree/master/donga/torch_dp_system
+[ner]:  https://github.com/sgnlplabeling/nlp_labeling/tree/master/donga/NER
 
 

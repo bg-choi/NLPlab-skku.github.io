@@ -8,7 +8,7 @@ title: languageanalysissoftware
            <li>Language Analysis Software(here)
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/dialoguesystem</">Dialogue System</a>
+                <a class="post-title" href="https://youngjoongko.github.io/Software/dialoguesystem/">Dialogue System</a>
            </li>
            <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/Software/bigdata/">Big Data</a>

@@ -37,8 +37,11 @@ title: dialoguesystem
     <li>Question Retrieval in CQA System
     </li>
     <a href="demo_question_retrival.jsp">Test page</a><a href="http://dais.donga.ac.kr/files/dais/board/univislab/Question_Retrieval.zip">Test page 동영상</a>
+ </p>
     
   <br><br>
+  
+  <p>
   <h3>관련연구 설명</h3>
   <h4>Sentiment_classification_sys </h4>
   한국어 문서의 감정(긍정 혹은 부정)을 분석하는 시스템 입니다.
@@ -60,6 +63,8 @@ title: dialoguesystem
   <h4>Dialogue Management</h4>
   대화 관리는 대화의 흐름을 고려하여 사용자 발화에 대답할 알맞은 시스템 발화를 찾는 것이다. 규칙 기반 대화 관리(rule-based dialogue management) 방법과 예제 기반 대화 관리(example-based dialogue management) 방법, 심층학습 기반 대화 관리(deep learning based dialogue management) 방법 등이 있습니다. <br><br><br>
   
+  </p>
+  <p>
   <h3>참여한 대표 프로젝트</h3>
   <ul>
    <li>May 2018 ~ November 2018 
@@ -88,6 +93,6 @@ title: dialoguesystem
    Principal Investigator (PI) involved in"WiseWordNet 확장을 위한 사전 Entity Linking 연구(Entity Linking for Expanding WiseWordNet)."
   Supported by 한국전자통신연구소 (ETRI).
   (IS lab. Dong-A University)
-
+ </p>
   
   

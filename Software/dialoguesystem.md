@@ -67,8 +67,27 @@ title: dialoguesystem
    Co-Principal Investigator (Co-PI) involved in"전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발 (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)."
   Supported by 한국전자통신연구원 (ETRI).
   (IS lab. Dong-A University)
-   
-    
-    
+   <li>November 2015 ~ October 2018
+   </li>
+   Co-Principal Investigator (Co-PI) involved in"유사도 측정 기법을 이용한 FAQ 시스템 개발 (Development of a FAQ System Using Similarity Measure Methods)."
+  Supported by 현대자동차 (Hyundai Motors, Co.).
+  (IS lab. Dong-A University)
+   <li>November 2015 ~ October 2018 
+   </li>
+   Principal Investigator (PI) involved in "딥러닝 기술을 이용한 커뮤니티 질문-응답 서비스 기반의 질문 분류, 검색 및 응답
+  추천 시스템 구축 (Development of Query Classification, Retrieval and Answer Recommendation Systems for the cQA Service Using Deep Learning Techniques)"
+  Supported by 기본연구지원사업, 한국연구재단 (National Research Foundation of Korea (NRF))
+  (IS lab. Dong-A University)
+   <li>June 2017 ~ November 2017 
+   </li>
+   Principal Investigator (PI) involved in"전문분야 문답담화 분석을 위한 구어체 질문의 화행분류 연구 (Speech-act analysis of colloquial questions for the discourse analysis of question-answers in specialized field). "
+  Supported by ExoBrain Project, 한국전자통신연구소 (ETRI) .
+  (IS lab. Dong-A University)
+   <li>May 2016 ~ January 2017 
+   </li>
+   Principal Investigator (PI) involved in"WiseWordNet 확장을 위한 사전 Entity Linking 연구(Entity Linking for Expanding WiseWordNet)."
+  Supported by 한국전자통신연구소 (ETRI).
+  (IS lab. Dong-A University)
+
   
   

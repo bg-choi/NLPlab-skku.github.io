@@ -30,13 +30,13 @@ title: dialoguesystem
   <ul class="posts-list">
     <li>Sentiment Classification System 
     </li>
-    <a href="demo_sentimental.jsp">Test page</a> <a href="http://dais.donga.ac.kr/files/dais/board/univislab/Sentiment_Classification.zip">☞Test page 동영상</a>
+    <a href="demo_sentimental.jsp">Test page </a>   <a href="http://dais.donga.ac.kr/files/dais/board/univislab/Sentiment_Classification.zip">Test page 동영상</a>
     <li>Question Classification in CQA System
     </li>
-    <a href="demo_question_classification.jsp">Test page</a><a href="http://dais.donga.ac.kr/files/dais/board/univislab/Question_Classification.zip">Test page 동영상</a>
+    <a href="demo_question_classification.jsp">Test page </a>    <a href="http://dais.donga.ac.kr/files/dais/board/univislab/Question_Classification.zip">Test page 동영상</a>
     <li>Question Retrieval in CQA System
     </li>
-    <a href="demo_question_retrival.jsp">Test page</a><a href="http://dais.donga.ac.kr/files/dais/board/univislab/Question_Retrieval.zip">Test page 동영상</a>
+    <a href="demo_question_retrival.jsp">Test page </a>   <a href="http://dais.donga.ac.kr/files/dais/board/univislab/Question_Retrieval.zip">Test page 동영상</a>
  </p>
     
   <br><br>

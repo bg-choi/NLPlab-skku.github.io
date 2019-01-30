@@ -571,21 +571,21 @@ form {
 TABLE STYLES
 ***************/
 table {
-  margin-bottom: 1.5em; }
+  margin-bottom: 0; }/*1.5em*/
   table caption {
-    margin: 0 0 7px;
+    margin: 0 0 1px;
     font-size: 0.75em;
     color: #aaa;
     text-transform: uppercase;
     letter-spacing: 1px; }
 
 tr {
-  border-bottom: 1px solid #d0d0d0; }
+  border-bottom: 0px solid #d0d0d0; }/*1px*/
   tr:nth-child(even) {
     background-color: #f7f7f7; }
 
 td {
-  border-right: 1px solid #d0d0d0; }
+  border-right: 10x solid #d0d0d0; /*1px*/
   td:last-child {
     border-right: 0; }
 

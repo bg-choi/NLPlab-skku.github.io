@@ -14,7 +14,7 @@ title: neuralmachinetranslation
            <li class="post-link">
                 <a class="post-title" href="https://youngjoongko.github.io/Software/bigdata/">Big Data</a>
            </li>
-           <li>Neural Machine Translation
+           <li>Neural Machine Translation(here)
            </li>
           </ul>
   </div>

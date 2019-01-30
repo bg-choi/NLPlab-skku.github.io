@@ -22,7 +22,7 @@ title: neuralmachinetranslation
 
 <div class="post">
   <h1 class="pageTitle">Neural Machine Translation</h1>	
-  <p class="meta">기계 번</p>
+  <p class="meta">기계 번역</p>
 </div> 
 
 

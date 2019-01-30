@@ -6,7 +6,7 @@ title: dialoguesystem
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/dialoguesystem/">Language Analysis Software</a>
+                <a class="post-title" href="https://youngjoongko.github.io/Software/languageanalysissoftware/">Language Analysis Software</a>
            </li>
            <li>
                 Dialogue System(here)

@@ -462,7 +462,7 @@ blockquote {
 @media (min-width: 43.75em) {
   blockquote {
     /*font-size: 1.5em;*/
-    line-height: 1.45833333; } }
+    /*line-height: 1.45833333;*/ } }
 
 /***************
 TRANSITION
@@ -832,7 +832,7 @@ POST STYLING
   clear: both;
   margin: 2.5em 0;
   padding: 0;
-  line-height: 1.8;
+  /*line-height: 1.8;*/
   position: relative; }
   .post blockquote:before {
     content: "";

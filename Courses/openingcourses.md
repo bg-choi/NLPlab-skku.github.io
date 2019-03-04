@@ -17,14 +17,7 @@ title: openingcourses
   <h1 class="pageTitle">Opening Courses</h1>	
   <p class="meta">현재 강의</p>
   <h2>In 2018 2st semester</h2>
-   <p>- <a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab52', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><u><font color="blue">자료구조</font></u>
-		 
-		</a></p>
-		<h5><p>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ <a href="javascript:na_open_window('win', 'http://espa.donga.ac.kr/ds2019', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><u><font color="blue">ESPA</font></u> 
-		
-		</a></p></h5>
-		    <p>- <a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab60', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><u><font color="blue">인공지능</font></u></a> 
-									
-									
-		</p>
+   <p>-<a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab52', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><font color="blue">자료구조</font></a></p>
+   <h5><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ <a href="javascript:na_open_window('win', 'http://espa.donga.ac.kr/ds2019', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><font color="blue">ESPA</font></a></p></h5>
+    <p>- <a href="javascript:na_open_window('win', 'https://dais.donga.ac.kr/board/list.asp?name=univislab60', 0, 0, 1024, 768, 1, 0, 1, 1, 1)" target="_self"><u><font color="blue">인공지능</font></u></a></p>
 

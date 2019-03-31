@@ -683,11 +683,11 @@ body {
     margin: 0 0 2rem; }
 
 ::-moz-selection {
-  background: seagreen;
+  background: #0000708; /*seagreen*/
   color: white; }
 
 ::selection {
-  background: seagreen;
+  background: #0000708;
   color: white; }
 
 img, video, audio, iframe, object {

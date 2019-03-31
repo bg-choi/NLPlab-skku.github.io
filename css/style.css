@@ -719,7 +719,7 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: seagreen;
+      background: #0000708; /*seagreen*/
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
         color: white;

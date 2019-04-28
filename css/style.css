@@ -489,7 +489,7 @@ CLEAR AFTER FLOATS
 BUTTON DEFAULTS
 ***************/
 .button, .button-secondary, .button-tertiary, .button__outline {
-  background-color: seagreen;
+  background-color: #0000708; /* seagreen; */
   display: inline-block;
   position: relative;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -523,10 +523,10 @@ BUTTON DEFAULTS
 
 .button__outline {
   background-color: transparent;
-  border: 3px solid seagreen;
-  color: seagreen; }
+  border: 3px solid #0000708; /* seagreen; */
+  color: #0000708; } /* seagreen */
   .button__outline:hover {
-    background-color: seagreen;
+    background-color: #0000708;/* seagreen; */
     color: #fff; }
 
 /***************
@@ -750,7 +750,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: #0000708; /* seagreen; */
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -838,7 +838,7 @@ POST STYLING
     content: "";
     position: absolute;
     top: -1.25em;
-    background: seagreen;
+    background: #0000708; /* seagreen; */
     display: block;
     height: 2px;
     width: 150px;
@@ -847,7 +847,7 @@ POST STYLING
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: seagreen;
+    background: #0000708; /* seagreen; */
     display: block;
     height: 2px;
     width: 150px;

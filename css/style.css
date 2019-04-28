@@ -760,7 +760,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #0000708; } /* #21653f;  */
 
 /***************
 LIST STYLING

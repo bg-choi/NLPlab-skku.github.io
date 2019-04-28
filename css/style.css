@@ -489,7 +489,7 @@ CLEAR AFTER FLOATS
 BUTTON DEFAULTS
 ***************/
 .button, .button-secondary, .button-tertiary, .button__outline {
-  background-color: #0000708; /* seagreen; */
+  background-color: #000070; /* seagreen; */
   display: inline-block;
   position: relative;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -523,10 +523,10 @@ BUTTON DEFAULTS
 
 .button__outline {
   background-color: transparent;
-  border: 3px solid #0000708; /* seagreen; */
-  color: #0000708; } /* seagreen */
+  border: 3px solid #000070; /* seagreen; */
+  color: #000070; } /* seagreen */
   .button__outline:hover {
-    background-color: #0000708;/* seagreen; */
+    background-color: #000070;/* seagreen; */
     color: #fff; }
 
 /***************
@@ -683,11 +683,11 @@ body {
     margin: 0 0 2rem; }
 
 ::-moz-selection {
-  background: #0000708; /*seagreen*/
+  background: #000070; /*seagreen*/
   color: white; }
 
 ::selection {
-  background: #0000708;
+  background: #000070;
   color: white; }
 
 img, video, audio, iframe, object {
@@ -719,7 +719,7 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: #0000708; /*seagreen*/
+      background: #000070; /*seagreen*/
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
         color: white;
@@ -750,7 +750,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: #0000708; /* seagreen; */
+  background-color: #000070; /* seagreen; */
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -760,7 +760,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #0000708; } /* #21653f;  */
+    background-color: #000070; } /* #21653f;  */
 
 /***************
 LIST STYLING
@@ -838,7 +838,7 @@ POST STYLING
     content: "";
     position: absolute;
     top: -1.25em;
-    background: #0000708; /* seagreen; */
+    background: #000070; /* seagreen; */
     display: block;
     height: 2px;
     width: 150px;
@@ -847,7 +847,7 @@ POST STYLING
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: #0000708; /* seagreen; */
+    background: #000070; /* seagreen; */
     display: block;
     height: 2px;
     width: 150px;

@@ -8,10 +8,10 @@ title: introduction
             <li>introduction(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Photos</a>
+                <a class="post-title" href="https://islab631.github.io/AboutUs/photos/">Photos</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/contactus/">Contact us</a>
+                <a class="post-title" href="https://islab631.github.io/AboutUs/contactus/">Contact us</a>
             </li>
           </ul>
   </div>

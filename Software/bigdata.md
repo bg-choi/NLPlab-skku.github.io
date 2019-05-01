@@ -6,15 +6,15 @@ title: bigdata
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/languageanalysissoftware/">Language Analysis Software</a>
+                <a class="post-title" href="https://islab631.github.io/Software/languageanalysissoftware/">Language Analysis Software</a>
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/dialoguesystem/">Dialogue System</a>
+                <a class="post-title" href="https://islab631.github.io/Software/dialoguesystem/">Dialogue System</a>
            </li>
            <li>Big Data(here)
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/neuralmachinetranslation/">Neural Machine Translation</a>
+                <a class="post-title" href="https://islab631.github.io/Software/neuralmachinetranslation/">Neural Machine Translation</a>
            </li>
           </ul>
   </div>

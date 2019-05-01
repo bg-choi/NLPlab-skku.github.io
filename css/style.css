@@ -797,7 +797,7 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  /* background-color: #000070;/*seagreen*/
+  background-color: #000070;  /*seagreen*/
   background-image: url("../assets/img//touring.jpg");
   background-size: cover;
   background-position: center center;

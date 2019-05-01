@@ -6,10 +6,10 @@ title: contact
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/introduction/">Introduction </a>
+                <a class="post-title" href="https://islab631.github.io/AboutUs/introduction/">Introduction </a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/AboutUs/photos/">Photos</a>
+                <a class="post-title" href="https://islab631.github.io/AboutUs/photos/">Photos</a>
             </li>
             <li>Contact us(here)
             </li>

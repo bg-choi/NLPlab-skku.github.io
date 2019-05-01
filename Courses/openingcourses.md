@@ -8,7 +8,7 @@ title: openingcourses
             <li>Opening Courses(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Courses/closedcourses/">Closed Courses</a>
+                <a class="post-title" href="https://islab631.github.io/Courses/closedcourses/">Closed Courses</a>
             </li>
           </ul>
   </div>

@@ -20,6 +20,6 @@ title: contact
   <h1 class="pageTitle">Notice</h1>	
   <p class="meta">공지</p>
   <div class="slider">
-    <div><a href = "https://github.com/sgnlplabeling/nlp_labeling"><img src="/assets/img/recruit1.png"/></a></div>
+    <div><a href = "https://github.com/sgnlplabeling/nlp_labeling" target = "_blank"><img src="/assets/img/recruit1.png"/></a></div>
     <div><img src="/assets/img/recruit2.png"></div>
   </div>

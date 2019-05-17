@@ -101,9 +101,10 @@ title: projects
 	<li>
 		<small>May 2012 ~ April 2016. </small><br>
 		<font color = "#000063">Co-Principal Investigator (Co-PI) involved in "다중영역 정보서비스를 위한 대화형 개인 비서 소프트웨어 원천 기술 개발 (Development of Foundation Technologies for Dialogue Based Private Secretary Software on Multi-domains Information Services)" </font><br>
-		<small>Supported by지식경제부(Ministry of Knowledge Economy) </small>
+		<small>Supported by 지식경제부(Ministry of Knowledge Economy) </small>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<br>
 	<li>
 		<small>April 2014 ~ October 2014. </small><br>
 		<font color = "#000063">Principal Investigator (PI) involved in "2014 국어 정보 처리 시스템 경진 대회 (Competition of Korean Information Processing Systems)." </font><br>

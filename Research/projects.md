@@ -107,7 +107,7 @@ title: projects
 	<li>
 		<small>April 2014 ~ October 2014. </small><br>
 		<font color = "#000063">Principal Investigator (PI) involved in "2014 국어 정보 처리 시스템 경진 대회 (Competition of Korean Information Processing Systems)." </font><br>
-		<small>Supported by 국립국어원 (The National Institute of the Korean Language)). </small>
+		<small>Supported by 국립국어원 (The National Institute of the Korean Language). </small>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
 	<br>

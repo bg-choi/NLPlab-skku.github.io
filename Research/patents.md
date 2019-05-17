@@ -39,6 +39,7 @@ title: patents
 		Youngjoong Ko et al. <b>Named-entity Recognition Method and Apparatus for Korean.</b> <br>
 		<small>출원일: 2017.10.18 (출원번호 제 10-2017-0134970 호)</small>
 	</li>
+	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b>Method for Natural Language Understanding Based on Distribution of Task-specific Labels. </b> <br>
@@ -56,6 +57,7 @@ title: patents
 		Youngjoong Ko et al. <b>위키피디아를 이용한 Entity Linking(개체연결) 시스템. </b> <br>
 		<small>창작일: 2017.01.23, 공표일: 2017.01.25</small>
 	</li>
+	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b>System and Method for Sentence Embedding and Similar Question Retrieving. </b> <br>
@@ -74,6 +76,7 @@ title: patents
 		<small>출원일: 2014.07.17 (출원번호 제 10-2014-0090447 호) </small><br>
 		<small>등록일: 2016.04.21, (제 10-1616031 호)</small>
 	</li>
+	<br>
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Feature Weighting Apparatus for User Utterance Information Classification in Dialogue System and Method of the Same. </b> <br>

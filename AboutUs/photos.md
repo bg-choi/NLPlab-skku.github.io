@@ -40,6 +40,19 @@ title: photos
   <p class="meta">사진</p>
   
   <br><br>
+  
+  <h4 class = "center">#2019</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0086.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0087.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0080.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0081.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0082.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0083.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0084.jpg" title = "19년 5월:홈커밍데이"/></div>
+	<div><img src = "/assets/img/photos/0085.jpg" title = "19년 5월:홈커밍데이"/></div>
+  </div>
+  
   <h4 class = "center">#2018</h4>
   <div class="slider">
 	<div><img src = "/assets/img/photos/0079.jpg" title = "18년 11월:4차 산업혁명 디지털 포렌식 아이디어 공모전 우수상 수상"/></div>

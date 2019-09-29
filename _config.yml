@@ -22,8 +22,8 @@ navigation:
    url: /Publications/journalpapers/
  - title: Members
    url: /members
- - title: Boards
-   url: /Boards/notice/
+ #- title: Boards
+ #  url: /Boards/notice/
  - title: Courses
    url: /Courses/openingcourses 
  - title: Software

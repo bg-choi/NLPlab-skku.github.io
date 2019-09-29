@@ -24,8 +24,8 @@ navigation:
    url: /members
  #- title: Boards
  #  url: /Boards/notice/
- - title: Courses
-   url: /Courses/openingcourses 
+ #- title: Courses
+ #  url: /Courses/openingcourses 
  - title: Software
    url: /Software/languageanalysissoftware/
 

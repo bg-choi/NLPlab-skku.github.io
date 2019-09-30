@@ -26,8 +26,8 @@ navigation:
  #  url: /Boards/notice/
  #- title: Courses
  #  url: /Courses/openingcourses 
- - title: Software
-   url: /Software/languageanalysissoftware/
+ #- title: Software
+ #  url: /Software/languageanalysissoftware/ --> 
 
 social:
    github: brianmaierjr

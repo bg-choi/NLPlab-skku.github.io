@@ -6,10 +6,10 @@ title: patents
 	<h4>Patents</h4>
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Research/fields/">Fields</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/fields/">Fields</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Research/projects/">Projects</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/projects/">Projects</a>
             </li>
             <li>Patents(here)
             </li>

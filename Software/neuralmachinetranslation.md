@@ -6,13 +6,13 @@ title: neuralmachinetranslation
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/languageanalysissoftware/">Language Analysis Software</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/languageanalysissoftware/">Language Analysis Software</a>
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/dialoguesystem/">Dialogue System</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/dialoguesystem/">Dialogue System</a>
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://youngjoongko.github.io/Software/bigdata/">Big Data</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/bigdata/">Big Data</a>
            </li>
            <li>Neural Machine Translation(here)
            </li>

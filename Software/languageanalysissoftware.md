@@ -8,13 +8,13 @@ title: languageanalysissoftware
            <li>Language Analysis Software(here)
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Software/dialoguesystem/">Dialogue System</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/dialoguesystem/">Dialogue System</a>
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Software/bigdata/">Big Data</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/bigdata/">Big Data</a>
            </li>
            <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Software/neuralmachinetranslation/">Neural Machine Translation</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Software/neuralmachinetranslation/">Neural Machine Translation</a>
            </li>
           </ul>
   </div>

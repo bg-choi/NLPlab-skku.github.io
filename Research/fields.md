@@ -8,10 +8,10 @@ title: fields
             <li>Fields(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Research/projects/">Projects</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/projects/">Projects</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://islab631.github.io/Research/patents/">Patents</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/patents/">Patents</a>
             </li>
           </ul>
   </div>

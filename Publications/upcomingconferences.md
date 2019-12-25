@@ -51,7 +51,7 @@ title: upcomingconferences
   <h3>Machine Learning</h3>	
   <ul>
 	<li><a href="http://icml.cc/2015/">ICML</a>: International Conference on Machine Learning<br>
-		2020 submission deadline : January 32, 2020 <a href = "https://icml.cc/Conferences/2020/Dates">참조</a>
+		2020 submission deadline : January 31, 2020 <a href = "https://icml.cc/Conferences/2020/Dates">참조</a>
 	</li>
   </ul>
   

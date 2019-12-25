@@ -21,27 +21,40 @@ title: upcomingconferences
   <p class="meta">예정 학회들</p>
   <h3>NLP (Natural Language Processing)</h3>
   <ul>
-	<li><a href="http://www.aclweb.org/">ACL</a>: Association for Computational Linguistics</li>
+	<li><a href="http://www.aclweb.org/">ACL</a>: Association for Computational Linguistics<br>
+		2020 submission deadline : December 9, 2019
+	</li>
   	<li><a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47">EMNLP</a>: Empirical Methods in Natural Language Processing</li>
 	<li><a href="http://naacl.org/">NAACL</a>: North American Chapter of the Association for Computational Linguistics</li>
 	<li><a href="http://www.eacl.org/page.php?id=index">EACL</a>: European Chapter of the Association for Computational Linguistics</li>
-	<li><a href="http://www.coling-2014.org/">COLING</a>: International Conference on Computational Linguistics</li>
-	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning</li>
+	<li><a href="http://www.coling-2014.org/">COLING</a>: International Conference on Computational Linguistics<br>
+		 2020 submission deadline : April 9, 2020
+	  
+	  </li>
+	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning<br>
+		
+	</li>
   </ul>
 	
   <h3>Information Retrieval</h3>	
   <ul>
-	<li><a href="http://sigir.org/">SIGIR</a>: Special Interest Group on Information Retrieval</li>
+	<li><a href="http://sigir.org/">SIGIR</a>: Special Interest Group on Information Retrieval<br>
+		2020 submission deadline : January 23, 2020 
+	</li>
   </ul>
   
   <h3>Artificial Intelligence</h3>	
   <ul>
-	<li><a href="http://www.aaai.org/home.html">AAAI</a>: Association for the Advancement of Artificial Intelligence</li>
+	<li><a href="http://www.aaai.org/home.html">AAAI</a>: Association for the Advancement of Artificial Intelligence<br>
+		2020 submission deadline : September 6, 2019
+	</li>
   </ul>
   
   <h3>Machine Learning</h3>	
   <ul>
-	<li><a href="http://icml.cc/2015/">ICML</a>: International Conference on Machine Learning</li>
+	<li><a href="http://icml.cc/2015/">ICML</a>: International Conference on Machine Learning<br>
+		2020 submission deadline : February 7, 2020
+	</li>
   </ul>
   
   <h3>Data Mining</h3>	

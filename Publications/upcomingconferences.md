@@ -31,7 +31,6 @@ title: upcomingconferences
 		 2020 submission deadline :  May 8, 2020  <a href = "https://coling2020.org/pages/call_for_demos">참조</a>
 	</li>
 	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning<br>
-		
 	</li>
   </ul>
 	

@@ -59,5 +59,7 @@ title: upcomingconferences
   
   <h3>Data Mining</h3>	
   <ul>
-	<li><a href="http://icdm2014.sfu.ca/home.html">ICDM</a>: International Conference on Data Mining</li>
+	<li><a href="http://icdm2014.sfu.ca/home.html">ICDM</a>: International Conference on Data Mining<br>
+		2020 submission deadline for short paper : March 3, 2020 <a href = "http://www.data-mining-forum.de/icdm2020.php">참조		    </a>
+	</li>
   </ul>

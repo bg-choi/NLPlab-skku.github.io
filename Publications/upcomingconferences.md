@@ -28,9 +28,8 @@ title: upcomingconferences
 	<li><a href="http://naacl.org/">NAACL</a>: North American Chapter of the Association for Computational Linguistics</li>
 	<li><a href="http://www.eacl.org/page.php?id=index">EACL</a>: European Chapter of the Association for Computational Linguistics</li>
 	<li><a href="http://www.coling-2014.org/">COLING</a>: International Conference on Computational Linguistics<br>
-		 2020 submission deadline : April 9, 2020
-	  
-	  </li>
+		 2020 submission deadline :  May 8, 2020  <a href = "https://coling2020.org/pages/call_for_demos">참조</a>
+	</li>
 	<li><a href="http://ifarm.nl/signll/conll/">CoNLL</a>: Conference on Natural Language Learning<br>
 		
 	</li>
@@ -39,21 +38,21 @@ title: upcomingconferences
   <h3>Information Retrieval</h3>	
   <ul>
 	<li><a href="http://sigir.org/">SIGIR</a>: Special Interest Group on Information Retrieval<br>
-		2020 submission deadline : January 23, 2020 
+		2020 submission deadline for short paper: February 16, 2020 <a href = "https://sigir.org/sigir2020/">참조</a>
 	</li>
   </ul>
   
   <h3>Artificial Intelligence</h3>	
   <ul>
 	<li><a href="http://www.aaai.org/home.html">AAAI</a>: Association for the Advancement of Artificial Intelligence<br>
-		2020 submission deadline : September 6, 2019
+		2020 submission deadline : August 30, 2019 <a href= "https://aaai.org/Conferences/AAAI-20/aaai20call/">참조</a>
 	</li>
   </ul>
   
   <h3>Machine Learning</h3>	
   <ul>
 	<li><a href="http://icml.cc/2015/">ICML</a>: International Conference on Machine Learning<br>
-		2020 submission deadline : February 7, 2020
+		2020 submission deadline : January 32, 2020 <a href = "https://icml.cc/Conferences/2020/Dates">참조</a>
 	</li>
   </ul>
   

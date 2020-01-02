@@ -9,26 +9,14 @@ title: openingcourses
 	B.S degree in Computer Scinece from Sogang University<b> 
 	M.S. degree in Information-Computer Education from Dong-A University<b>
 	Ph.D in Computer Engineering from Dong-A University in February 2013<b>
-	</p>
 	<h2>Research Field</h2>
+	<p>
 	Natural Language Processing, Deep Learning, Text Mining, Information Retrieval, Artificial Intelligence
-  <h2>Paper</h2>
-                        <ul>
-                            <p align="left"><b>▶ Ph.D Thesis &nbsp;&nbsp;&nbsp;</b><!--<a href="http://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=78cc10e975d14e2effe0bdc3ef48d419">
-<img src="DownLoad.png" width="78" height="24" border="0" alt="DownLoad.png"></a>-->
-</p>
-                            <ul>
-                                <li align="left">
-                                    <div align="left"><b>"Korean Comparison Mining Using Comparative Lexical Patterns and Machine Learning Techniques", Dong-A University, 2013. </b></div>
-                                                                </li>
-                            </ul>
-                        </ul>
-                        <ul>
-                            <p align="left">&nbsp;</p>
-                            <p align="left"><b>▶&nbsp;Journals & Conferences<br>
-</b></p>
+  	<h2>Paper</h2>
+        <p align="left">▶ Ph.D Thesis &nbsp;&nbsp;&nbsp;
+                           "Korean Comparison Mining Using Comparative Lexical Patterns and Machine Learning Techniques", Dong-A University, 2013.
+        <p align="left"><b>▶&nbsp;Journals & Conferences<br>
 
-  
 <p align="left"> [27] Hyemin Kim, Seon Yang, Youngjoong Ko<br> 
    "How to Utilize Syllable Distribution Patterns as the Input of LSTM for Korean Morphological Analysis",<br> 
    Pattern Recognition Letters, Elsevier Science, <br>

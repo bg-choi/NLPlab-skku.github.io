@@ -346,7 +346,6 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
 											Syllable-based Korean POS Tagging Using POS Distribution and Bidirectional LSTM CRFs and Method of the same. <br>
 											출원일: 2017.08.18 (출원번호 제 10-2017-0104916 호)<br>
                         </ul>
-
                         <ul>
                             <p align="left">1. Patent Resistration<br>
 											Seon Yang and Youngjoong Ko. <br>

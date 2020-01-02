@@ -4,12 +4,12 @@ title: openingcourses
 ---
 
   <div class="post">
-  <h1 class="pageTitle">Seon Yang</h1>	
-  B.S degree in Computer Scinece from Sogang University<b> 
-  M.S. degree in Information-Computer Education from Dong-A University<b>
-  Ph.D in Computer Engineering from Dong-A University in February 2013<b>
-  <h2>Research Field</h2>
-      Natural Language Processing, Deep Learning, Text Mining, Information Retrieval, Artificial Intelligence
+	<h1 class="pageTitle">Seon Yang</h1>
+	B.S degree in Computer Scinece from Sogang University<b> 
+	M.S. degree in Information-Computer Education from Dong-A University<b>
+	Ph.D in Computer Engineering from Dong-A University in February 2013<b>	
+	<h2>Research Field</h2>
+	Natural Language Processing, Deep Learning, Text Mining, Information Retrieval, Artificial Intelligence
   <h2>Paper</h2>
                         <ul>
                             <p align="left"><b>▶ Ph.D Thesis &nbsp;&nbsp;&nbsp;</b><!--<a href="http://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=78cc10e975d14e2effe0bdc3ef48d419">

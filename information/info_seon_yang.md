@@ -355,8 +355,6 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
 							<p align="left">&nbsp;<b></b></p>
 							<p align="left">&nbsp;<b></b></p>
                         </ul>
-
-                       
                     </ul>
                 </td>
             </tr>

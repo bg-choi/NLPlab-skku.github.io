@@ -178,3 +178,4 @@ title: photos
 	<div><image class = "entirecenter" src = "/assets/img/photos/0003.jpg" title = ""/></div>
 	<div><image class = "entirecenter" src = "/assets/img/photos/0002.jpg" title = ""/></div>
 	<div><image class = "entirecenter" src = "/assets/img/photos/0001.jpg" title = ""/></div>
+  </div>

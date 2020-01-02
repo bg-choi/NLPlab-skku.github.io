@@ -12,8 +12,6 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
       Natural Language Processing, Deep Learning, Text Mining, Information Retrieval, Artificial Intelligence
   <p align="left"><b>Paper</b></p>
                         <ul>
-						
-                     
                             <p align="left"><b>▶ Ph.D Thesis &nbsp;&nbsp;&nbsp;</b><!--<a href="http://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=78cc10e975d14e2effe0bdc3ef48d419">
 <img src="DownLoad.png" width="78" height="24" border="0" alt="DownLoad.png"></a>-->
 </p>
@@ -21,7 +19,6 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
                                 <li align="left">
                                     <div align="left"><b>"Korean Comparison Mining Using Comparative Lexical Patterns and Machine Learning Techniques", Dong-A University, 2013. </b></div>
                                                                 </li>
-                       
                             </ul>
                         </ul>
                         <ul>

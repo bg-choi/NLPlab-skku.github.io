@@ -10,7 +10,7 @@ M.S. degree in Information-Computer Education from Dong-A University<b>
 Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
   <h2>Research Field</h2>
       Natural Language Processing, Deep Learning, Text Mining, Information Retrieval, Artificial Intelligence
-  <p align="left"><b>Paper</b></p>
+  <h2>Paper</h2>
                         <ul>
                             <p align="left"><b>▶ Ph.D Thesis &nbsp;&nbsp;&nbsp;</b><!--<a href="http://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=78cc10e975d14e2effe0bdc3ef48d419">
 <img src="DownLoad.png" width="78" height="24" border="0" alt="DownLoad.png"></a>-->
@@ -325,15 +325,7 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
    Proceedings of the 20th Annual Conference on Human and Cognitive Language Technology 
    (HCLT-2008), pp. 182-187, October. 2008.
 </p>
-
-
-
-
-                        
-                            <p align="left">&nbsp;</p>
-                        </ul>
-                        <p align="left"><b>Project</b></p>
-                        <ul>
+<h2>Project</h2>
 							<p align="left">11. May 2018 ~ November 2018 "전문분야 문답 담화 분석을 위한 구어체 질문의 슬롯 필링 기술 개발   (Development of the Slot Filling Technique for the discourse analysis of question-answers in specialized field)"  Supported by 한국전자통신연구원 (ETRI)</p>
 							<p align="left">10. May 2018 ~ October 2018 "이슈 중심의 다중 뉴스 문서 군집화 및 요약 기술 연구 개발(Development of   the Clustering and Summarization Technique for News Multi-Documents by Focusing on Issues)"  Supported by 한국과학기술정보연구원 (KISTI)</p>
 							<p align="left">9. April 2017 ~ December 2019 "기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발.   (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)"  Supported by 정보통신/방송 기술개발사업, 미래창조과학부</p>
@@ -344,12 +336,10 @@ Ph.D in Computer Engineering from Dong-A University in February 2013<b> </p>
                             <p align="left">4. April 2009 ~ March 2013 "음성/영상 통합 정보를 활용하는 지능형 말동무 로봇용 대화음성 인터페이스 기술 및 워크벤치 도구 개발"  Supported by 지식경제 기술혁신사업, 지식경제부</p>
                             <p align="left">3. May 2009 ~ January 2010 "위키피디아로부터의 개체명 추출을 통한 개체명 사전 자동 구축"  Supported by 한국전자통신연구소 (ETRI) </p>
 							<p align="left">2. May 2009 ~ April 2012 "온톨로지와 효과적인 FAQ 검색 기술을 이용한 자연어 기반의 모바일 인터페이스 개발 "  Supported by 지역대학우수과학자 지원사업, 한국연구재단 </p>
-							<p align="left">1. May 2009 ~ April 2011 "비교문장 추출과 비교관계 분석을 통한 비교마이닝 시스템에 대한 연구"  Supported by 신진연구 지원사업, 한국연구재단</p>
-							
+							<p align="left">1. May 2009 ~ April 2011 "비교문장 추출과 비교관계 분석을 통한 비교마이닝 시스템에 대한 연구"  Supported by 신진연구 지원사업, 한국연구재단</p>		
                             <p align="left">&nbsp;<b></b></p>
                         </ul>
-
-	<p align="left"><b>Patent</b></p>
+<h2>Patent</h2>
 						<ul>
                             <p align="left">2. Patent Application<br>
 											Hyemin Kim, Seon Yang and Youngjoong Ko.<br>

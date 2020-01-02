@@ -126,3 +126,55 @@ title: photos
 	<div><image class = "entirecenter" src = "/assets/img/photos/0035.jpg" title = "12년 7월:ACL"/></div>
 	<div><image class = "entirecenter" src = "/assets/img/photos/0034.jpg" title = "12년 7월:Douglas W. Oard 교수님 세미나"/></div>
   </div>
+  
+  <h4 style = "text-align:center;">#2011</h4>
+  <div class="slider">
+	<div><image class = "entirecenter" src = "/assets/img/photos/0033.jpg" title = "미국 ACL"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0032.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0031.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0030.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0029.jpg" title = "2월..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0028.jpg" title = "1월..."/></div>
+  </div>
+  
+  <h4 style = "text-align:center;">#2010</h4>
+  <div class="slider">
+  	<div><image class = "entirecenter" src = "/assets/img/photos/0027.jpg" title = "한국 정보 과학회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0026.jpg" title = "한국 정보 과학회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0025.jpg" title = "한국어 정보처리 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0024.jpg" title = "한국어 정보처리 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0023.jpg" title = "한국어 정보처리 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0022.jpg" title = "여름 어느날.."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0021.jpg" title = "여름 어느날.."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0020.jpg" title = "여름 어느날.."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0019.jpg" title = "여름 어느날.."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0018.jpg" title = "여름 어느날.."/></div>
+  </div>
+  
+  <h4 style = "text-align:center;">#2009</h4>
+  <div class="slider">
+	<div><image class = "entirecenter" src = "/assets/img/photos/0017.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0016.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0015.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0014.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0013.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0012.jpg" title = "한국 컴퓨터 종합 학술대회"/></div>
+  </div>
+  
+  <h4 style = "text-align:center;">#2008</h4>
+  <div class="slider">
+	<div><image class = "entirecenter" src = "/assets/img/photos/0011.jpg" title = "8월 어느 날..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0010.jpg" title = "8월 어느 날..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0009.jpg" title = "8월 어느 날..."/></div>
+  </div>
+  
+  <h4 style = "text-align:center;">#2007</h4>
+  <div class="slider">
+	<div><image class = "entirecenter" src = "/assets/img/photos/0008.jpg" title = "8월 어느 날..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0007.jpg" title = "8월 어느 날..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0006.jpg" title = "8월 어느 날..."/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0005.jpg" title = ""/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0004.jpg" title = ""/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0003.jpg" title = ""/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0002.jpg" title = ""/></div>
+	<div><image class = "entirecenter" src = "/assets/img/photos/0001.jpg" title = ""/></div>

@@ -22,7 +22,6 @@ title: openingcourses
    Pattern Recognition Letters, Elsevier Science, <br>
    accepted. 2019. (<font color="red">SCIE</font>,ISSN 0167-8655)   
    <A href="https://doi.org/10.1016/j.patrec.2018.12.019" target="_blank"> <font color="blue">[online]</font></A>
-
 </p>   
  
 <p align="left"> [26] 양선, 김혜민, 고영중<br> 
@@ -328,15 +327,11 @@ title: openingcourses
 							<p align="left">2. May 2009 ~ April 2012 "온톨로지와 효과적인 FAQ 검색 기술을 이용한 자연어 기반의 모바일 인터페이스 개발 "  Supported by 지역대학우수과학자 지원사업, 한국연구재단 </p>
 							<p align="left">1. May 2009 ~ April 2011 "비교문장 추출과 비교관계 분석을 통한 비교마이닝 시스템에 대한 연구"  Supported by 신진연구 지원사업, 한국연구재단</p>		
                             <p align="left">&nbsp;<b></b></p>
-                        </ul>
 <h2>Patent</h2>
-						<ul>
                             <p align="left">2. Patent Application<br>
 											Hyemin Kim, Seon Yang and Youngjoong Ko.<br>
 											Syllable-based Korean POS Tagging Using POS Distribution and Bidirectional LSTM CRFs and Method of the same. <br>
 											출원일: 2017.08.18 (출원번호 제 10-2017-0104916 호)<br>
-                        </ul>
-                        <ul>
                             <p align="left">1. Patent Resistration<br>
 											Seon Yang and Youngjoong Ko. <br>
 											Plain Text Query Based Mathematical Formula Retrieval.<br>
@@ -344,12 +339,5 @@ title: openingcourses
 											등록일: 2015.11.04, (제 10-1567904 호)<br>
 							<p align="left">&nbsp;<b></b></p>
 							<p align="left">&nbsp;<b></b></p>
-                        </ul>
-                    </ul>
-                </td>
-            </tr>
-        </table>
-    </ul>
-</ul>
 
       

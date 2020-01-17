@@ -71,7 +71,7 @@ title: patents
 		Program Copyright Registration.<br>
 		Youngjoong Ko et al. <b>레이블 자동 생성을 위한 한국어 의존 구문 분석기.</b> <br>
 		<small>창작일: 2017.11.07</small><br>
-		<small>공표일: 2017.11.07  (C-2017-029032)</small>
+		<small>공표일: 2017.11.07 (C-2017-029032)</small>
 	</li>
 	<br>
 	<li>
@@ -139,7 +139,7 @@ title: patents
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b> A Simultaneous Recognition Technology for the Language Understanding Module of a Dialogue System. </b> <br>
 		<small>출원일: 2014.05.16 (출원번호 제 10-2014-0059159 호) </small><br>
-		<small>등록일: 2015.10.05, (제 10-1559576 호)</small>
+		<small>등록일: 2015.10.05 (제 10-1559576 호)</small>
 	</li>
 	<br>
 	<li>

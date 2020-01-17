@@ -20,7 +20,7 @@ title: contact
 <div class="post">
   <h1 class="pageTitle">Contact us</h1>	
   <p class="meta">찾아오시는 길</p>
-  <p class="intro"><span class="dropcap">수</span>
-	<p class="intro">원시 장안구 서부로 2066 성균관대학교 자연과학캠퍼스 N센터 4층 86401</p>
+  <p class="intro"><span class="dropcap">경</span>
+	<p class="intro">기도 수원시 장안구 서부로 2066 성균관대학교 자연과학캠퍼스 N센터 4층 86401호</p>
 <img src="/assets/img/86401.PNG">
 

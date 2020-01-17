@@ -31,7 +31,7 @@ title: patents
 	<li>
 		Program Copyright Registration<br>
 		Youngjoong Ko et al. <b>딥러닝 기반 인과관계 분석 프로그램.</b> <br>
-		<small>창작일: 2018.11.16</small>
+		<small>창작일: 2018.11.16</small><br>
 		<small>공표일: 2018.11.20 (C-2018-033948)</small>
 	</li>
 	<br>
@@ -117,7 +117,7 @@ title: patents
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b>Method for Improvement of Efficiency of Biology Medical Terminology Named Entity Recognition Apparatus Using Automatic Labeling Data Based on Bootstrapping Technique. </b> <br>
+		Youngjoong Ko et al. <b>Method for Improvement of Efficiency of Biology Medical Terminology Named Entity Recognition Apparatus Using Automatic Labeling Data Based on Bootstrapping Technique. </b><br>
 		<small>출원일: 2017.02.14 (출원번호 제 10-2017-0020231 호)</small>
 	</li>
 	<br>

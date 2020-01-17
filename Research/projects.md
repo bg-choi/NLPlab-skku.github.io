@@ -184,16 +184,16 @@ title: projects
 	</li>
 	<br>
 	<li>
-		<small>July 2008 ~ Jane 2009. </small><br>
-		Principal Investigator (PI) involved in <b><font color = "#000063">"영역 이식성이 높은 개체명 인식과 특성 추출 기술을 이용하는 의견마이닝 시스템의 개발 (Development of an Opinion Mining System Using Named Entity Recognition and Feature Extraction Techniques with High Domain Portability)."</font></b><br>
-		<small>Supported by 신진교수연구지원사업, 학술진흥재단 (Korea Research Foundation (KRF)).</small><br>
+		<small>September 2008 ~ November 2009. </small><br>
+		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"영문 뉴스 포탈 형식 웹 문서의 단계별 요약 추출 기술 (The Development of the Text Summary Generation System for English News Article from News Portals in IP TV)."</font></b><br>
+		<small>Supported by 삼성전자 연구소 (Samsung Electronics Co., LTD.).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
 	<br>
 	<li>
-		<small>September 2008 ~ November 2009. </small><br>
-		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"영문 뉴스 포탈 형식 웹 문서의 단계별 요약 추출 기술 (The Development of the Text Summary Generation System for English News Article from News Portals in IP TV)."</font></b><br>
-		<small>Supported by 삼성전자 연구소 (Samsung Electronics Co., LTD.).</small><br>
+		<small>July 2008 ~ June 2009. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"영역 이식성이 높은 개체명 인식과 특성 추출 기술을 이용하는 의견마이닝 시스템의 개발 (Development of an Opinion Mining System Using Named Entity Recognition and Feature Extraction Techniques with High Domain Portability)."</font></b><br>
+		<small>Supported by 신진교수연구지원사업, 학술진흥재단 (Korea Research Foundation (KRF)).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
 	<br>
@@ -212,6 +212,13 @@ title: projects
 	</li>
 	<br>
 	<li>
+		<small>January 2007 ~ December 2007. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"정보검색 시스템과 텍스트 마이닝 교재 개발 (Develoment of Text Book on Information Retrieval and Text Mining)." </font></b><br>
+		<small>Supported by 정보통신진흥원 (The Institute of Information Technology Assessment (IITA)).</small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+	<br>
+	<li>
 		<small>Jone 2007 ~ November 2007. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"신문기사 형식의 웹 문서로부터 핵심 키워드 추출과 중요 내용 요약 기술 (An Effective Technique for Extracting Keywords and Sailent Sentences from a News Article)."</font></b><br>
 		<small>Supported by 삼성전자 기술개발 연구소 (Samsung Advanced Institute of Technology (SAIT)).</small><br>
@@ -226,9 +233,9 @@ title: projects
 	</li>
 	<br>
 	<li>
-		<small>January 2007 ~ December 2007. </small><br>
-		Principal Investigator (PI) involved in <b><font color = "#000063">"정보검색 시스템과 텍스트 마이닝 교재 개발 (Develoment of Text Book on Information Retrieval and Text Mining)." </font></b><br>
-		<small>Supported by 정보통신진흥원 (The Institute of Information Technology Assessment (IITA)).</small><br>
+		<small>March 2006 ~ October 2006. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"범용 과학기술 및 IT 분야 분류체계 개발과 시소러스 연동 방안 연구 (The Construction of General and IT Category Maps and Category Tagging on Thesaurus)."</font></b><br>
+		<small>Supported by 한국과학기술정보연구원 (KISTI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
 	<br>
@@ -236,13 +243,6 @@ title: projects
 		<small>October 2003 ~ March 2006. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"실버메이트용 대화음성 인터페이스 기술 개발; 과기부 휴먼로봇 프론티어 사업단 (The Development of Interaction Techniques for Intelligent Robots)."</font></b><br>
 		<small>Supported by 인간지능 생활지원 지능로봇 기술개발사업, 산업자원부 (Ministry of Commerce, Industry and Energy).</small><br>
-		<small>(IS lab. Dong-A University)</small>
-	</li>
-	<br>
-	<li>
-		<small>March 2006 ~ October 2006. </small><br>
-		Principal Investigator (PI) involved in <b><font color = "#000063">"범용 과학기술 및 IT 분야 분류체계 개발과 시소러스 연동 방안 연구 (The Construction of General and IT Category Maps and Category Tagging on Thesaurus)."</font></b><br>
-		<small>Supported by 한국과학기술정보연구원 (KISTI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
 	<br>

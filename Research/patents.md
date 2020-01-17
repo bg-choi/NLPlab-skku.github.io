@@ -159,6 +159,6 @@ title: patents
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Automatic Text Categorization Method Based on Unsupervised Learning, Using Keywords of Each Category and Measurement of the Similarity between Sentences. </b> <br>
 		<small>출원일: 2001.03.09 (출원번호 제 2001-0012318 호)</small><br>
-		<small>등록일: 2004.02.12 (제 0420096 호)</small>
+		<small>등록일: 2004.02.12 (제 10-0420096 호)</small>
 	</li>
   </ul>

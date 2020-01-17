@@ -48,6 +48,7 @@ title: patents
 		<small>창작일: 2018.10.16</small><br>
 		<small>공표일: 2018.10.17 (C-2018-029727)</small>
 	</li>
+	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b> System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN.</b> <br>

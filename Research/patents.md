@@ -77,14 +77,14 @@ title: patents
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b>Keyword Extraction Method and Apparatus for Science Document.</b> <br>
-		<small>출원일: 2017.11.02 (출원번호 제 10-2017-0145461 호)</small>
+		<small>출원일: 2017.11.02 (출원번호 제 10-2017-0145461 호)</small><br>
 		<small>등록일: 2019.08.27 (제 10-2017227호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Named-entity Recognition Method and Apparatus for Korean.</b> <br>
-		<small>출원일: 2017.10.18 (출원번호 제 10-2017-0134970 호)</small>
+		<small>출원일: 2017.10.18 (출원번호 제 10-2017-0134970 호)</small><br>
 		<small>등록일: 2019.01.17 (제 10-1941692호)</small>
 	</li>
 	<br>
@@ -97,7 +97,7 @@ title: patents
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b>Syllable-based Korean POS Tagging Using POS Distribution and Bidirectional LSTM CRFs and Method of the same. </b> <br>
-		<small>출원일: 2017.08.18 (출원번호 제 10-2017-0104916 호)</small>
+		<small>출원일: 2017.08.18 (출원번호 제 10-2017-0104916 호)</small><br>
 		<small>등록일: 2019.07.12 (제 10-1997783호)</small>
 	</li>
 	<br>
@@ -111,7 +111,7 @@ title: patents
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>System and Method for Sentence Embedding and Similar Question Retrieving. </b> <br>
-		<small>출원일: 2017.05.16 (출원번호 제 10-2017-0060425 호)</small>
+		<small>출원일: 2017.05.16 (출원번호 제 10-2017-0060425 호)</small><br>
 		<small>등록일: 2018.11.23 (제 10-1923650호)</small>
 	</li>
 	<br>
@@ -145,7 +145,7 @@ title: patents
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Plain Text Query Based Mathematical Formula Retrieval. </b> <br>
-		<small>출원일: 2014.05.16 (출원번호 제 10-2014-0059144 호) </small>
+		<small>출원일: 2014.05.16 (출원번호 제 10-2014-0059144 호) </small><br>
 		<small>등록일: 2015.11.04 (제 10-1567904 호)</small>
 	</li>
 	<br>
@@ -158,7 +158,7 @@ title: patents
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Automatic Text Categorization Method Based on Unsupervised Learning, Using Keywords of Each Category and Measurement of the Similarity between Sentences. </b> <br>
-		<small>출원일: 2001.03.09 (출원번호 제 2001-0012318 호)</small>
+		<small>출원일: 2001.03.09 (출원번호 제 2001-0012318 호)</small><br>
 		<small>등록일: 2004.02.12 (제 0420096 호)</small>
 	</li>
   </ul>

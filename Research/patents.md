@@ -23,6 +23,41 @@ title: patents
 </div>
   <ul>
 	<li>
+		Patent Application.<br>
+		Youngjoong Ko et al. <b> Device and Method for Analyzing Speech-act.</b> <br>
+		<small>출원일: 2018.11.26 (출원번호 제 10-2018-0147852 호)</small>
+	</li>
+	<li>
+		Program Copyright Registration<br>
+		Youngjoong Ko et al. <b>딥러닝 기반 인과관계 분석 프로그램.</b> <br>
+		<small>창작일: 2018.11.16, 공표일: 2018.11.20 (C-2018-033948)</small>
+	</li>
+	<li>
+		Program Copyright Registration<br>
+		Youngjoong Ko et al. <b>실시간 뉴스 기사 계층적 군집화 프로그램.</b> <br>
+		<small>창작일: 2018.10.16, 공표일: 2018.10.17 (C-2018-029728)</small>
+	</li>
+	<li>
+		Program Copyright Registration<br>
+		Youngjoong Ko et al. <b>다중 뉴스 기사 요약 시스템.</b> <br>
+		<small>창작일: 2018.10.16, 공표일: 2018.10.17 (C-2018-029727)</small>
+	</li>
+	<li>
+		Patent Application.<br>
+		Youngjoong Ko et al. <b> System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN.</b> <br>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119113 호)</small>
+	</li>
+	<li>
+		Patent Application.<br>
+		Youngjoong Ko et al. <b> System and Method for Extracting Deep Learning Based Causal Relation with Expansion of Training Data.</b> <br>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119107 호)</small>
+	</li>
+	<li>
+		Patent Application.<br>
+		Youngjoong Ko et al. <b> System and Method for Korean POS Tagging Using the Concatenation of Jamo and Syllable Embedding.</b> <br>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119102 호)</small>
+	</li>
+	<li>
 		Program Copyright Registration.<br>
 		Youngjoong Ko et al. <b>레이블 자동 생성을 위한 한국어 의존 구문 분석기.</b> <br>
 		<small>창작일: 2017.11.7, 공표일: 2017.11.7</small>
@@ -35,7 +70,7 @@ title: patents
 	</li>
 	<br>
 	<li>
-		Patent Application.<br>
+		Patent Registration.<br>
 		Youngjoong Ko et al. <b>Named-entity Recognition Method and Apparatus for Korean.</b> <br>
 		<small>출원일: 2017.10.18 (출원번호 제 10-2017-0134970 호)</small>
 	</li>
@@ -59,7 +94,7 @@ title: patents
 	</li>
 	<br>
 	<li>
-		Patent Application.<br>
+		Patent Registration.<br>
 		Youngjoong Ko et al. <b>System and Method for Sentence Embedding and Similar Question Retrieving. </b> <br>
 		<small>출원일: 2017.05.16 (출원번호 제 10-2017-0060425 호)</small>
 	</li>

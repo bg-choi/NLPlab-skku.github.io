@@ -66,7 +66,7 @@ title: projects
 	<br>
 	<li>
 		<small>May 2018 ~ October 2018. </small><br>
-		Principal Investigator (PI) involved in <b><font color = "#000063">"이슈 중심의 다중 뉴스 문서 군집화 및 요약 기술 연구 개발(Development of the Clustering and Summarization Technique for News Multi-Documents by Focusing on Issues)."</font></b><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"이슈 중심의 다중 뉴스 문서 군집화 및 요약 기술 연구 개발 (Development of the Clustering and Summarization Technique for News Multi-Documents by Focusing on Issues)."</font></b><br>
 		<small>Supported by 한국과학기술정보연구원 (KISTI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
@@ -227,7 +227,7 @@ title: projects
 	<br>
 	<li>
 		<small>January 2007 ~ November 2007. </small><br>
-		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"과학기술분야 시맨틱 네트워크 구축 및 색인 기술 연구(Construction of S&T Semantic Network and Study on Indexing)."</font></b><br>
+		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"과학기술분야 시맨틱 네트워크 구축 및 색인 기술 연구 (Construction of S&T Semantic Network and Study on Indexing)."</font></b><br>
 		<small>Supported by 한국과학기술정보연구원 (KISTI).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>

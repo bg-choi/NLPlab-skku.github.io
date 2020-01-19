@@ -22,8 +22,8 @@ title: projects
 	<h1 class="pageTitle">Projects</h1>	
 	<p class="meta">프로젝트</p>
 	<a href="#1">&nbsp;Projects&nbsp;</a>|<a href="#2">&nbsp;Transfer of Technical Know-how&nbsp;</a>
-	<br>
 </div>
+<br>
 <blockquote>
 <p><a name="1"><font style = "color:#0000A5;">#Projects</font></a></p>
 <ul>

@@ -178,5 +178,6 @@ title: patents
 			<small>공표일: 2017.01.25 (C-2017-003030)</small>
 		</li>
 		<br>
+		<p><small><a href="#top">Back to Top</a></small></p>
 	</ul>
 </div>

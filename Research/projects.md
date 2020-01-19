@@ -2,6 +2,7 @@
 layout: default
 title: projects
 ---
+<a name="top"></a>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right">
 	<h4>Research</h4>
           <ul class="posts-list">
@@ -18,10 +19,14 @@ title: projects
 
 
 <div class="post">
-  <h1 class="pageTitle">Projects</h1>	
-  <p class="meta">프로젝트</p>
+	<h1 class="pageTitle">Projects</h1>	
+	<p class="meta">프로젝트</p>
+	<a href="#1">&nbsp;Projects&nbsp;</a>|<a href="#2">&nbsp;Transfer of Technical Know-how&nbsp;</a>
+	<br>
 </div>
-  <ul>
+<blockquote>
+<p><a name="1"><font style = "color:#0000A5;">#Projects</font></a></p>
+<ul>
 	<li>
 		<small>April 2017 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발 (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."</font></b><br>
@@ -252,4 +257,16 @@ title: projects
 		<small>Supported by 동아대학교 (Dong-A University).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
-  </ul>
+<p><small><a href="#top">Back to Top</a></small></p>
+</blockquote>
+<blockquote>
+<p><a name="2"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
+	<li>
+		<small>September 2014 ~ December 2019. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"AAC용 문장생성기술 (Sentence Generation Techniques for Augmentative and Alternative Communication (AAC))."</font></b><br>
+		<small>Voicware Co., LTD.</small><br>
+		<small>(IS lab. Dong-A University)</small>
+	</li>
+<p><small><a href="#top">Back to Top</a></small></p>
+</blockquote>
+</ul>

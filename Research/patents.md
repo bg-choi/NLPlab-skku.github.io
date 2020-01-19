@@ -78,7 +78,7 @@ title: patents
 		<small>등록일: 2004.02.12 (제 10-0420096 호)</small>
 	</li>
 </ul>
-<p><small><a href="#top">Back to Top</a></small></p><br>
+<p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
@@ -139,7 +139,7 @@ title: patents
 		<small>출원일: 2008.01.30 (출원번호 제 10-2008-0009731 호)</small>
 	</li>
 </ul>
-<p><small><a href="#top">Back to Top</a></small></p><br>
+<p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
 <p><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>

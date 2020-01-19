@@ -271,6 +271,7 @@ title: projects
 		<small>Voicware Co., LTD.</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+</ul>
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
-</ul>
+

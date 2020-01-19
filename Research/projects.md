@@ -259,6 +259,55 @@ title: projects
 		<small>Supported by 동아대학교 (Dong-A University).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+	<br>
+	<li>
+		<small>April 2004 ~ April 2006. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"뇌 정보처리에 기반하여 자율적 지식 획득이 가능한 기계 자아 성장 모델 개발."</font></b><br>
+		<small>Supported by 산업자원부 (Ministry of Commerce, Industry and Energy).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>September 2003 ~ August 2005. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"시소러스 기반 대화형 정보검색 및 질의응답 시스템 개발에 관한 연구 (A Study on Development of Dialog-based Information Retrieval and Question/Answering System based on Thesaurus)."</font></b><br>
+		<small>Supported by 한국과학재단 (Korea Science and Engineering Foundation (KOSEF)).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>May 2001 ~ April 2003. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"한글 자동 수화 애니메이션 시스템을 위한 자연언어처리 (An Automatic Animation System for the Korean Sign Language)."</font></b><br>
+		<small>Supported by 정보통신부 (Ministry of Information and Communication).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>December 2000 ~ November 2003. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"대화음성 인식 시스템 구현을 위한 기본 Platform 개발 (Development of Baseline Platform for Spoken Dialogue Recognition System)."</font></b><br>
+		<small>Supported by 산업자원부 (Ministry of Commerce, Industry and Energy).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>September 1999 ~ August 2002. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"지능형 정보검색 에이전트 연구팀(BK21 핵심연구사업) (BK21 : Intelligent Information Retrieval Agent Research Team)."</font></b><br>
+		<small>Supported by 학술진흥재단 (Korea Research Foundation (KRF)).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>August 1998 ~ August 2000. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"통계모델을 이용한 한국어처리 (Korean Processing Based on Statistical Model)."</font></b><br>
+		<small>Supported by 한국과학재단 (Korea Science and Engineering Foundation (KOSEF)).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
+	<br>
+	<li>
+		<small>August 1998 ~ June 1999. </small><br>
+		Research Assistant involved in <b><font color = "#000063">"다중모드 사용자 대화 인터페이스 시스템 연구 (A Study on a Multi-Modal Dialogue User Interface System)."</font></b><br>
+		<small>Supported by 정보통신연구진흥원 (The Institute of Information Technology Assessment (IITA)).</small><br>
+		<small>(NLP lab. Sogang University)</small>
+	</li>
 </ul>
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>

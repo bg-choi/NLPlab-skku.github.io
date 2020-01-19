@@ -27,7 +27,7 @@ title: patents
 	<br>
 </div>
 <blockquote>
-<a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a><
+<p><a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a></p>
 <ul>
 	<li>
 		Patent Registration.<br>
@@ -78,10 +78,10 @@ title: patents
 		<small>등록일: 2004.02.12 (제 10-0420096 호)</small>
 	</li>
 </ul>
-<p><small><a href="#top">Back to Top</a></small></p>
+<small><a href="#top">Back to Top</a></small><br>
 </blockquote>
 <blockquote>
-<a name="2"><font style = "color:#0000A5;">#Patent Application</font></a>
+<p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
 <ul>
 	<li>
 		Patent Application.<br>
@@ -139,10 +139,10 @@ title: patents
 		<small>출원일: 2008.01.30 (출원번호 제 10-2008-0009731 호)</small>
 	</li>
 </ul>
-<p><small><a href="#top">Back to Top</a></small></p>
+<small><a href="#top">Back to Top</a></small><br>
 </blockquote>
 <blockquote>
-<a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a>
+<p><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
 <ul>
 	<li>
 		Program Copyright Registration<br>
@@ -179,5 +179,5 @@ title: patents
 		<small>공표일: 2017.01.25 (C-2017-003030)</small>
 	</li>
 </ul>
-<p><small><a href="#top">Back to Top</a></small></p>
+<small><a href="#top">Back to Top</a></small>
 </blockquote>

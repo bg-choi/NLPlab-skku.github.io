@@ -79,7 +79,7 @@ title: patents
 	</li>
 </ul>
 <p><small><a href="#top">Back to Top</a></small></p>
-</blockquote>
+</blockquote><br>
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
 <ul>
@@ -138,10 +138,9 @@ title: patents
 		Youngjoong Ko et al. <b><font color = "#000063">User Terminal and Method for Providing Summary of Web Page.</font></b><br>
 		<small>출원일: 2008.01.30 (출원번호 제 10-2008-0009731 호)</small>
 	</li>
-	<br>
 </ul>
 <p><small><a href="#top">Back to Top</a></small></p>
-</blockquote>
+</blockquote><br>
 <blockquote>
 <p><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
 <ul>
@@ -179,7 +178,6 @@ title: patents
 		<small>창작일: 2017.01.23</small><br>
 		<small>공표일: 2017.01.25 (C-2017-003030)</small>
 	</li>
-	<br>
 </ul>
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>

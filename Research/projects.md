@@ -259,10 +259,12 @@ title: projects
 		<small>Supported by 동아대학교 (Dong-A University).</small><br>
 		<small>(IS lab. Dong-A University)</small>
 	</li>
+</ul>
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
+<ul>
 	<li>
 		<small>September 2014 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"AAC용 문장생성기술 (Sentence Generation Techniques for Augmentative and Alternative Communication (AAC))."</font></b><br>

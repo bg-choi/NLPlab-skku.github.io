@@ -146,6 +146,13 @@ title: patents
 <ul>
 	<li>
 		Program Copyright Registration<br>
+		Youngjoong Ko et al. <b><font color = "#000063">원격 지도(Distant Supervision) 기법을 이용한 개체명 인식 프로그램.</font></b><br>
+		<small>창작일: 2019.12.16</small><br>
+		<small>공표일: 2019.12.30 (C-2019-043819)</small>
+	</li>
+	<br>
+	<li>
+		Program Copyright Registration<br>
 		Youngjoong Ko et al. <b><font color = "#000063">딥러닝 기반 인과관계 분석 프로그램.</font></b><br>
 		<small>창작일: 2018.11.16</small><br>
 		<small>공표일: 2018.11.20 (C-2018-033948)</small>

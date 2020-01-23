@@ -22,7 +22,7 @@ title: patents
 	<h1 class="pageTitle">Research</h1>
 	<p class="meta">특허</p>
 	<div class="linklink" style = "text-align:center;">
-		<a href="#1">&nbsp;Patent Registration&nbsp;</a>|<a href="#2">&nbsp;Patent Application&nbsp;</a>|<a href="#3">&nbsp;Program Copyright Registration&nbsp;</a>
+		<a href="#1">Patent Registration</a> | <a href="#2">Patent Application</a> | <a href="#3">Program Copyright Registration</a>
 	</div>
 	<br>
 </div>

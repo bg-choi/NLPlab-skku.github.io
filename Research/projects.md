@@ -22,7 +22,7 @@ title: projects
 	<h1 class="pageTitle">Projects</h1>	
 	<p class="meta">프로젝트</p>
 	<div class="linklink" style = "text-align:center;">
-		<a href="#1">&nbsp;Projects&nbsp;</a>|<a href="#2">&nbsp;Transfer of Technical Know-how&nbsp;</a>
+		<a href="#1">Projects</a> | <a href="#2">Transfer of Technical Know-how</a>
 	</div>
 	<br>
 </div>

@@ -27,7 +27,7 @@ title: patents
 	<br>
 </div>
 <blockquote>
-<p><a name="1"><font style = "color:#0000A5;"># Patent Registration</font></a></p>
+<p><a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a></p>
 <ul>
 	<li>
 		Patent Registration.<br>
@@ -81,7 +81,7 @@ title: patents
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="2"><font style = "color:#0000A5;"># Patent Application</font></a></p>
+<p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
 <ul>
 	<li>
 		Patent Application.<br>
@@ -142,7 +142,7 @@ title: patents
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="3"><font style = "color:#0000A5;"># Program Copyright Registration</font></a></p>
+<p><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
 <ul>
 	<li>
 		Program Copyright Registration<br>

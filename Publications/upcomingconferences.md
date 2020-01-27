@@ -25,13 +25,13 @@ title: upcomingconferences
 		2020 Main conference : July 6-8, 2020 
 		<a href = "https://acl2020.org/" target = "_blank">참조</a>
 	</li>
-  	<li><a href="http://conference.researchbib.com/?action=viewEventDetails&eventid=39025&uid=r45e47" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
+  	<li><a href="https://2020.emnlp.org/" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 		2020 submission deadline : May 11, 2020 
 		<a href = "https://2020.emnlp.org/call-for-papers" target = "_blank">참조</a>
 	</li>
 	<li><a href="http://naacl.org/" target = "_blank">NAACL</a> : North American Chapter of the Association for Computational Linguistics</li>
-	<li><a href="http://www.eacl.org/page.php?id=index" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics</li>
-	<li><a href="http://www.coling-2014.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
+	<li><a href="http://eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics</li>
+	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		2020 submission deadline : April 8, 2020 
 		<a href = "https://coling2020.org/pages/call_for_papers" target = "_blank">참조</a>
 	</li>
@@ -49,7 +49,7 @@ title: upcomingconferences
   
   <h3>Artificial Intelligence</h3>	
   <ul>
-	<li><a href="http://www.aaai.org/home.html" target = "_blank">AAAI</a> : Association for the Advancement of Artificial Intelligence<br>
+	<li><a href="http://www.aaai.org/" target = "_blank">AAAI</a> : Association for the Advancement of Artificial Intelligence<br>
 		2020 Main conference : February 7-12, 2020 
 		<a href= "https://aaai.org/Conferences/AAAI-20/aaai20call/" target = "_blank">참조</a>
 	</li>
@@ -57,7 +57,7 @@ title: upcomingconferences
   
   <h3>Machine Learning</h3>	
   <ul>
-	<li><a href="http://icml.cc/2015/" target = "_blank">ICML</a> : International Conference on Machine Learning<br>
+	<li><a href="https://icml.cc/" target = "_blank">ICML</a> : International Conference on Machine Learning<br>
 		2020 submission deadline : January 31, 2020 
 		<a href = "https://icml.cc/Conferences/2020/Dates" target = "_blank">참조</a>
 	</li>
@@ -65,8 +65,8 @@ title: upcomingconferences
   
   <h3>Data Mining</h3>	
   <ul>
-	<li><a href="http://icdm2014.sfu.ca/home.html" target = "_blank">ICDM</a> : International Conference on Data Mining<br>
-		2020 submission deadline for short paper : March 3, 2020 
+	<li><a href="http://www.data-mining-forum.de/" target = "_blank">ICDM</a> : International Conference on Data Mining<br>
+		2020 submission deadline for short paper : March 20, 2020 
 		<a href = "http://www.data-mining-forum.de/icdm2020.php" target = "_blank">참조</a>
 	</li>
   </ul>

@@ -22,6 +22,8 @@ navigation:
    url: /Publications/journalpapers/
  - title: Members
    url: /members
+ - title: GitHub
+   url: "https://github.com/NLPlab-skku"
  #- title: Boards
  #  url: /Boards/notice/
  #- title: Courses

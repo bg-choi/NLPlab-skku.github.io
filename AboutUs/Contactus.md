@@ -6,10 +6,10 @@ title: Contact
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/introduction/">Introduction </a>
+                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Introduction/">Introduction </a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/photos/">Photos</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Photos/">Photos</a>
             </li>
             <li>Contact us(here)
             </li>
@@ -30,7 +30,7 @@ title: Contact
 	</p>
 </div>
 
-<div align="centerr">
+<div align="center">
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
 <script charset="UTF-8">

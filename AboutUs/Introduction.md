@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 ---
- <h4>About us</h4>
+ <h4>About Us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li>Introduction(here)
@@ -11,7 +11,7 @@ title: Introduction
                 <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Photos/">Photos</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Contactus/">Contact us</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/ContactUs/">Contact Us</a>
             </li>
           </ul>
   </div>

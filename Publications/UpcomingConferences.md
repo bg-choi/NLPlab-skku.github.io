@@ -6,10 +6,10 @@ title: upcomingconferences
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
-		    <a class="post-title" href="https://nlplab-skku.github.io/Publications/journalpapers/">Journal Papers</a>
+		    <a class="post-title" href="https://nlplab-skku.github.io/Publications/JournalPapers/">Journal Papers</a>
             </li>
             <li class="post-link">
-                    <a class="post-title" href="https://nlplab-skku.github.io/Publications/conferencepapers/">Conference Papers</a>
+                    <a class="post-title" href="https://nlplab-skku.github.io/Publications/CconferencePapers/">Conference Papers</a>
             </li>
             <li>Upcoming Conferences(here)
             </li>

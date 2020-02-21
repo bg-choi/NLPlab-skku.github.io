@@ -29,7 +29,7 @@ title: Photos
             <li>Photos(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Contactus/">Contact us</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/ContactUs/">Contact Us</a>
             </li>
           </ul>
   </div>

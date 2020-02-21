@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fields
+title: Fields
 ---
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right;">
@@ -8,10 +8,10 @@ title: fields
             <li>Fields(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/Research/projects/">Projects</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/Projects/">Projects</a>
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/Research/patents/">Patents</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/Patents/">Patents</a>
             </li>
           </ul>
   </div>

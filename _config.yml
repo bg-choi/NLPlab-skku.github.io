@@ -13,15 +13,15 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /Index
  - title: About us
    url: /AboutUs/Introduction/
  - title: Research
-   url: /Research/fields/
+   url: /Research/Fields/
  - title: Publications
-   url: /Publications/journalpapers/
+   url: /Publications/JournalPapers/
  - title: Members
-   url: /members
+   url: /Members
  - title: GitHub
    url: "https://github.com/NLPlab-skku"
  #- title: Boards

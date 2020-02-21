@@ -3,8 +3,8 @@ layout: default
 title: Projects
 ---
 <a name="top"></a>
+<h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right">
-	<h4>Research</h4>
           <ul class="posts-list">
             <li class="post-link">
                 <a class="post-title" href="https://nlplab-skku.github.io/Research/Fields/">Fields</a>

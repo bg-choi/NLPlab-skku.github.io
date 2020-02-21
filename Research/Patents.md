@@ -3,8 +3,8 @@ layout: default
 title: Patents
 ---
 <a name="top"></a>
+<h4>Patents</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right">
-	<h4>Patents</h4>
           <ul class="posts-list">
             <li class="post-link">
                 <a class="post-title" href="https://nlplab-skku.github.io/Research/Fields/">Fields</a>
@@ -19,7 +19,7 @@ title: Patents
 
 
 <div class="post">
-	<h1 class="pageTitle">Research</h1>
+	<h1 class="pageTitle">Patents</h1>
 	<p class="meta">특허</p>
 	<div class="linklink" style = "text-align:center;">
 		<a href="#1">Patent Registration</a> | <a href="#2">Patent Application</a> | <a href="#3">Program Copyright Registration</a>

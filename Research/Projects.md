@@ -1,18 +1,18 @@
 ---
 layout: default
-title: projects
+title: Projects
 ---
 <a name="top"></a>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right">
 	<h4>Research</h4>
           <ul class="posts-list">
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/Research/fields/">Fields</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/Fields/">Fields</a>
             </li>
             <li>Projects(here)
             </li>
             <li class="post-link">
-                <a class="post-title" href="https://nlplab-skku.github.io/Research/patents/">Patents</a>
+                <a class="post-title" href="https://nlplab-skku.github.io/Research/Patents/">Patents</a>
             </li>
           </ul>
   </div>

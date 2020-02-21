@@ -30,7 +30,7 @@ title: Contact
 	</p>
 </div>
 
-<div text-align:center">
+<div align="centerr">
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
 <script charset="UTF-8">
@@ -40,4 +40,5 @@ title: Contact
 		"mapWidth" : "700",
 		"mapHeight" : "450"
 	}).render();
-</script></div>
+</script>
+</div>

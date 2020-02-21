@@ -2,7 +2,7 @@
 layout: default
 title: ContactUs
 ---
-<h4>About us</h4>
+<h4>About Us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">

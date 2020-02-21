@@ -30,14 +30,13 @@ title: Contact
 	</p>
 </div>
 
-<div align="center">
+<div style="width:100%; margin:0 auto;">
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
 		"timestamp" : "1582297094705",
 		"key" : "x76z",
-		"mapWidth" : "700",
 		"mapHeight" : "450"
 	}).render();
 </script>

@@ -34,7 +34,7 @@ title: Contact
 	new daum.roughmap.Lander({
 		"timestamp" : "1582297094705",
 		"key" : "x76z",
-		"mapWidth" : "7000",
+		"mapWidth" : "700",
 		"mapHeight" : "450"
 	}).render();
 </script>

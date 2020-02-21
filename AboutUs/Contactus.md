@@ -29,7 +29,7 @@ title: Contact
 	(16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
 	</p>
 </div>
-
+<center>
 <div style="width:100%; margin:0 auto;">
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
@@ -41,3 +41,4 @@ title: Contact
 	}).render();
 </script>
 </div>
+</center>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: contact
+title: Contact
 ---
 <h4>About us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
@@ -18,9 +18,22 @@ title: contact
 
 
 <div class="post">
-  <h1 class="pageTitle">Contact us</h1>	
-  <p class="meta">찾아오시는 길</p>
-  <p class="intro"><span class="dropcap">경</span>
-	<p class="intro">기도 수원시 장안구 서부로 2066 성균관대학교 자연과학캠퍼스 N센터 4층 86401호</p>
-<img src="/assets/img/86401.PNG">
+	<h1 class="pageTitle">Contact us</h1>
+	<p class="meta">찾아오시는 길</p>
+	<p class="intro">
+	(16419) 경기도 수원시 장안구 서부로 2066, 성균관대학교 자연과학캠퍼스 N센터 4층 86401호<br>
+	N Center 86401, Sungkyunkwan University (Natural Science Campus), (16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
+	</p>
+</div>
+
+<div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1582297094705",
+		"key" : "x76z",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
 

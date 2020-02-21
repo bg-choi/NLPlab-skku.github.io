@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: ContactUs
 ---
 <h4>About us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
@@ -11,14 +11,14 @@ title: Contact
             <li class="post-link">
                 <a class="post-title" href="https://nlplab-skku.github.io/AboutUs/Photos/">Photos</a>
             </li>
-            <li>Contact us(here)
+            <li>Contact Us(here)
             </li>
           </ul>
   </div>
 
 
 <div class="post">
-	<h1 class="pageTitle">Contact us</h1>
+	<h1 class="pageTitle">Contact Us</h1>
 	<p class="meta">찾아오시는 길</p>
 	<p>
 	(16419) 경기도 수원시 장안구 서부로 2066,<br>

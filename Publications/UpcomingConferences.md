@@ -9,7 +9,7 @@ title: upcomingconferences
 		    <a class="post-title" href="https://nlplab-skku.github.io/Publications/JournalPapers/">Journal Papers</a>
             </li>
             <li class="post-link">
-                    <a class="post-title" href="https://nlplab-skku.github.io/Publications/CconferencePapers/">Conference Papers</a>
+                    <a class="post-title" href="https://nlplab-skku.github.io/Publications/ConferencePapers/">Conference Papers</a>
             </li>
             <li>Upcoming Conferences(here)
             </li>

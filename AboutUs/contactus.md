@@ -27,12 +27,12 @@ title: Contact
 	<p>
 	N Center 86401, Sungkyunkwan University (Natural Science Campus),<br>
 	(16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
-	</p><
+	</p>
 </div>
 
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-<div align:"center">
+<div text-align:center">
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
 		"timestamp" : "1582297094705",

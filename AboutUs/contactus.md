@@ -20,20 +20,22 @@ title: Contact
 <div class="post">
 	<h1 class="pageTitle">Contact us</h1>
 	<p class="meta">찾아오시는 길</p>
-	<p class="intro">
-	(16419) 경기도 수원시 장안구 서부로 2066, 성균관대학교 자연과학캠퍼스 N센터 4층 86401호<br>
-	N Center 86401, Sungkyunkwan University (Natural Science Campus), (16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
+	<small><p>
+	(16419) 경기도 수원시 장안구 서부로 2066, 성균관대학교 자연과학캠퍼스 N센터 4층 86401호
 	</p>
+	<p>
+	N Center 86401, Sungkyunkwan University (Natural Science Campus), (16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
+	</p></small>
 </div>
 
 <div id="daumRoughmapContainer1582297094705" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-<script charset="UTF-8">
+<script charset="UTF-8" align="center">
 	new daum.roughmap.Lander({
 		"timestamp" : "1582297094705",
 		"key" : "x76z",
-		"mapWidth" : "640",
-		"mapHeight" : "360"
+		"mapWidth" : "7000",
+		"mapHeight" : "450"
 	}).render();
 </script>
 

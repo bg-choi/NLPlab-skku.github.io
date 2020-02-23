@@ -3,7 +3,7 @@ layout: default
 title: Patents
 ---
 <a name="top"></a>
-<h4>Patents</h4>
+<h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">

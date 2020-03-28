@@ -25,22 +25,27 @@ title: upcomingconferences
 		2020 Main conference : July 5-10, 2020 
 		<a href = "https://acl2020.org/" target = "_blank">참조</a>
 	</li>
+	<br>
   	<li><a href="https://2020.emnlp.org/" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 		2020 submission deadline : May 11, 2020 <br>
 		2020 Main conference : November	8-12, 2020 
 		<a href = "https://2020.emnlp.org/call-for-papers" target = "_blank">참조</a>
 	</li>
+	<br>
 	<li><a href="http://naacl2021.org" target = "_blank">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>
 		2021 submission deadline : November 10, 2020 <br>
 		2021 Main conference : June 6-11, 2021 
 		<a href = "http://naacl2021.org" target = "_blank">참조</a>
-	  </li>
-	<li><a href="http://eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics</li>
+	</li>
+	<br>
+	<li><a href="http://eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics
+	</li>
 	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		2020 submission deadline : April 8, 2020 <br>
 		2020 Main conference : September 13-18, 2020 
 		<a href = "https://coling2020.org/pages/call_for_papers" target = "_blank">참조</a>
 	</li>
+	<br>
 	<li><a href="https://www.conll.org/2020" target = "_blank">CoNLL</a> : Conference on Natural Language Learning<br>
 		2020 submission deadline : June 5, 2020 <br>
 		2020 Main conference : November 11-12, 2020 

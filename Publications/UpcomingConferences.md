@@ -23,7 +23,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="https://acl2020.org/" target = "_blank">ACL</a> : Association for Computational Linguistics<br>
 		<small>
-		2020 Submission Deadline : <strike style="color:red;">December 9, 2019</strike><br>
+		2020 Submission Deadline : <strike>December 9, 2019</strike><br>
 		2020 Main Conference : July 5-10, 2020 
 		</small>
 	</li>
@@ -59,7 +59,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="https://sigir.org/sigir2020/" target = "_blank">SIGIR</a> : Special Interest Group on Information Retrieval<br>
 		<small>
-		2020 Submission Deadline : <strike style="color:red;">January 22, 2020</strike><br>
+		2020 Submission Deadline : <strike>January 22, 2020</strike><br>
 		2020 Main Conference : July 25-30, 2020 
 		</small>
 	</li>
@@ -79,7 +79,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="https://icml.cc/Conferences/2020/Dates" target = "_blank">ICML</a> : International Conference on Machine Learning<br>
 		<small>
-		2020 Submission Deadline : <strike style="color:red;">February 6, 2020</strike><br>
+		2020 Submission Deadline : <strike>February 6, 2020</strike><br>
 		2020 Main Conference : July 12-18, 2020 
 		</small>
 	</li>

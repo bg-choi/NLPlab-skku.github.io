@@ -43,8 +43,8 @@ title: upcomingconferences
 	</li>
 	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		<small>
-		2020 Submission Deadline : April 8, 2020 <br>
-		2020 Main Conference : September 13-18, 2020 
+		2020 Submission Deadline : July 1, 2020 <br>
+		2020 Main Conference : December 8-13, 2020 
 	  	</small>
 	</li>
 	<li><a href="https://www.conll.org/2020" target = "_blank">CoNLL</a> : Conference on Natural Language Learning<br>

@@ -31,49 +31,49 @@ title: Patents
 <ul>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Named-entity Recognition Method and Apparatus for Korean.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Named-entity Recognition Method and Apparatus for Korean. (한국어 개체명 인식방법 및 장치)</font></b><br>
 		<small>출원일: 2017.10.18 (출원번호 제 10-2017-0134970 호)</small><br>
 		<small>등록일: 2019.01.17 (제 10-1941692호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Sentence Embedding and Similar Question Retrieving.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Sentence Embedding and Similar Question Retrieving. (문장 임베딩 및 유사 질문 검색을 위한 장치 및 방법)</font></b><br>
 		<small>출원일: 2017.05.16 (출원번호 제 10-2017-0060425 호)</small><br>
 		<small>등록일: 2018.11.23 (제 10-1923650호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Query Translator and Method for Cross-language Information Retrieval using Linguistic Resources from Wikipedia and Parallel Corpus.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Query Translator and Method for Cross-language Information Retrieval using Linguistic Resources from Wikipedia and Parallel Corpus. (위키피디아의 언어자원과 병렬 코퍼스를 이용한 교차언어 검색기의 질의어 번역 시스템 및 방법)</font></b><br>
 		<small>출원일: 2014.07.17 (출원번호 제 10-2014-0090447 호) </small><br>
 		<small>등록일: 2016.04.21 (제 10-1616031 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Feature Weighting Apparatus for User Utterance Information Classification in Dialogue System and Method of the Same.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Feature Weighting Apparatus for User Utterance Information Classification in Dialogue System and Method of the Same. (대화시스템에서 사용자 발화의 정보 분류를 위한 자질 가중치 산출 장치 및 방법)</font></b><br>
 		<small>출원일: 2014.06.30 (출원번호 제 10-2014-0080978 호) </small><br>
 		<small>등록일: 2015.10.27 (제 10-1565143 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">A Simultaneous Recognition Technology for the Language Understanding Module of a Dialogue System.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">A Simultaneous Recognition Technology for the Language Understanding Module of a Dialogue System. (모바일 대화 시스템의 언어 인식 모듈을 위한 동시 인식 장치 및 방법)</font></b><br>
 		<small>출원일: 2014.05.16 (출원번호 제 10-2014-0059159 호) </small><br>
 		<small>등록일: 2015.10.05 (제 10-1559576 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Plain Text Query Based Mathematical Formula Retrieval.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Plain Text Query Based Mathematical Formula Retrieval. (자연어 질의 기반의 수학식 검색 시스템 및 방법)</font></b><br>
 		<small>출원일: 2014.05.16 (출원번호 제 10-2014-0059144 호) </small><br>
 		<small>등록일: 2015.11.04 (제 10-1567904 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Registration.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Automatic Text Categorization Method Based on Unsupervised Learning, Using Keywords of Each Category and Measurement of the Similarity between Sentences.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Automatic Text Categorization Method Based on Unsupervised Learning, Using Keywords of Each Category and Measurement of the Similarity between Sentences. (각 범주의 핵심어와 문장간 유사도 측정 기법을 이용한비지도 학습을 기반으로 하는 자동 문서 범주화 방법)</font></b><br>
 		<small>출원일: 2001.03.09 (출원번호 제 2001-0012318 호)</small><br>
 		<small>등록일: 2004.02.12 (제 10-0420096 호)</small>
 	</li>
@@ -85,57 +85,57 @@ title: Patents
 <ul>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Device and Method for Analyzing Speech-act.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Device and Method for Analyzing Speech-act. (화행 분석 장치 및 방법)</font></b><br>
 		<small>출원일: 2018.11.26 (출원번호 제 10-2018-0147852 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN. (합성곱 신경망에 의한 발화 임베딩을 사용한 유사도측정 기반의 채팅 말뭉치 확장을 위한 장치 및 방법)</font></b><br>
 		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119113 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Extracting Deep Learning Based Causal Relation with Expansion of Training Data.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Extracting Deep Learning Based Causal Relation with Expansion of Training Data. (학습 데이터 확장을 통한 딥러닝 기반 인과관계 추출을 위한 장치 및 방법)</font></b><br>
 		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119107 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Korean POS Tagging Using the Concatenation of Jamo and Syllable Embedding.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Korean POS Tagging Using the Concatenation of Jamo and Syllable Embedding. (자모 및 음절 임베딩 결합을 이용하는 한국어 형태소 분석을 위한 장치 및 방법)</font></b><br>
 		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119102 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Keyword Extraction Method and Apparatus for Science Document.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Keyword Extraction Method and Apparatus for Science Document. (과학문서의 핵심어구 추출 방법 및 장치)</font></b><br>
 		<small>출원일: 2017.11.02 (출원번호 제 10-2017-0145461 호)</small><br>
 		<small>등록일: 2019.08.27 (제 10-2017227호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Method for Natural Language Understanding Based on Distribution of Task-specific Labels.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Method for Natural Language Understanding Based on Distribution of Task-specific Labels. (언어분석기별 정답 레이블 분포를 이용한 자연어 이해 방법)</font></b><br>
 		<small>출원일: 2017.08.18 (출원번호 제 10-2017-0104871 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Syllable-based Korean POS Tagging Using POS Distribution and Bidirectional LSTM CRFs and Method of the same.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Syllable-based Korean POS Tagging Using POS Distribution and Bidirectional LSTM CRFs and Method of the same. (품사 분포와 양방향 LSTM CRFs를 이용한 음절 단위 형태소 분석기 및 분석 방법)</font></b><br>
 		<small>출원일: 2017.08.18 (출원번호 제 10-2017-0104916 호)</small><br>
 		<small>등록일: 2019.07.12 (제 10-1997783호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">Method for Improvement of Efficiency of Biology Medical Terminology Named Entity Recognition Apparatus Using Automatic Labeling Data Based on Bootstrapping Technique.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">Method for Improvement of Efficiency of Biology Medical Terminology Named Entity Recognition Apparatus Using Automatic Labeling Data Based on Bootstrapping Technique. (부트스트래핑 기법으로 자동 레이블링한 학습데이터를 사용한 생물의학용어 개체명 인식기의 성능 향상 방법)</font></b><br>
 		<small>출원일: 2017.02.14 (출원번호 제 10-2017-0020231 호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
-		Youngjoong Ko et al. <b><font color = "#000063">User Terminal and Method for Providing Summary of Web Page.</font></b><br>
+		Youngjoong Ko et al. <b><font color = "#000063">User Terminal and Method for Providing Summary of Web Page. (웹 문서 요약 제공을 위한 사용자 단말 장치 및 웹 문서 제공 방법)</font></b><br>
 		<small>출원일: 2008.01.30 (출원번호 제 10-2008-0009731 호)</small>
 	</li>
 </ul>

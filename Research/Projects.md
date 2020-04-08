@@ -30,17 +30,24 @@ title: Projects
 <p><a name="1"><font style = "color:#0000A5;">#Projects</font></a></p>
 <ul>
 	<li>
+		<small>April 2020 ~ December 2023. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"뉴럴-심볼릭 모델의 지식 학습 및 추론 기술 개발 (A Neural-Symbolic Model for Knowledge Acquisition and Inference Techniques)."</font></b><br>
+		<small>Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
+	<li>
 		<small>April 2017 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발 (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."</font></b><br>
 		<small>Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning).</small><br>
-		<small>(IS lab. Dong-A University)</small>
+		<small>(NLP lab. SKK University)</small>
 	</li>
 	<br>
 	<li>
 		<small>May 2019 ~ November 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"TripleQA를 위한 딥러닝 기반 Property Linking 기술 개발 연구 (Development of Deep Learning Based Property Linking Technique for TripleQA)."</font></b><br>
 		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
-		<small>(IS lab. Dong-A University)</small>
+		<small>(NLP lab. SKK University)</small>
 	</li>
 	<br>
 	<li>

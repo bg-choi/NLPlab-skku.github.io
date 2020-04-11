@@ -29,8 +29,8 @@ title: upcomingconferences
 	</li>
   	<li><a href="https://2020.emnlp.org/" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 		<small>
-		2020 Submission Deadline : May 11, 2020 <br>
-		2020 Main Conference : November	8-12, 2020 
+		2020 Submission Deadline : June 1, 2020 <br>
+		2020 Main Conference : November	16-18, 2020 
 		</small>
 	</li>
 	<li><a href="http://naacl2021.org" target = "_blank">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>

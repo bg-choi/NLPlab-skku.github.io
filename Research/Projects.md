@@ -22,12 +22,12 @@ title: Projects
 	<h1 class="pageTitle">Projects</h1>	
 	<p class="meta">프로젝트</p>
 	<div class="linklink" style = "text-align:center;">
-		<a href="#1">Projects</a> | <a href="#2">Transfer of Technical Know-how</a>
+		<a href="#1">Current Projects</a> | <a href="#2">Past Projects</a> | <a href="#3">Transfer of Technical Know-how</a>
 	</div>
 	<br>
 </div>
 <blockquote>
-<p><a name="1"><font style = "color:#0000A5;">#Projects</font></a></p>
+<p><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
 <ul>
 	<li>
 		<small>April 2020 ~ December 2023. </small><br>
@@ -42,7 +42,12 @@ title: Projects
 		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
-	<br>
+</ul>
+<p><small><a href="#top">Back to Top</a></small></p>
+</blockquote>
+<blockquote>
+<p><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
+<ul>
 	<li>
 		<small>April 2017 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발 (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."</font></b><br>
@@ -326,7 +331,7 @@ title: Projects
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="2"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
+<p><a name="3"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
 <ul>
 	<li>
 		<small>September 2014 ~ December 2019. </small><br>

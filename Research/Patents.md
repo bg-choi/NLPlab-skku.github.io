@@ -92,19 +92,22 @@ title: Patents
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN. (합성곱 신경망에 의한 발화 임베딩을 사용한 유사도측정 기반의 채팅 말뭉치 확장을 위한 장치 및 방법)</font></b><br>
-		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119113 호)</small>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119113 호)</small><br>
+		<small>등록일: 2020.05.06 (제 10-2109866호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Extracting Deep Learning Based Causal Relation with Expansion of Training Data. (학습 데이터 확장을 통한 딥러닝 기반 인과관계 추출을 위한 장치 및 방법)</font></b><br>
-		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119107 호)</small>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119107 호)</small><br>
+		<small>등록일: 2020.05.06 (제 10-2109860호)</small>
 	</li>
 	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Korean POS Tagging Using the Concatenation of Jamo and Syllable Embedding. (자모 및 음절 임베딩 결합을 이용하는 한국어 형태소 분석을 위한 장치 및 방법)</font></b><br>
-		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119102 호)</small>
+		<small>출원일: 2018.10.05 (출원번호 제 10-2018-0119102 호)</small><br>
+		<small>등록일: 2020.05.06 (제 10-2109858호)</small>
 	</li>
 	<br>
 	<li>

@@ -49,8 +49,8 @@ title: upcomingconferences
 	</li>
 	<li><a href="https://www.conll.org/2020" target = "_blank">CoNLL</a> : Conference on Natural Language Learning<br>
 		<small>
-		2020 Submission Deadline : June 5, 2020 <br>
-		2020 Main Conference : November 11-12, 2020 
+		2020 Submission Deadline : July 17, 2020 <br>
+		2020 Main Conference : November 19-20, 2020 
 		</small>
 	</li>
   </ul>
@@ -59,8 +59,8 @@ title: upcomingconferences
   <ul>
 	<li><a href="https://sigir.org/sigir2020/" target = "_blank">SIGIR</a> : Special Interest Group on Information Retrieval<br>
 		<small>
-		2020 Submission Deadline : <strike>January 22, 2020</strike><br>
-		2020 Main Conference : July 25-30, 2020 
+		2021 Submission Deadline : January 22, 2021<br>
+		2021 Main Conference : July 25-30, 2021
 		</small>
 	</li>
   </ul>
@@ -70,7 +70,7 @@ title: upcomingconferences
 	<li><a href="https://aaai.org/Conferences/AAAI-21" target = "_blank">AAAI</a> : Association for the Advancement of Artificial Intelligence<br>
 		<small>
 		2021 Submission Deadline : September 5, 2020 <br>
-		2021 Main Conference : February 2-9, 2021 
+		2021 Main Conference : February 2-9, 2021
 		</small>
 	</li>
   </ul>
@@ -80,7 +80,7 @@ title: upcomingconferences
 	<li><a href="https://icml.cc/Conferences/2020/Dates" target = "_blank">ICML</a> : International Conference on Machine Learning<br>
 		<small>
 		2020 Submission Deadline : <strike>February 6, 2020</strike><br>
-		2020 Main Conference : July 12-18, 2020 
+		2020 Main Conference : July 25-31, 2020 
 		</small>
 	</li>
   </ul>
@@ -89,7 +89,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="http://icdm2020.bigke.org" target = "_blank">ICDM</a> : International Conference on Data Mining<br>
 		<small>
-		2020 Submission Deadline : June 2, 2020 <br>
+		2020 Submission Deadline : June 11, 2020 <br>
 		2020 Main Conference : November 17-20, 2020 
 		</small>
 	</li>

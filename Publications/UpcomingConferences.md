@@ -21,11 +21,7 @@ title: upcomingconferences
   <p class="meta">예정 학회들</p>
   <h3>NLP (Natural Language Processing)</h3>
   <ul>
-	<li><a href="https://acl2020.org/" target = "_blank">ACL</a> : Association for Computational Linguistics<br>
-		<small>
-		2020 Submission Deadline : <strike>December 9, 2019</strike><br>
-		2020 Main Conference : July 5-10, 2020 
-		</small>
+	<li><a href="https://acl2020.org/" target = "_blank">ACL</a> : Association for Computational Linguistics
 	</li>
   	<li><a href="https://2020.emnlp.org/" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 		<small>
@@ -43,7 +39,7 @@ title: upcomingconferences
 	</li>
 	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		<small>
-		2020 Submission Deadline : July 1, 2020 <br>
+		2020 Submission Deadline : <strike>July 1, 2020</strike> <br>
 		2020 Main Conference : December 8-13, 2020 
 	  	</small>
 	</li>
@@ -89,7 +85,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="http://icdm2020.bigke.org" target = "_blank">ICDM</a> : International Conference on Data Mining<br>
 		<small>
-		2020 Submission Deadline : June 11, 2020 <br>
+		2020 Submission Deadline : <strike>June 11, 2020</strike> <br>
 		2020 Main Conference : November 17-20, 2020 
 		</small>
 	</li>

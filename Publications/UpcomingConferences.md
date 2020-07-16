@@ -26,16 +26,16 @@ title: upcomingconferences
   	<li><a href="https://2020.emnlp.org/" target = "_blank">EMNLP</a> : Empirical Methods in Natural Language Processing<br>
 		<small>
 		2020 Submission Deadline : <strike>June 1, 2020</strike><br>
-		2020 Main Conference : November	16-18, 2020 
+		2020 Main Conference : November	16-20, 2020 
 		</small>
 	</li>
-	<li><a href="http://naacl2021.org" target = "_blank">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>
+	<li><a href="http://naacl.org" target = "_blank">NAACL</a> : North American Chapter of the Association for Computational Linguistics<br>
+	</li>
+	<li><a href="https://2021.eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics<br>
 		<small>
-		2021 Submission Deadline : December 10, 2020 <br>
-		2021 Main Conference : June 6-11, 2021 
+		2021 Submission Deadline : September 20, 2020 <br>
+		2021 Main Conference : February 19-23, 2021
 		</small>
-	</li>
-	<li><a href="http://eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics
 	</li>
 	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		<small>
@@ -65,7 +65,7 @@ title: upcomingconferences
   <ul>
 	<li><a href="https://aaai.org/Conferences/AAAI-21" target = "_blank">AAAI</a> : Association for the Advancement of Artificial Intelligence<br>
 		<small>
-		2021 Submission Deadline : September 5, 2020 <br>
+		2021 Submission Deadline : September 10, 2020 <br>
 		2021 Main Conference : February 2-9, 2021
 		</small>
 	</li>
@@ -76,7 +76,7 @@ title: upcomingconferences
 	<li><a href="https://icml.cc/Conferences/2020/Dates" target = "_blank">ICML</a> : International Conference on Machine Learning<br>
 		<small>
 		2020 Submission Deadline : <strike>February 6, 2020</strike><br>
-		2020 Main Conference : July 25-31, 2020 
+		2020 Main Conference : July 13-18, 2020 
 		</small>
 	</li>
   </ul>

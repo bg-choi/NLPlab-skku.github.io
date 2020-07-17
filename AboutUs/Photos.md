@@ -41,6 +41,13 @@ title: Photos
   
   <br><br>
   
+  <h4 class = "center">#2020</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0090.jpg" title = "20년 7월:교수님 생신 기념 케이크 전달"/></div>
+	<div><img src = "/assets/img/photos/0089.jpg" title = "20년 7월:연구실 여름 인턴십"/></div>
+	<div><img src = "/assets/img/photos/0088.jpg" title = "20년 7월:연구실 여름 인턴십"/></div>
+  </div>
+  
   <h4 class = "center">#2019</h4>
   <div class="slider">
 	<div><img src = "/assets/img/photos/0086.jpg" title = "19년 5월:홈커밍데이"/></div>

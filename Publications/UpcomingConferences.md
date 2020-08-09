@@ -33,19 +33,19 @@ title: upcomingconferences
 	</li>
 	<li><a href="https://2021.eacl.org/" target = "_blank">EACL</a> : European Chapter of the Association for Computational Linguistics<br>
 		<small>
-		2021 Submission Deadline : September 20, 2020 <br>
+		2021 Submission Deadline : September 20, 2020<br>
 		2021 Main Conference : February 19-23, 2021
 		</small>
 	</li>
 	<li><a href="https://coling2020.org/" target = "_blank">COLING</a> : International Conference on Computational Linguistics<br>
 		<small>
-		2020 Submission Deadline : <strike>July 1, 2020</strike> <br>
+		2020 Submission Deadline : <strike>July 1, 2020</strike><br>
 		2020 Main Conference : December 8-13, 2020 
 	  	</small>
 	</li>
 	<li><a href="https://www.conll.org/2020" target = "_blank">CoNLL</a> : Conference on Natural Language Learning<br>
 		<small>
-		2020 Submission Deadline : July 17, 2020 <br>
+		2020 Submission Deadline : <strike>July 17, 2020</strike><br>
 		2020 Main Conference : November 19-20, 2020 
 		</small>
 	</li>
@@ -53,11 +53,7 @@ title: upcomingconferences
 	
   <h3>Information Retrieval</h3>	
   <ul>
-	<li><a href="https://sigir.org/sigir2020/" target = "_blank">SIGIR</a> : Special Interest Group on Information Retrieval<br>
-		<small>
-		2021 Submission Deadline : January 22, 2021<br>
-		2021 Main Conference : July 25-30, 2021
-		</small>
+	<li><a href="https://sigir.org/sigir2020/" target = "_blank">SIGIR</a> : Special Interest Group on Information Retrieval
 	</li>
   </ul>
   

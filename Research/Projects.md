@@ -35,18 +35,21 @@ title: Projects
 		<small>Supported by 한국연구재단 (NRF, 중견과제), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
+	<br>
 	<li>
 		<small>September 2020 ~ December 2020. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능(AI) 학습용 데이터 구축 (자연어/자유대화 분야)."</font></b><br>
 		<small>Supported by 한국정보화진흥원 (NIA), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
+        <br>
 	<li>
 		<small>July 2020 ~ December 2029. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"ICT 명품 인재 양성 사업."</font></b><br>
 		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
+	<br>
 	<li>
 		<small>July 2020 ~ June 2021. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"사전기반의 한자어 그래프 구축 및 구축된 그래프를 이용한 Query Reformulation 연구."</font></b><br>

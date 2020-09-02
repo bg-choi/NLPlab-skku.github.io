@@ -60,7 +60,7 @@ title: Projects
 	<li>
 		<small>April 2020 ~ December 2023. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"뉴럴-심볼릭 모델의 지식 학습 및 추론 기술 개발 (A Neural-Symbolic Model for Knowledge Acquisition and Inference Techniques)."</font></b><br>
-		<small>Supported by 정보통신/방송 기술개발사업, 미래창조과학부 (Ministry of Science, ICT and Future Planning).</small><br>
+		<small>Supported by 정보통신기획평가원 (IITP, 정보통신/방송 기술개발사업), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
 	<br>

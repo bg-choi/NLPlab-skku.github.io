@@ -127,6 +127,12 @@ title: Patents
 <ul>	
 	<li>
 		Patent Application.<br>
+		Youngjoong Ko et al. <b><font color = "#000063">Method and Apparatus for Summarizing Documents using Keyword Clustering. (키워드 클러스터링을 이용한 문서 요약 방법 및 장치)</font></b><br>
+		<small>출원일: 2020.08.24 (출원번호 제 10-2020-0106414호)</small>
+	</li>
+	<br>
+	<li>
+		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">Device and Method for Analyzing Speech-act. (화행 분석 장치 및 방법)</font></b><br>
 		<small>출원일: 2018.11.26 (출원번호 제 10-2018-0147852호)</small>
 	</li>

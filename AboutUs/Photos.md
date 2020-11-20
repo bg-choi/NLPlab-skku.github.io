@@ -43,6 +43,7 @@ title: Photos
   
   <h4 class = "center">#2020</h4>
   <div class="slider">
+	<div><img class = "center" src = "/assets/img/photos/0092.jpg" title = "20년 10월:2020년 국어 정보 처리 시스템 경진 대회 동상 수상"/></div>
 	<div><img class = "center" src = "/assets/img/photos/0091.jpg" title = "20년 10월:2020년 국어 정보 처리 시스템 경진 대회 동상 수상"/></div>
 	<div><img src = "/assets/img/photos/0090.jpg" title = "20년 7월:교수님 생신 기념 케이크 전달"/></div>
 	<div><img src = "/assets/img/photos/0089.jpg" title = "20년 7월:연구실 여름 인턴십"/></div>

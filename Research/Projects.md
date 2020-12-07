@@ -63,19 +63,19 @@ title: Projects
 		<small>Supported by 정보통신기획평가원 (IITP, 정보통신/방송 기술개발사업), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
-	<br>
-	<li>
-		<small>May 2020 ~ November 2020. </small><br>
-		Principal Investigator (PI) involved in <b><font color = "#000063">"딥러닝 Triple 임베딩을 이용한 TripleQA 기술 개발 (Development of the TripleQA System Using Triple Embedding)."</font></b><br>
-		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
-		<small>(NLP lab. SKK University)</small>
-	</li>
 </ul>
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
 <ul>
+	<li>
+		<small>May 2020 ~ November 2020. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"딥러닝 Triple 임베딩을 이용한 TripleQA 기술 개발 (Development of the TripleQA System Using Triple Embedding)."</font></b><br>
+		<small>Supported by 한국전자통신연구원 (ETRI).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
 	<li>
 		<small>April 2017 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"기계학습용 텍스트 데이터 레이블 자동생성 및 검증도구 개발 (Development of Automatic Text Data Labeling and Verification Tools for Machine Learning)."</font></b><br>

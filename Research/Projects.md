@@ -30,6 +30,13 @@ title: Projects
 <p><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
 <ul>
 	<li>
+		<small>March 2021 ~ November 2021. </small><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술 개발."</font></b><br>
+		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
+	<li>
 		<small>September 2020 ~ February 2024. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"이종 지식그래프를 이용한 융합 학습 기반의 대화시스템 개발 (Integrated Learning based Dialogue Systems Using Heterogeneous Knowledge Graphs)."</font></b><br>
 		<small>Supported by 한국연구재단 (NRF, 중견과제), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
@@ -37,7 +44,7 @@ title: Projects
 	</li>
 	<br>
 	<li>
-		<small>September 2020 ~ December 2020. </small><br>
+		<small>September 2020 ~ May 2021. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능(AI) 학습용 데이터 구축 (자연어/자유대화 분야)."</font></b><br>
 		<small>Supported by 한국정보화진흥원 (NIA), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>

@@ -124,7 +124,13 @@ title: Patents
 </blockquote>
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
-<ul>	
+<ul>
+	<li>
+		Patent Application.<br>
+		Youngjoong Ko et al. <b><font color = "#000063">The Fake News Video Detection System and Method. (가짜 뉴스 동영상 탐지 시스템 및 그의 방법)</font></b><br>
+		<small>출원일: 2021.02.19 (출원번호 제 10-2021-0022638호)</small>
+	</li>
+	<br>
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">Method and Apparatus for Summarizing Documents using Keyword Clustering. (키워드 클러스터링을 이용한 문서 요약 방법 및 장치)</font></b><br>

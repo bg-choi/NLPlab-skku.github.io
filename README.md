@@ -4,10 +4,10 @@ This is PyTorch implementation of the Graph-based Query Reformulation System for
 ## Installation
 For training, a GPU is strongly recommended for speed. CPU is supported but training could be extremely slow.
 
-### PyTorch
+**PyTorch**
 The code is based on PyTorch and **supports PyTorch 1.7.1 now** . You can find installation instructions [here](http://pytorch.org/).
 
-### Dependencies
+**Dependencies**
 The code is written in Python 3.7. Its dependencies are summarized in the file ```requirements.txt```. You can install these dependencies like this:
 ```
 pip install -r requirements.txt

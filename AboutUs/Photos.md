@@ -41,6 +41,12 @@ title: Photos
   
   <br><br>
   
+  <h4 class = "center">#2021</h4>
+  <div class="slider">
+	<div><img src = "/assets/img/photos/0096.jpg" title = "21년 5월:스승의 날 기념 케이크 전달"/></div>
+	<div><img src = "/assets/img/photos/0095.jpg" title = "21년 5월:스승의 날 기념 케이크 전달"/></div>
+  </div>
+	
   <h4 class = "center">#2020</h4>
   <div class="slider">
 	<div><img src = "/assets/img/photos/0094.jpg" title = "20년 12월:NHN Diquest 세미나"/></div>

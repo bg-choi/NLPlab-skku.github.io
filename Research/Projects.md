@@ -30,6 +30,20 @@ title: Projects
 <p><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
 <ul>
 	<li>
+		<small>July 2021 ~ December 2021. </small><br>
+		Principal Investigator involved in  <b><font color = "#000063">"Dialogue System based on Large-scaled Pretrained Models."</font></b><br>
+		<small>Supported by LG Electronics.</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
+	<li>
+		<small>April 2021 ~ December 2024. </small><br>
+		Co-Investigator involved in <b><font color = "#000063">"소프트웨어 중심대학 사업."</font></b><br>
+		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
+	<li>
 		<small>March 2021 ~ November 2021. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술 개발."</font></b><br>
 		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>

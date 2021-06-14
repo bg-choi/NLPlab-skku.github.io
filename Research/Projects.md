@@ -72,7 +72,7 @@ title: Projects
 	</li>
 	<br>
 	<li>
-		<small>July 2020 ~ December 2029. </small><br>
+		<small>April 2020 ~ February 2029. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능 대학원 (Graduate School of Artificial Intelligence)."</font></b><br>
 		<small>Supported by 정보통신기획평가원 (IITP, 정보통신/방송 기술개발사업), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>

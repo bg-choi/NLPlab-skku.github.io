@@ -31,14 +31,14 @@ title: Projects
 <ul>
 	<li>
 		<small>July 2021 ~ December 2021. </small><br>
-		Principal Investigator involved in  <b><font color = "#000063">"Dialogue System based on Large-scaled Pretrained Models."</font></b><br>
+		Principal Investigator (PI) involved in <b><font color = "#000063">"Dialogue System based on Large-scaled Pretrained Models."</font></b><br>
 		<small>Supported by LG Electronics.</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
 	<br>
 	<li>
 		<small>April 2021 ~ December 2024. </small><br>
-		Co-Investigator involved in <b><font color = "#000063">"소프트웨어 중심대학 사업."</font></b><br>
+		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"소프트웨어 중심대학 사업."</font></b><br>
 		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
@@ -58,13 +58,6 @@ title: Projects
 	</li>
 	<br>
 	<li>
-		<small>September 2020 ~ May 2021. </small><br>
-		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능(AI) 학습용 데이터 구축 (자연어/자유대화 분야)."</font></b><br>
-		<small>Supported by 한국정보화진흥원 (NIA), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
-		<small>(NLP lab. SKK University)</small>
-	</li>
-        <br>
-	<li>
 		<small>July 2020 ~ December 2029. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"ICT 명품 인재 양성 사업."</font></b><br>
 		<small>Supported by 정보통신기획평가원 (IITP), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
@@ -75,6 +68,13 @@ title: Projects
 		<small>July 2020 ~ June 2021. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"사전기반의 한자어 그래프 구축 및 구축된 그래프를 이용한 Query Reformulation 연구."</font></b><br>
 		<small>Supported by 네이버 (Naver Corp.).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+	<br>
+	<li>
+		<small>July 2020 ~ December 2029. </small><br>
+		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능 대학원 (Graduate School of Artificial Intelligence)."</font></b><br>
+		<small>Supported by 정보통신기획평가원 (IITP, 정보통신/방송 기술개발사업), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
 		<small>(NLP lab. SKK University)</small>
 	</li>
 	<br>
@@ -90,6 +90,13 @@ title: Projects
 <blockquote>
 <p><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
 <ul>
+	<li>
+		<small>September 2020 ~ March 2021. </small><br>
+		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능(AI) 학습용 데이터 구축 (자연어/자유대화 분야)."</font></b><br>
+		<small>Supported by 한국정보화진흥원 (NIA), 과학기술정보통신부 (Ministry of Science and ICT).</small><br>
+		<small>(NLP lab. SKK University)</small>
+	</li>
+        <br>
 	<li>
 		<small>May 2020 ~ November 2020. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"딥러닝 Triple 임베딩을 이용한 TripleQA 기술 개발 (Development of the TripleQA System Using Triple Embedding)."</font></b><br>

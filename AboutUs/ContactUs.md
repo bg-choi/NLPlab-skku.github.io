@@ -2,6 +2,11 @@
 layout: default
 title: ContactUs
 ---
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+.jg{font-family: 'Jeju Gothic', sans-serif;}
+</style>
+
 <h4>About Us</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
@@ -20,7 +25,7 @@ title: ContactUs
 <div class="post">
 	<h1 class="pageTitle">Contact Us</h1>
 	<p class="meta">찾아오시는 길</p>
-	<p>
+	<p class="jg">
 	(16419) 경기도 수원시 장안구 서부로 2066,<br>
 	성균관대학교 (자연과학캠퍼스) N센터 86401호
 	</p>

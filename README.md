@@ -2,8 +2,7 @@
 This is PyTorch implementation of the Graph-based Query Reformulation System for Descriptive Queries of Jargon Words using a Dictionary.
 
 ## 폴더 설명
-
-### Data 폴더
+#### Data 폴더
 1. analysis : 모델 분석을 위한 폴더
     - analysis_{model_name}.json : 모델의 예측 결과와 사용된 모델의 타입 정보 등이 저장된 파일
         * "Query" : 쿼리 입력 문장
@@ -48,23 +47,20 @@ This is PyTorch implementation of the Graph-based Query Reformulation System for
     - QR_valid.json : Graph-based QR 모델의 validation 데이터 파일 (위의 valid 폴더의 데이터와 같음)
     - QR_train.json : Graph-based QR 모델의 train 데이터 파일 (한자어 사전의 표제어 및 표제어의 설명)
 
-### 모델 logging 폴더 
+#### 모델 logging 폴더 
 - {model_name}.log : 모델의 log 파일이 저장된 파일 
 
 
 ## Installation
 For training, a GPU is strongly recommended for speed. CPU is supported but training could be extremely slow.
-
-### PyTorch
+#### PyTorch
 The code is based on PyTorch and **supports PyTorch 1.7.1 now** . You can find installation instructions [here](http://pytorch.org/).
-
-### Dependencies
+#### Dependencies
 The code is written in Python 3.7. Its dependencies are summarized in the file ```requirements.txt```. You can install these dependencies like this:
 ```
 pip install -r requirements.txt
 ```
-
-### KorBERT Tokenization
+#### KorBERT Tokenization
 - tokenization.py : ETRI KorBERT 에서 제공하는 tokenization 파일. 모델 학습 시 해당 파일을 pytorch-pretrained-bert 라이브러리 폴더에 존재하는 tokenization 파일과 대체하여 사용
 
 

@@ -51,9 +51,6 @@ This is PyTorch implementation of the Graph-based Query Reformulation System for
 ### 모델 logging 폴더 
 - {model_name}.log : 모델의 log 파일이 저장된 파일 
 
-## KorBERT Tokenization
-- tokenization.py : ETRI KorBERT 에서 제공하는 tokenization 파일. 모델 학습 시 해당 파일을 pytorch-pretrained-bert 라이브러리 폴더에 존재하는 tokenization 파일과 대체하여 사용
-
 
 ## Installation
 For training, a GPU is strongly recommended for speed. CPU is supported but training could be extremely slow.
@@ -66,6 +63,10 @@ The code is written in Python 3.7. Its dependencies are summarized in the file `
 ```
 pip install -r requirements.txt
 ```
+
+### KorBERT Tokenization
+- tokenization.py : ETRI KorBERT 에서 제공하는 tokenization 파일. 모델 학습 시 해당 파일을 pytorch-pretrained-bert 라이브러리 폴더에 존재하는 tokenization 파일과 대체하여 사용
+
 
 ## Usage
 **Graph-search Model**

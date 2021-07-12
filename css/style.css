@@ -809,7 +809,8 @@ HEADER STYLING
       height: 3em; }
       .header .container {
          padding: 0;
-         max-width: 100%; }
+         max-width: 100%;
+         height: inherit; /* bg edit */ }
       .header h1 {
          margin: 0;
          float: left;
@@ -1065,6 +1066,7 @@ HEADER STYLING
     padding-bottom: 2em; }
     .header .container {
       position: relative;
+      height: auto; /* bg edit */
       top: 50%;
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);

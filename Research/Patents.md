@@ -2,6 +2,10 @@
 layout: default
 title: Patents
 ---
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+.jg{font-family: 'Jeju Gothic', sans-serif;}
+</style>
 <a name="top"></a>
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
@@ -18,7 +22,7 @@ title: Patents
   </div>
 
 
-<div class="post">
+<div class="post jg">
 	<h1 class="pageTitle">Patents</h1>
 	<p class="meta">특허</p>
 	<div class="linklink" style = "text-align:center;">
@@ -27,7 +31,7 @@ title: Patents
 	<br>
 </div>
 <blockquote>
-<p><a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a></p>
+<p class="jg"><a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a></p>
 <ul>
 	<li>
 		Patent Registration.<br>
@@ -123,7 +127,7 @@ title: Patents
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
+<p class="jg"><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
 <ul>
 	<li>
 		Patent Application.<br>
@@ -158,7 +162,7 @@ title: Patents
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
+<p class="jg"><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
 <ul>
 	<li>
 		Program Copyright Registration<br>

@@ -796,6 +796,7 @@ PAGE STYLES
 /***************
 HEADER STYLING
 ***************/
+@media screen
 #header #logo img {
     max-width: 100%;
     height: auto;
@@ -819,7 +820,9 @@ HEADER STYLING
     line-height: 3em;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    width: auto;
+    height: auto; }
     .header h1 a {
       color: white;
       text-decoration: none; }

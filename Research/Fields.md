@@ -2,6 +2,10 @@
 layout: default
 title: Fields
 ---
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+.jg{font-family: 'Jeju Gothic', sans-serif;}
+</style>
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right;">
           <ul class="posts-list">
@@ -17,7 +21,7 @@ title: Fields
   </div>
 
 
-<div class="post">
+<div class="post jg">
   <h1 class="pageTitle">Fields</h1>	
   <p class="meta">분야</p>
   <h2>1. 자연어 처리 기반 기술</h2>

@@ -8,7 +8,7 @@ title: Introduction
 .jg{font-family: 'Jeju Gothic', sans-serif;}
 </style>
  <h4>About Us</h4>
- <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
+ <div class="linklink jg" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li>Introduction(here)
             </li>

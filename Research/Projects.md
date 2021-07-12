@@ -32,7 +32,7 @@ title: Projects
 </div>
 <blockquote>
 <p class="jg"><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		<small>July 2021 ~ December 2021. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"Dialogue System based on Large-scaled Pretrained Models."</font></b><br>
@@ -93,7 +93,7 @@ title: Projects
 </blockquote>
 <blockquote>
 <p class="jg"><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		<small>September 2020 ~ March 2021. </small><br>
 		Co-Principal Investigator (Co-PI) involved in <b><font color = "#000063">"인공지능(AI) 학습용 데이터 구축 (자연어/자유대화 분야)."</font></b><br>
@@ -392,7 +392,7 @@ title: Projects
 </blockquote>
 <blockquote>
 <p class="jg"><a name="3"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		<small>September 2014 ~ December 2019. </small><br>
 		Principal Investigator (PI) involved in <b><font color = "#000063">"AAC용 문장생성기술 (Sentence Generation Techniques for Augmentative and Alternative Communication (AAC))."</font></b><br>

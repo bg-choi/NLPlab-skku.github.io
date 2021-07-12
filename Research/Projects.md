@@ -2,6 +2,10 @@
 layout: default
 title: Projects
 ---
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+.jg{font-family: 'Jeju Gothic', sans-serif;}
+</style>
 <a name="top"></a>
 <h4>Research</h4>
  <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px;align:right;">
@@ -18,7 +22,7 @@ title: Projects
   </div>
 
 
-<div class="post">
+<div class="post jg">
 	<h1 class="pageTitle">Projects</h1>	
 	<p class="meta">프로젝트</p>
 	<div class="linklink" style = "text-align:center;">
@@ -27,7 +31,7 @@ title: Projects
 	<br>
 </div>
 <blockquote>
-<p><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
+<p class="jg"><a name="1"><font style = "color:#0000A5;">#Current Projects</font></a></p>
 <ul>
 	<li>
 		<small>July 2021 ~ December 2021. </small><br>
@@ -88,7 +92,7 @@ title: Projects
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
+<p class="jg"><a name="2"><font style = "color:#0000A5;">#Past Projects</font></a></p>
 <ul>
 	<li>
 		<small>September 2020 ~ March 2021. </small><br>
@@ -387,7 +391,7 @@ title: Projects
 <p><small><a href="#top">Back to Top</a></small></p>
 </blockquote>
 <blockquote>
-<p><a name="3"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
+<p class="jg"><a name="3"><font style = "color:#0000A5;">#Transfer of Technical Know-how</font></a></p>
 <ul>
 	<li>
 		<small>September 2014 ~ December 2019. </small><br>

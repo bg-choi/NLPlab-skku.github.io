@@ -29,7 +29,7 @@ title: ContactUs
 	(16419) 경기도 수원시 장안구 서부로 2066,<br>
 	성균관대학교 (자연과학캠퍼스) N센터 86401호
 	</p>
-	<p>
+	<p class="jg">
 	N Center 86401, Sungkyunkwan University (Natural Science Campus),<br>
 	(16419) 2066 Seobu-ro, Jang-gu, Suwon-si Gyeonggi-do, South Korea
 	</p>

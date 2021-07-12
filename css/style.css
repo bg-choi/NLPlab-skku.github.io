@@ -798,37 +798,37 @@ PAGE STYLES
 /***************
 HEADER STYLING
 ***************/
-@media screen and (max-width:799px){
-   .header {
-      background-color: black;  /*seagreen  #000070   #005000*/
-      /*background-im age: url("../assets/img//touring.jpg");*/
-      background-size: cover;
-      background-position: center center;
-      color: white;
+
+.header {
+   background-color: black;  /*seagreen  #000070   #005000*/
+   /*background-im age: url("../assets/img//touring.jpg");*/
+   background-size: cover;
+   background-position: center center;
+   color: white;
+   padding: 0;
+   height: 3em; }
+   .header .container {
       padding: 0;
-      height: 3em; }
-      .header .container {
-         padding: 0;
-         max-width: 100%; }
-      .header h1 {
-         margin: 0;
-         float: left;
-         padding-left: 2rem;
-         font-size: 1em;
-         line-height: 3em;
-         font-family: "Open Sans", Helvetica, Arial, sans-serif;
-         font-weight: 800;
-         text-transform: uppercase;
-         width: auto;
-         height: auto; }
-      .header h1 a {
-         color: white;
-         text-decoration: none; }
-      .header h1 img {
-         max-width: 100%;
-         height: auto;
-         }
-}
+      max-width: 100%; }
+   .header h1 {
+      margin: 0;
+      float: left;
+      padding-left: 2rem;
+      font-size: 1em;
+      line-height: 3em;
+      font-family: "Open Sans", Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      text-transform: uppercase;
+      width: auto;
+      height: auto; }
+   .header h1 a {
+      color: white;
+      text-decoration: none; }
+   .header h1 img {
+      max-width: 100%;
+      height: auto;
+      }
+
 
 /***************
 POST STYLING
@@ -1073,6 +1073,9 @@ HEADER STYLING
       line-height: 1;
       letter-spacing: -3px;
       padding-left: 0; }
+      .header h1 img {
+         max-width: 100%;
+         height: auto;}
     .header nav {
       float: left;
       clear: left; }

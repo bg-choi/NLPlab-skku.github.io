@@ -32,7 +32,7 @@ title: Patents
 </div>
 <blockquote>
 <p class="jg"><a name="1"><font style = "color:#0000A5;">#Patent Registration</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		Patent Registration.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">System and Method for Expansion Chatting Corpus Based on Similarity Measure Using Utterance Embedding by CNN. (합성곱 신경망에 의한 발화 임베딩을 사용한 유사도측정 기반의 채팅 말뭉치 확장을 위한 장치 및 방법)</font></b><br>
@@ -128,7 +128,7 @@ title: Patents
 </blockquote>
 <blockquote>
 <p class="jg"><a name="2"><font style = "color:#0000A5;">#Patent Application</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		Patent Application.<br>
 		Youngjoong Ko et al. <b><font color = "#000063">The Fake News Video Detection System and Method. (가짜 뉴스 동영상 탐지 시스템 및 그의 방법)</font></b><br>
@@ -163,7 +163,7 @@ title: Patents
 </blockquote>
 <blockquote>
 <p class="jg"><a name="3"><font style = "color:#0000A5;">#Program Copyright Registration</font></a></p>
-<ul>
+<ul class="jg">
 	<li>
 		Program Copyright Registration<br>
 		Youngjoong Ko et al. <b><font color = "#000063">원격 지도(Distant Supervision) 기법을 이용한 개체명 인식 프로그램.</font></b><br>

@@ -8,7 +8,7 @@ title: Patents
 </style>
 <a name="top"></a>
 <h4>Research</h4>
- <div class="linklink" style = "background-color:#ffffff;border-radius:0 15px">
+ <div class="linklink jg" style = "background-color:#ffffff;border-radius:0 15px">
           <ul class="posts-list">
             <li class="post-link">
                 <a class="post-title" href="https://nlplab-skku.github.io/Research/Fields/">Fields</a>

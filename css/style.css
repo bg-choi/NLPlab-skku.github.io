@@ -821,13 +821,13 @@ HEADER STYLING
          text-transform: uppercase;
          width: auto;
          height: auto; }
-      .header h1 a {
-         color: white;
-         text-decoration: none; }
-      .header h1 img {
-         max-width: 100%;
-         height: auto;
-         }
+         .header h1 a {
+            color: white;
+            text-decoration: none; }
+         .header h1 img {
+            max-width: 100%;
+            height: auto;
+            }
 }
 
 

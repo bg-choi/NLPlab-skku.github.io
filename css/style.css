@@ -821,10 +821,14 @@ HEADER STYLING
          font-weight: 800;
          text-transform: uppercase;
          width: auto;
-         height: auto; }
+         height: inherit; /* bg edit */ }
          .header h1 a {
             color: white;
-            text-decoration: none; }
+            text-decoration: none;
+            position: fixed; /* bg edit */
+            font-size: 100%; /* bg edit */
+            padding-left: 0.1em; /*bg edit */
+            padding-top: 0.15em; /*bg edit */ }
          .header h1 img {
             max-width: 100%;
             height: auto;

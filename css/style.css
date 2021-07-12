@@ -819,6 +819,10 @@ HEADER STYLING
     .header h1 a {
       color: white;
       text-decoration: none; }
+   .header h1 img {
+      width: auto;
+      height: auto;
+   }
 
 /***************
 POST STYLING
